@@ -47,12 +47,6 @@ in Power BI Desktop to explore it interactively.
 If you want to rebuild it, run `python data/generate_hr_data.py` to create the CSV, then open
 the `.pbix` (my build notes are in `docs/BUILD_GUIDE.md`).
 
-## What I'd do next
-
-- Rebuild it on a real HR dataset instead of synthetic data.
-- Add a simple predictive risk score per employee rather than a rules-based flag.
-- Add trend-over-time once there's historical data to work with.
-
 ---
 
 Built by Mrunali Patil while transitioning into People Analytics. Feedback is welcome —
