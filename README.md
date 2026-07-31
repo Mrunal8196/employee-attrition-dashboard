@@ -13,8 +13,8 @@ there's no real personal data involved.)*
 
 ## Screenshots
 
-![Overview page](screenshots/page1.png)
-![Drivers and risk page](screenshots/page2.png)
+![Overview page](page1.png)
+![Drivers and risk page](page2.png)
 
 You can also open `attrition_dashboard.pdf` to see both pages, or `attrition_dashboard.pbix`
 in Power BI Desktop to explore it interactively.
