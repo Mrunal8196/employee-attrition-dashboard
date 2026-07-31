@@ -1,0 +1,1501 @@
+EmployeeID,Age,Gender,Department,JobRole,Education,MaritalStatus,BusinessTravel,OverTime,MonthlyIncome,YearsAtCompany,TotalWorkingYears,YearsSinceLastPromotion,DistanceFromHome,JobSatisfaction,WorkLifeBalance,EnvironmentSatisfaction,Attrition
+1001,37,Male,HR,HR Specialist,College,Divorced,Travel_Rarely,No,3061,4,16,4,3,1,4,1,No
+1002,46,Male,HR,Manager,College,Married,Travel_Rarely,Yes,10696,18,23,6,9,1,2,4,Yes
+1003,36,Male,IT,IT Manager,Bachelor,Married,Travel_Rarely,Yes,10448,13,13,1,21,4,1,3,Yes
+1004,25,Male,Sales,Sales Representative,Master,Divorced,Travel_Frequently,Yes,3977,5,5,5,7,3,2,3,Yes
+1005,35,Male,HR,Manager,Below College,Married,Travel_Rarely,Yes,8969,12,12,1,27,2,3,1,Yes
+1006,40,Male,Finance,Manager,Master,Divorced,Travel_Rarely,No,8785,12,17,9,8,4,2,3,No
+1007,34,Male,R&D,Laboratory Technician,Master,Married,Travel_Rarely,Yes,5785,10,10,6,6,1,1,2,Yes
+1008,36,Male,Finance,Manager,Bachelor,Divorced,Travel_Frequently,No,10390,16,16,4,6,3,1,3,No
+1009,26,Female,IT,IT Manager,Bachelor,Single,Travel_Frequently,Yes,7226,2,2,1,11,3,2,1,Yes
+1010,25,Male,Sales,Manager,College,Divorced,Travel_Frequently,No,7939,2,2,1,18,2,2,4,No
+1011,32,Female,Finance,Manager,Bachelor,Divorced,Travel_Rarely,No,8210,9,9,9,3,4,1,2,No
+1012,23,Male,Sales,Manager,College,Single,Travel_Rarely,No,7120,1,3,1,16,1,2,3,Yes
+1013,32,Male,R&D,Laboratory Technician,Doctorate,Single,Non-Travel,No,6379,12,12,5,21,4,4,1,No
+1014,32,Female,Sales,Sales Executive,Master,Divorced,Non-Travel,Yes,5657,11,11,10,26,4,2,1,No
+1015,35,Male,IT,Data Analyst,Doctorate,Married,Travel_Frequently,No,5776,12,12,7,1,4,1,2,No
+1016,55,Female,HR,Manager,Bachelor,Divorced,Travel_Frequently,No,7117,6,34,4,2,1,1,3,Yes
+1017,31,Male,Finance,Accountant,Bachelor,Divorced,Travel_Rarely,No,4428,2,7,2,29,2,4,1,Yes
+1018,53,Female,HR,Manager,Master,Married,Travel_Rarely,No,7810,6,31,6,5,3,2,3,No
+1019,56,Male,Sales,Manager,Master,Married,Travel_Rarely,Yes,11554,17,36,7,3,3,2,3,No
+1020,53,Male,IT,IT Manager,College,Divorced,Travel_Rarely,No,7986,9,29,4,29,1,2,3,No
+1021,60,Female,IT,Data Analyst,Below College,Married,Travel_Rarely,Yes,7448,15,36,10,9,1,1,4,No
+1022,55,Female,Sales,Sales Representative,College,Single,Non-Travel,Yes,3192,0,31,0,18,2,1,3,No
+1023,42,Male,IT,Data Analyst,Doctorate,Single,Travel_Frequently,No,4520,3,21,0,6,4,2,2,No
+1024,35,Female,Finance,Financial Analyst,Master,Married,Travel_Rarely,No,3158,3,14,1,27,1,4,2,Yes
+1025,41,Female,HR,Recruiter,Doctorate,Single,Travel_Rarely,No,4236,8,21,4,29,4,3,1,Yes
+1026,40,Female,R&D,Laboratory Technician,Below College,Divorced,Travel_Rarely,Yes,7451,16,16,10,14,2,3,1,Yes
+1027,41,Female,R&D,Manager,Bachelor,Single,Travel_Rarely,No,9177,9,21,6,10,4,3,4,No
+1028,56,Female,Finance,Manager,Bachelor,Divorced,Travel_Rarely,No,10630,17,33,7,26,3,3,2,No
+1029,30,Male,Sales,Sales Representative,College,Single,Travel_Rarely,No,5377,8,8,0,10,3,1,2,No
+1030,49,Female,R&D,Research Scientist,Master,Single,Travel_Frequently,No,3999,6,25,6,5,4,4,4,No
+1031,34,Male,Sales,Sales Representative,Bachelor,Divorced,Travel_Frequently,Yes,4773,10,10,9,26,2,1,4,Yes
+1032,59,Female,IT,Software Engineer,Master,Married,Travel_Rarely,No,7039,14,35,8,8,4,4,3,No
+1033,24,Female,Sales,Sales Representative,Master,Divorced,Travel_Rarely,No,3223,3,3,3,13,1,2,2,No
+1034,23,Male,R&D,Laboratory Technician,Bachelor,Married,Travel_Frequently,No,2012,0,0,0,12,1,4,4,No
+1035,34,Female,IT,IT Manager,Master,Divorced,Travel_Rarely,No,8869,8,13,7,22,1,4,3,No
+1036,21,Female,Finance,Manager,College,Married,Travel_Rarely,No,7275,0,0,0,15,1,4,2,No
+1037,37,Female,R&D,Laboratory Technician,Master,Divorced,Non-Travel,No,3831,2,15,0,3,1,3,2,No
+1038,59,Male,Sales,Sales Executive,Master,Single,Travel_Rarely,No,4432,4,38,0,9,1,2,4,No
+1039,26,Male,Sales,Sales Representative,Master,Divorced,Travel_Rarely,No,3155,4,4,2,19,4,4,2,No
+1040,56,Male,HR,HR Specialist,Bachelor,Married,Travel_Rarely,No,6275,17,34,5,28,3,1,3,No
+1041,29,Female,IT,IT Manager,Master,Married,Travel_Rarely,No,8392,8,8,3,27,3,4,4,No
+1042,35,Female,Sales,Sales Representative,College,Single,Travel_Rarely,No,6492,11,11,4,11,3,1,4,No
+1043,37,Male,Finance,Manager,Bachelor,Married,Travel_Rarely,Yes,8414,6,13,0,16,4,4,2,Yes
+1044,35,Female,Sales,Manager,Bachelor,Married,Travel_Rarely,No,8970,11,11,1,23,3,4,3,No
+1045,54,Male,R&D,Manager,Bachelor,Married,Travel_Rarely,No,8705,6,33,0,7,3,3,1,No
+1046,23,Female,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,No,3675,2,2,0,10,4,1,1,Yes
+1047,24,Female,IT,Data Analyst,Doctorate,Single,Travel_Frequently,No,3911,1,1,0,19,1,2,2,No
+1048,59,Male,R&D,Manager,Bachelor,Divorced,Travel_Frequently,No,9125,12,35,1,19,4,3,4,No
+1049,36,Male,Sales,Sales Executive,Master,Married,Travel_Rarely,Yes,4586,7,15,3,15,1,2,1,Yes
+1050,24,Male,Sales,Sales Representative,Bachelor,Married,Travel_Frequently,No,3615,2,2,0,8,2,4,1,Yes
+1051,56,Female,IT,IT Manager,Bachelor,Single,Travel_Rarely,No,7274,3,33,3,18,3,4,3,No
+1052,25,Male,HR,HR Specialist,Master,Married,Travel_Rarely,No,3213,1,1,1,17,3,1,2,No
+1053,50,Female,R&D,Research Scientist,Bachelor,Divorced,Travel_Frequently,No,5343,10,27,8,23,1,2,3,Yes
+1054,40,Male,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,No,6111,16,17,10,7,1,4,4,No
+1055,55,Male,Sales,Sales Representative,Bachelor,Single,Travel_Rarely,No,7493,14,33,4,21,4,1,1,No
+1056,34,Male,R&D,Research Scientist,Bachelor,Married,Travel_Frequently,No,3792,3,11,1,23,2,4,3,No
+1057,58,Male,Sales,Sales Executive,Bachelor,Married,Travel_Frequently,No,5680,8,38,7,1,4,3,3,No
+1058,42,Female,R&D,Laboratory Technician,College,Married,Non-Travel,No,7421,17,18,7,13,3,2,2,No
+1059,29,Female,IT,Software Engineer,Master,Single,Travel_Rarely,No,3204,4,9,3,17,3,1,4,No
+1060,50,Female,Finance,Accountant,Bachelor,Married,Travel_Frequently,No,8704,19,28,0,11,1,3,4,No
+1061,38,Male,Sales,Manager,Master,Single,Travel_Rarely,No,10171,13,18,0,10,1,4,2,No
+1062,35,Female,R&D,Research Scientist,College,Married,Travel_Rarely,Yes,4269,5,11,3,19,1,4,2,Yes
+1063,38,Male,Sales,Sales Representative,Bachelor,Married,Travel_Frequently,No,6435,14,18,1,28,3,4,3,No
+1064,38,Female,R&D,Manager,College,Married,Travel_Rarely,Yes,10088,12,18,3,26,1,4,3,No
+1065,28,Male,HR,Manager,Bachelor,Married,Travel_Rarely,No,7684,8,8,2,10,1,3,2,No
+1066,53,Female,IT,Software Engineer,Bachelor,Single,Travel_Rarely,No,5647,8,32,3,4,4,3,3,No
+1067,55,Female,IT,Software Engineer,Master,Divorced,Travel_Rarely,Yes,6377,12,35,10,24,1,4,3,No
+1068,50,Male,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,No,8112,17,26,0,23,2,1,4,No
+1069,27,Male,R&D,Laboratory Technician,Master,Married,Travel_Rarely,Yes,4702,6,6,6,24,4,3,4,No
+1070,22,Female,R&D,Laboratory Technician,Bachelor,Divorced,Travel_Rarely,No,3654,1,1,1,12,2,3,1,Yes
+1071,25,Male,Finance,Financial Analyst,College,Divorced,Travel_Rarely,Yes,3611,0,1,0,19,3,2,2,No
+1072,58,Male,Sales,Sales Executive,Below College,Single,Travel_Rarely,No,4353,4,36,1,28,3,2,1,No
+1073,23,Male,Sales,Sales Representative,Bachelor,Single,Travel_Rarely,Yes,3593,0,0,0,12,1,4,4,No
+1074,53,Female,Sales,Manager,College,Divorced,Travel_Frequently,No,11373,20,30,1,22,1,4,4,No
+1075,24,Male,R&D,Research Scientist,Bachelor,Single,Travel_Rarely,No,3429,2,2,0,17,3,4,3,No
+1076,33,Female,HR,Manager,Bachelor,Married,Travel_Rarely,No,8744,7,10,5,4,4,4,4,No
+1077,24,Male,HR,Recruiter,Bachelor,Divorced,Travel_Rarely,No,3701,2,4,1,18,3,2,1,No
+1078,23,Female,Finance,Financial Analyst,College,Divorced,Travel_Rarely,No,2459,0,0,0,28,2,2,4,Yes
+1079,59,Male,IT,IT Manager,College,Single,Travel_Rarely,Yes,8218,8,35,6,1,3,3,3,Yes
+1080,25,Male,IT,Data Analyst,Master,Divorced,Travel_Rarely,No,3977,2,2,0,11,2,3,3,Yes
+1081,25,Female,IT,Data Analyst,Bachelor,Married,Travel_Rarely,No,2941,2,2,1,25,4,4,3,No
+1082,39,Male,R&D,Manager,Master,Married,Travel_Rarely,No,9117,12,18,1,7,1,1,2,Yes
+1083,28,Female,IT,Data Analyst,Below College,Single,Travel_Rarely,No,4764,4,4,0,24,3,1,4,No
+1084,45,Female,R&D,Manager,Master,Single,Travel_Rarely,No,7953,3,23,0,23,3,2,4,No
+1085,25,Female,R&D,Manager,College,Married,Travel_Rarely,Yes,7336,3,3,1,17,2,1,1,Yes
+1086,31,Male,Sales,Sales Executive,Bachelor,Divorced,Travel_Frequently,No,4644,5,11,2,29,4,4,4,No
+1087,48,Male,HR,HR Specialist,Bachelor,Married,Non-Travel,No,6539,14,25,5,3,3,1,3,No
+1088,59,Female,Sales,Sales Executive,Bachelor,Single,Travel_Frequently,No,7158,18,36,7,20,1,4,2,Yes
+1089,25,Male,Finance,Financial Analyst,Bachelor,Married,Travel_Rarely,No,4013,5,5,0,10,4,2,3,No
+1090,41,Male,HR,HR Specialist,College,Married,Travel_Rarely,No,6193,12,17,10,22,2,3,1,No
+1091,25,Female,R&D,Manager,Bachelor,Married,Non-Travel,No,7073,1,1,1,22,3,2,1,Yes
+1092,32,Male,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,Yes,4794,4,11,1,25,1,1,3,Yes
+1093,30,Female,HR,Manager,Master,Single,Travel_Rarely,No,9540,10,10,4,24,2,4,3,No
+1094,43,Female,IT,Data Analyst,College,Married,Non-Travel,No,5890,9,20,7,20,4,2,2,No
+1095,53,Male,R&D,Research Scientist,College,Single,Travel_Frequently,No,4201,2,31,1,14,3,4,2,No
+1096,52,Female,R&D,Laboratory Technician,Master,Divorced,Travel_Rarely,No,5652,12,31,2,4,3,2,1,Yes
+1097,28,Female,Sales,Sales Representative,College,Divorced,Travel_Rarely,Yes,3691,5,5,3,27,1,1,3,Yes
+1098,27,Male,Sales,Sales Representative,Bachelor,Divorced,Non-Travel,No,5213,6,6,4,29,4,1,1,No
+1099,47,Male,IT,Software Engineer,College,Divorced,Travel_Rarely,Yes,5822,11,23,8,12,4,2,1,No
+1100,22,Female,R&D,Laboratory Technician,Master,Single,Travel_Rarely,No,2493,0,0,0,24,3,1,3,Yes
+1101,31,Female,R&D,Laboratory Technician,College,Single,Travel_Frequently,Yes,4075,8,8,5,10,2,1,4,No
+1102,50,Female,R&D,Manager,Master,Married,Travel_Frequently,Yes,11059,20,30,7,4,3,1,3,No
+1103,51,Female,R&D,Research Scientist,Doctorate,Single,Travel_Rarely,Yes,6881,16,29,5,20,1,4,1,Yes
+1104,39,Female,R&D,Laboratory Technician,Master,Married,Travel_Rarely,Yes,5336,13,15,6,24,4,3,4,Yes
+1105,24,Female,Finance,Accountant,Master,Married,Non-Travel,No,4238,2,2,0,20,2,1,2,Yes
+1106,44,Male,HR,Recruiter,Bachelor,Divorced,Travel_Rarely,No,4562,4,20,2,3,3,3,4,No
+1107,21,Male,Sales,Sales Executive,College,Divorced,Travel_Rarely,No,3441,0,0,0,15,1,3,3,Yes
+1108,48,Male,Sales,Sales Executive,Bachelor,Married,Travel_Frequently,No,3626,2,25,2,18,3,3,1,No
+1109,43,Male,IT,Data Analyst,Bachelor,Married,Travel_Frequently,No,4239,6,23,4,18,2,4,1,Yes
+1110,39,Female,Finance,Accountant,Bachelor,Married,Travel_Rarely,No,7991,16,16,8,11,4,1,2,No
+1111,60,Male,IT,IT Manager,College,Divorced,Travel_Rarely,No,9372,13,39,8,6,1,1,2,No
+1112,32,Female,IT,Software Engineer,Bachelor,Divorced,Travel_Rarely,No,5100,11,11,9,22,1,2,2,Yes
+1113,22,Female,IT,Data Analyst,Bachelor,Divorced,Travel_Rarely,No,3564,1,1,1,10,1,4,3,Yes
+1114,46,Female,Sales,Sales Representative,Bachelor,Married,Travel_Rarely,No,5003,6,23,2,28,2,3,3,No
+1115,49,Male,Sales,Sales Executive,Master,Married,Travel_Rarely,Yes,7436,14,27,2,13,1,1,3,No
+1116,40,Male,Finance,Manager,College,Married,Travel_Rarely,No,10268,15,19,3,1,4,4,3,No
+1117,38,Female,R&D,Research Scientist,Master,Divorced,Travel_Rarely,No,6382,14,14,6,5,3,1,1,No
+1118,55,Male,R&D,Manager,Master,Single,Travel_Rarely,No,11440,17,33,1,20,4,4,3,No
+1119,55,Female,IT,Software Engineer,Master,Married,Travel_Rarely,No,3579,6,34,1,5,4,1,1,No
+1120,59,Female,R&D,Laboratory Technician,Bachelor,Single,Travel_Rarely,No,6451,12,38,10,19,3,3,4,Yes
+1121,60,Male,R&D,Laboratory Technician,Bachelor,Divorced,Travel_Rarely,Yes,6099,15,36,6,17,2,1,4,Yes
+1122,56,Male,HR,HR Specialist,Bachelor,Divorced,Travel_Frequently,No,3414,0,35,0,7,4,2,4,No
+1123,40,Female,R&D,Manager,Master,Divorced,Travel_Rarely,No,9618,12,16,4,12,2,4,3,No
+1124,37,Female,Sales,Sales Executive,Bachelor,Divorced,Travel_Rarely,No,5232,9,16,1,12,2,4,3,No
+1125,42,Male,R&D,Laboratory Technician,Master,Single,Travel_Rarely,No,3593,1,20,1,9,1,3,4,No
+1126,26,Male,HR,HR Specialist,Bachelor,Married,Travel_Rarely,No,2455,1,5,0,14,2,2,1,Yes
+1127,46,Female,R&D,Research Scientist,Master,Single,Travel_Rarely,Yes,8322,20,23,3,2,3,3,3,No
+1128,31,Female,IT,Data Analyst,Doctorate,Married,Travel_Frequently,No,4168,1,10,0,24,4,4,2,No
+1129,38,Female,HR,Recruiter,College,Single,Travel_Rarely,No,5894,14,14,10,26,2,4,3,No
+1130,41,Female,Sales,Manager,Master,Single,Travel_Frequently,Yes,7177,6,17,3,13,4,4,3,No
+1131,44,Male,Sales,Sales Representative,Master,Single,Travel_Rarely,No,5338,8,21,7,12,3,1,3,No
+1132,39,Male,R&D,Manager,Master,Divorced,Travel_Rarely,No,8563,11,17,8,15,2,2,4,No
+1133,33,Male,IT,IT Manager,Bachelor,Divorced,Travel_Rarely,No,6126,2,9,2,27,3,1,1,Yes
+1134,48,Male,R&D,Manager,Bachelor,Divorced,Non-Travel,No,10270,18,27,7,17,4,1,4,No
+1135,45,Female,R&D,Research Scientist,Bachelor,Single,Travel_Frequently,No,4934,6,25,0,3,1,4,3,No
+1136,46,Male,R&D,Laboratory Technician,Master,Married,Travel_Rarely,No,7918,20,25,10,28,4,3,4,No
+1137,42,Male,IT,Data Analyst,Doctorate,Married,Travel_Rarely,No,7798,17,21,8,1,2,2,1,No
+1138,35,Female,R&D,Research Scientist,Doctorate,Single,Travel_Rarely,Yes,4259,4,13,0,25,1,1,4,Yes
+1139,23,Male,Sales,Manager,College,Divorced,Travel_Rarely,No,7281,3,3,2,10,2,1,2,Yes
+1140,53,Male,IT,IT Manager,Doctorate,Divorced,Travel_Rarely,Yes,7846,9,30,8,12,2,4,4,Yes
+1141,39,Female,R&D,Research Scientist,Master,Divorced,Travel_Rarely,No,7900,17,18,6,15,2,3,2,No
+1142,36,Male,Sales,Sales Executive,Master,Single,Travel_Rarely,Yes,6596,14,14,10,24,4,3,1,No
+1143,32,Male,Sales,Sales Executive,Doctorate,Single,Travel_Rarely,No,3933,6,9,6,7,3,3,1,No
+1144,33,Female,Sales,Manager,Bachelor,Married,Travel_Rarely,No,9592,12,12,7,21,3,4,4,No
+1145,50,Female,IT,IT Manager,Bachelor,Divorced,Travel_Rarely,No,8283,11,29,6,9,1,2,2,No
+1146,44,Male,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,No,8229,17,21,5,24,3,3,4,No
+1147,31,Male,IT,Software Engineer,Master,Single,Non-Travel,No,3094,1,7,0,5,1,1,1,Yes
+1148,23,Female,R&D,Laboratory Technician,Bachelor,Married,Non-Travel,Yes,3084,0,0,0,24,4,1,1,No
+1149,26,Male,Finance,Accountant,College,Married,Travel_Rarely,No,4878,5,5,1,13,3,3,3,No
+1150,25,Male,Sales,Manager,College,Married,Travel_Rarely,No,8189,5,5,2,6,4,1,1,No
+1151,53,Male,IT,Data Analyst,Master,Married,Travel_Frequently,No,5392,6,32,4,3,4,3,1,No
+1152,21,Male,Sales,Sales Representative,College,Married,Travel_Rarely,No,2332,0,0,0,19,4,1,3,Yes
+1153,25,Female,IT,IT Manager,Bachelor,Divorced,Travel_Rarely,No,8234,3,5,3,25,1,3,4,No
+1154,47,Male,R&D,Laboratory Technician,College,Divorced,Travel_Rarely,Yes,5168,12,23,2,9,3,2,1,No
+1155,25,Male,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,No,2928,3,3,3,6,3,1,2,Yes
+1156,25,Female,Sales,Manager,College,Married,Travel_Rarely,No,6671,0,2,0,17,4,1,2,Yes
+1157,30,Female,R&D,Research Scientist,Master,Married,Travel_Rarely,No,5933,8,8,3,8,1,3,3,No
+1158,45,Female,Sales,Sales Executive,Master,Divorced,Travel_Frequently,No,5881,12,21,2,27,3,4,3,No
+1159,32,Female,HR,Manager,Master,Married,Travel_Rarely,No,8731,5,10,3,19,3,3,4,No
+1160,57,Male,Finance,Accountant,Master,Single,Travel_Frequently,No,3633,0,33,0,10,4,2,4,No
+1161,35,Female,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,No,6442,13,14,0,13,1,4,4,No
+1162,58,Male,R&D,Manager,Master,Married,Travel_Frequently,No,8403,7,38,5,21,3,2,1,No
+1163,26,Female,R&D,Research Scientist,Master,Divorced,Travel_Rarely,No,4051,5,5,1,15,2,4,3,No
+1164,38,Female,Sales,Sales Executive,Master,Divorced,Travel_Rarely,No,3452,3,18,3,15,2,3,3,Yes
+1165,40,Male,IT,Software Engineer,Master,Single,Travel_Frequently,No,3577,1,18,0,4,1,1,3,No
+1166,55,Female,R&D,Laboratory Technician,Master,Single,Travel_Rarely,No,4560,7,32,6,1,2,2,4,No
+1167,37,Male,IT,Data Analyst,College,Divorced,Travel_Frequently,No,3153,3,13,2,15,2,3,3,No
+1168,27,Female,HR,Manager,College,Single,Travel_Rarely,No,7391,5,5,5,4,3,1,2,Yes
+1169,28,Female,R&D,Manager,College,Married,Travel_Rarely,No,7341,5,5,2,5,2,2,4,No
+1170,44,Female,R&D,Research Scientist,Below College,Single,Travel_Rarely,No,5919,15,21,4,19,4,4,2,No
+1171,56,Female,Sales,Sales Representative,Master,Divorced,Travel_Rarely,Yes,7110,16,32,3,27,1,3,3,No
+1172,35,Female,Sales,Manager,College,Divorced,Travel_Rarely,Yes,10588,14,15,5,26,1,4,1,No
+1173,30,Male,HR,Recruiter,Bachelor,Divorced,Travel_Rarely,No,4162,6,9,6,23,3,3,2,No
+1174,28,Female,Finance,Accountant,Bachelor,Single,Travel_Rarely,No,4299,8,8,6,23,2,2,2,No
+1175,60,Female,R&D,Laboratory Technician,Bachelor,Married,Travel_Rarely,Yes,6922,14,37,0,29,1,4,3,No
+1176,49,Female,IT,Data Analyst,Master,Married,Travel_Rarely,No,6799,17,29,2,11,4,2,4,No
+1177,23,Male,R&D,Laboratory Technician,College,Married,Non-Travel,No,4653,3,3,3,28,4,1,1,Yes
+1178,39,Male,HR,HR Specialist,Bachelor,Single,Travel_Rarely,No,3860,2,17,1,29,3,1,3,No
+1179,25,Male,IT,Software Engineer,Master,Single,Travel_Frequently,No,3269,5,5,3,1,2,2,4,No
+1180,44,Male,R&D,Research Scientist,Master,Single,Travel_Rarely,No,4334,3,24,1,27,3,2,4,Yes
+1181,30,Female,R&D,Manager,College,Single,Travel_Rarely,No,8761,6,8,0,7,2,4,4,No
+1182,40,Male,R&D,Laboratory Technician,Master,Married,Travel_Rarely,No,5736,8,19,8,28,2,3,1,Yes
+1183,23,Male,R&D,Manager,College,Divorced,Travel_Rarely,Yes,6239,0,0,0,11,4,1,1,No
+1184,21,Male,Finance,Accountant,Bachelor,Married,Travel_Rarely,Yes,3537,1,1,1,23,1,4,3,Yes
+1185,29,Female,R&D,Manager,Bachelor,Divorced,Travel_Rarely,Yes,8550,9,9,1,19,2,2,3,Yes
+1186,23,Male,R&D,Research Scientist,Master,Divorced,Non-Travel,Yes,2994,3,3,3,1,1,3,2,No
+1187,36,Male,R&D,Manager,Bachelor,Divorced,Non-Travel,No,7186,4,14,4,26,3,1,1,No
+1188,43,Male,R&D,Manager,Master,Single,Travel_Rarely,Yes,11831,18,20,8,19,2,3,1,Yes
+1189,35,Male,IT,Data Analyst,Master,Divorced,Travel_Rarely,No,5882,11,12,3,26,2,2,1,No
+1190,40,Female,R&D,Manager,Doctorate,Married,Non-Travel,No,11647,18,20,7,17,1,2,2,No
+1191,40,Male,IT,Software Engineer,College,Married,Travel_Rarely,Yes,7014,14,16,7,20,2,3,3,No
+1192,54,Male,IT,IT Manager,Master,Single,Travel_Frequently,No,6802,0,33,0,27,1,2,3,No
+1193,39,Male,R&D,Manager,Master,Single,Non-Travel,No,11491,16,18,3,5,4,4,1,No
+1194,43,Female,R&D,Manager,College,Divorced,Travel_Frequently,Yes,11212,18,23,3,19,2,4,1,Yes
+1195,40,Female,IT,Software Engineer,College,Married,Travel_Rarely,Yes,4318,8,17,1,4,2,2,1,No
+1196,48,Female,Finance,Accountant,Master,Single,Travel_Rarely,No,5692,8,25,5,23,1,2,3,Yes
+1197,45,Male,IT,Software Engineer,Bachelor,Divorced,Travel_Rarely,No,5750,8,23,7,15,2,1,4,Yes
+1198,20,Male,IT,Data Analyst,Bachelor,Single,Non-Travel,Yes,3192,0,0,0,19,4,3,1,Yes
+1199,25,Female,HR,HR Specialist,Bachelor,Single,Travel_Rarely,No,3932,1,5,1,24,1,2,4,Yes
+1200,37,Female,Sales,Sales Executive,Bachelor,Single,Non-Travel,Yes,3843,4,14,3,29,2,3,4,Yes
+1201,35,Male,Sales,Manager,College,Married,Travel_Rarely,No,9045,11,12,0,9,4,3,3,No
+1202,50,Female,IT,Data Analyst,Master,Divorced,Non-Travel,No,4295,7,26,3,18,1,2,2,No
+1203,42,Male,Finance,Financial Analyst,Bachelor,Divorced,Travel_Frequently,No,5690,7,21,7,19,3,1,3,No
+1204,25,Male,Sales,Sales Executive,College,Single,Travel_Rarely,Yes,4879,4,4,1,20,4,1,3,No
+1205,23,Male,IT,Software Engineer,Bachelor,Divorced,Travel_Rarely,No,4467,2,2,0,3,2,1,3,Yes
+1206,47,Female,R&D,Research Scientist,Master,Married,Travel_Rarely,No,4024,5,25,5,10,3,2,2,Yes
+1207,45,Male,IT,IT Manager,Master,Single,Travel_Rarely,No,10538,19,24,5,11,2,1,4,Yes
+1208,60,Female,Finance,Accountant,College,Single,Non-Travel,Yes,2525,0,37,0,26,2,1,3,Yes
+1209,51,Female,Finance,Financial Analyst,Master,Single,Travel_Rarely,No,7174,17,29,5,3,4,2,2,No
+1210,30,Female,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,No,3942,2,9,1,1,1,3,4,Yes
+1211,32,Female,Sales,Sales Executive,Bachelor,Divorced,Travel_Frequently,Yes,4196,8,8,2,2,3,3,2,Yes
+1212,38,Female,Sales,Sales Executive,College,Married,Travel_Rarely,Yes,3719,3,17,2,28,2,3,1,Yes
+1213,43,Female,R&D,Research Scientist,Master,Divorced,Non-Travel,No,3789,5,21,5,8,3,4,4,No
+1214,54,Female,Sales,Sales Representative,College,Married,Non-Travel,No,4922,7,30,0,29,4,4,4,No
+1215,59,Male,Finance,Manager,Bachelor,Divorced,Travel_Rarely,Yes,9258,14,39,10,2,2,2,2,Yes
+1216,24,Male,R&D,Laboratory Technician,Below College,Divorced,Travel_Rarely,No,4128,1,1,1,28,3,3,4,Yes
+1217,57,Male,Sales,Manager,Master,Divorced,Travel_Rarely,No,10540,18,37,0,13,3,3,4,No
+1218,58,Female,R&D,Manager,Master,Married,Non-Travel,No,10027,12,38,4,16,3,2,1,No
+1219,26,Male,IT,IT Manager,Bachelor,Single,Travel_Rarely,No,8242,5,5,1,14,4,3,3,No
+1220,53,Female,R&D,Laboratory Technician,Master,Divorced,Non-Travel,No,6277,16,33,3,25,1,3,4,No
+1221,35,Male,Sales,Sales Executive,Bachelor,Divorced,Travel_Frequently,No,3936,1,12,0,15,2,3,3,Yes
+1222,31,Female,R&D,Laboratory Technician,Bachelor,Single,Travel_Frequently,No,4333,7,7,3,1,2,3,1,No
+1223,33,Female,HR,Manager,Bachelor,Single,Travel_Rarely,Yes,9325,10,10,9,6,1,4,2,No
+1224,37,Female,R&D,Manager,Master,Married,Travel_Rarely,No,9636,11,14,0,17,2,4,3,No
+1225,55,Female,HR,Recruiter,Bachelor,Divorced,Travel_Frequently,No,4514,3,33,2,9,3,3,3,No
+1226,23,Female,R&D,Research Scientist,Bachelor,Divorced,Non-Travel,No,4107,1,1,0,14,4,3,3,No
+1227,54,Female,IT,IT Manager,College,Married,Travel_Rarely,No,9699,16,32,8,16,2,2,3,No
+1228,41,Male,Sales,Manager,Bachelor,Married,Travel_Frequently,Yes,9011,11,20,7,9,3,4,3,Yes
+1229,59,Male,HR,Manager,Master,Single,Travel_Frequently,No,7110,6,36,2,28,4,3,4,No
+1230,29,Female,R&D,Laboratory Technician,Bachelor,Single,Travel_Rarely,No,2509,2,8,0,15,2,3,1,No
+1231,28,Female,IT,Data Analyst,College,Married,Travel_Frequently,No,3327,5,5,2,18,4,4,1,No
+1232,20,Male,R&D,Research Scientist,Master,Married,Travel_Frequently,No,2342,0,0,0,3,1,4,3,No
+1233,47,Male,R&D,Laboratory Technician,College,Single,Travel_Rarely,No,5789,15,25,0,8,2,2,4,No
+1234,22,Female,Sales,Sales Representative,College,Married,Travel_Rarely,No,2098,0,0,0,23,1,1,1,Yes
+1235,60,Male,Sales,Manager,College,Divorced,Travel_Rarely,No,10451,13,38,4,29,3,2,4,Yes
+1236,58,Male,Sales,Sales Executive,Bachelor,Single,Travel_Rarely,No,6328,16,36,7,2,3,4,3,No
+1237,25,Male,Sales,Manager,Bachelor,Married,Travel_Frequently,Yes,7602,1,1,1,9,1,1,1,Yes
+1238,22,Female,Sales,Sales Executive,College,Divorced,Travel_Rarely,No,2019,0,0,0,28,1,1,1,No
+1239,25,Female,Finance,Financial Analyst,Master,Married,Travel_Rarely,Yes,4461,3,3,1,13,4,4,3,Yes
+1240,30,Male,HR,HR Specialist,Bachelor,Divorced,Travel_Frequently,No,5345,7,7,2,12,4,2,4,No
+1241,48,Male,R&D,Laboratory Technician,Master,Divorced,Non-Travel,No,5063,8,28,3,17,1,2,3,No
+1242,44,Male,HR,Manager,College,Married,Travel_Rarely,Yes,12030,19,20,5,6,2,4,4,No
+1243,55,Female,Sales,Sales Executive,Bachelor,Single,Travel_Frequently,Yes,5504,7,32,0,16,4,4,1,Yes
+1244,55,Male,R&D,Manager,Bachelor,Single,Travel_Frequently,No,12196,19,35,7,11,3,2,4,No
+1245,50,Female,IT,IT Manager,Bachelor,Married,Travel_Rarely,Yes,6977,3,27,2,27,2,1,3,No
+1246,51,Male,Sales,Sales Executive,Bachelor,Married,Travel_Frequently,Yes,4655,3,28,1,28,2,2,1,No
+1247,22,Male,Sales,Sales Representative,Below College,Married,Travel_Frequently,No,3086,0,0,0,24,2,4,1,No
+1248,57,Male,IT,Data Analyst,Master,Married,Travel_Rarely,No,3997,3,36,2,23,3,4,4,No
+1249,28,Female,R&D,Research Scientist,Master,Divorced,Travel_Rarely,No,3429,4,4,1,20,3,2,2,No
+1250,52,Female,HR,HR Specialist,Bachelor,Single,Travel_Rarely,No,6405,11,32,0,1,4,3,4,No
+1251,38,Female,Sales,Sales Executive,Bachelor,Divorced,Travel_Frequently,No,2984,1,17,0,27,3,2,1,No
+1252,52,Female,R&D,Research Scientist,College,Married,Travel_Frequently,No,6523,12,32,10,9,3,1,1,No
+1253,54,Male,HR,Manager,College,Single,Travel_Rarely,No,9255,9,33,8,17,1,2,2,Yes
+1254,20,Female,Sales,Sales Representative,Bachelor,Married,Non-Travel,Yes,3004,0,0,0,26,3,1,3,Yes
+1255,24,Male,Finance,Manager,Master,Married,Travel_Rarely,No,7559,1,1,0,7,1,3,2,No
+1256,55,Male,HR,Recruiter,Doctorate,Married,Travel_Rarely,No,5531,11,35,4,26,2,1,3,Yes
+1257,52,Female,R&D,Laboratory Technician,College,Divorced,Travel_Rarely,No,4191,1,29,0,4,2,3,1,Yes
+1258,47,Male,HR,HR Specialist,Master,Single,Non-Travel,No,6298,17,26,0,15,4,1,2,No
+1259,56,Male,Sales,Sales Executive,Master,Divorced,Non-Travel,No,5284,13,34,9,13,4,4,3,No
+1260,24,Female,IT,Data Analyst,Bachelor,Divorced,Non-Travel,No,3567,0,0,0,15,3,1,3,No
+1261,54,Female,Sales,Sales Representative,Below College,Divorced,Travel_Rarely,No,4502,9,33,8,2,3,1,2,No
+1262,42,Male,R&D,Manager,Master,Single,Travel_Rarely,No,10702,19,19,10,20,2,2,2,No
+1263,49,Male,IT,IT Manager,Master,Single,Travel_Rarely,Yes,6731,2,27,2,5,2,4,3,Yes
+1264,48,Female,Sales,Sales Representative,College,Married,Travel_Rarely,No,6213,9,24,3,14,2,3,3,No
+1265,43,Male,HR,Recruiter,College,Divorced,Non-Travel,No,6879,15,21,4,4,3,3,4,No
+1266,32,Female,Sales,Manager,Bachelor,Divorced,Travel_Frequently,No,7856,2,12,2,2,1,4,2,No
+1267,45,Male,IT,Software Engineer,Master,Divorced,Travel_Rarely,Yes,5278,9,21,8,1,1,4,3,Yes
+1268,56,Male,Sales,Manager,College,Divorced,Travel_Rarely,Yes,8791,11,33,5,12,4,2,1,No
+1269,22,Female,Finance,Accountant,Bachelor,Divorced,Travel_Rarely,No,3271,2,2,0,21,3,3,2,No
+1270,53,Female,R&D,Research Scientist,College,Divorced,Travel_Rarely,No,5650,11,31,3,6,4,1,2,No
+1271,27,Male,Sales,Manager,College,Married,Non-Travel,No,6931,4,4,0,19,4,4,4,Yes
+1272,60,Male,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,Yes,4227,4,36,2,19,3,2,4,No
+1273,50,Female,Sales,Manager,Master,Married,Travel_Rarely,No,7593,7,29,1,24,2,2,3,Yes
+1274,21,Male,R&D,Research Scientist,Bachelor,Single,Travel_Frequently,No,2974,0,0,0,29,2,1,2,Yes
+1275,54,Male,HR,Manager,Bachelor,Married,Travel_Rarely,No,11421,16,31,9,26,1,4,2,Yes
+1276,34,Male,Sales,Sales Representative,Master,Single,Travel_Rarely,No,5011,12,12,1,23,4,3,2,No
+1277,40,Female,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,Yes,3906,3,18,1,12,3,3,4,No
+1278,31,Female,IT,Software Engineer,Master,Divorced,Travel_Rarely,No,5256,7,7,3,5,3,3,4,No
+1279,26,Male,HR,HR Specialist,Below College,Single,Travel_Frequently,No,4475,2,2,1,21,1,2,4,No
+1280,36,Male,R&D,Research Scientist,College,Single,Travel_Rarely,No,3957,2,14,1,20,4,4,3,Yes
+1281,38,Male,IT,IT Manager,Master,Single,Non-Travel,No,10736,18,18,4,8,2,2,1,No
+1282,45,Male,R&D,Laboratory Technician,Bachelor,Divorced,Travel_Rarely,No,3487,0,21,0,27,1,1,3,Yes
+1283,45,Male,Finance,Financial Analyst,Master,Married,Travel_Frequently,No,3946,5,23,4,4,1,1,3,Yes
+1284,56,Female,R&D,Laboratory Technician,Bachelor,Married,Travel_Rarely,No,5487,10,35,3,4,4,4,1,No
+1285,46,Female,Sales,Sales Representative,Master,Married,Non-Travel,Yes,6440,17,22,2,13,3,2,3,No
+1286,37,Male,R&D,Manager,College,Single,Travel_Frequently,No,9673,15,16,5,8,2,2,3,Yes
+1287,51,Male,Sales,Sales Executive,Master,Married,Travel_Rarely,No,4089,1,27,1,29,3,3,4,No
+1288,23,Female,IT,Data Analyst,Master,Married,Travel_Rarely,Yes,2936,0,0,0,4,3,4,2,Yes
+1289,26,Female,Sales,Manager,Doctorate,Married,Travel_Rarely,No,7051,4,4,3,16,2,3,2,No
+1290,43,Female,R&D,Laboratory Technician,Master,Divorced,Travel_Rarely,Yes,6976,14,21,6,9,2,2,1,Yes
+1291,29,Female,IT,IT Manager,Bachelor,Divorced,Non-Travel,No,7364,5,9,0,9,2,3,4,No
+1292,50,Male,Sales,Sales Representative,College,Divorced,Travel_Frequently,Yes,4540,10,27,3,14,3,3,3,No
+1293,31,Female,HR,Manager,Bachelor,Divorced,Travel_Frequently,No,8530,9,9,2,20,4,4,1,No
+1294,60,Female,Finance,Financial Analyst,Master,Divorced,Travel_Rarely,Yes,3837,2,40,1,10,2,3,3,No
+1295,57,Female,IT,Software Engineer,Doctorate,Divorced,Travel_Rarely,Yes,4605,5,34,1,9,1,2,2,Yes
+1296,50,Male,Sales,Sales Executive,College,Married,Travel_Rarely,No,6265,12,30,3,5,1,1,3,No
+1297,28,Male,R&D,Research Scientist,Bachelor,Married,Travel_Rarely,No,4246,1,8,0,28,3,4,4,No
+1298,57,Female,HR,HR Specialist,Master,Married,Travel_Rarely,No,6355,13,33,6,8,3,3,4,No
+1299,53,Male,R&D,Research Scientist,Master,Married,Travel_Rarely,No,4863,9,31,0,1,1,4,4,No
+1300,47,Female,Sales,Manager,Bachelor,Single,Travel_Rarely,No,7288,5,26,4,3,4,4,2,No
+1301,54,Female,HR,Recruiter,Bachelor,Married,Travel_Rarely,No,3726,6,31,4,21,2,2,3,No
+1302,23,Male,R&D,Research Scientist,College,Married,Travel_Rarely,No,2976,2,2,1,3,2,4,1,Yes
+1303,49,Male,IT,Software Engineer,College,Married,Travel_Rarely,No,4088,2,27,1,13,2,1,3,No
+1304,35,Female,IT,Data Analyst,College,Divorced,Travel_Frequently,No,5255,7,12,7,25,1,2,4,No
+1305,30,Male,Finance,Financial Analyst,College,Divorced,Travel_Rarely,Yes,4238,6,6,0,29,4,3,2,Yes
+1306,30,Female,R&D,Research Scientist,Master,Divorced,Travel_Rarely,No,3940,3,6,2,26,2,1,1,No
+1307,25,Female,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,No,3249,1,5,1,8,2,1,2,No
+1308,21,Female,R&D,Research Scientist,Bachelor,Married,Travel_Rarely,Yes,3144,0,0,0,10,1,4,4,Yes
+1309,37,Male,R&D,Laboratory Technician,Master,Divorced,Travel_Rarely,Yes,6929,16,17,2,1,3,3,3,No
+1310,59,Male,HR,Recruiter,College,Married,Travel_Rarely,No,4068,2,37,2,18,4,2,4,Yes
+1311,24,Male,Sales,Manager,Below College,Divorced,Travel_Frequently,No,6642,3,3,3,4,2,1,4,No
+1312,23,Female,IT,Software Engineer,Master,Married,Travel_Frequently,No,4401,2,2,0,29,1,2,4,Yes
+1313,43,Male,IT,Software Engineer,Doctorate,Single,Travel_Rarely,No,5934,8,19,3,7,1,3,1,No
+1314,35,Male,Sales,Manager,Bachelor,Single,Travel_Rarely,No,9688,11,11,2,22,1,3,4,No
+1315,30,Female,R&D,Manager,Bachelor,Divorced,Travel_Rarely,No,9065,8,8,3,21,3,3,4,No
+1316,36,Female,Sales,Manager,Bachelor,Married,Non-Travel,No,9970,13,13,3,1,1,1,3,Yes
+1317,37,Male,R&D,Manager,Bachelor,Single,Travel_Rarely,No,6501,1,17,1,29,2,2,3,Yes
+1318,24,Female,R&D,Research Scientist,Bachelor,Single,Travel_Rarely,No,3746,1,1,1,26,1,3,1,Yes
+1319,27,Male,IT,Software Engineer,Bachelor,Divorced,Travel_Rarely,No,3073,0,3,0,2,4,1,3,Yes
+1320,48,Male,HR,Recruiter,Bachelor,Divorced,Non-Travel,No,5938,13,27,6,3,4,2,2,No
+1321,28,Male,R&D,Laboratory Technician,Bachelor,Married,Travel_Rarely,Yes,3746,5,5,4,3,4,2,2,Yes
+1322,43,Female,HR,Recruiter,Master,Married,Travel_Rarely,No,5216,10,22,7,20,1,3,2,Yes
+1323,43,Male,IT,Data Analyst,Master,Single,Travel_Rarely,No,2778,3,23,3,11,2,2,3,Yes
+1324,33,Male,Sales,Manager,Master,Divorced,Non-Travel,No,8521,9,9,2,19,4,2,1,Yes
+1325,59,Female,Sales,Manager,Master,Divorced,Travel_Rarely,No,10352,14,39,1,9,1,1,4,Yes
+1326,44,Male,IT,IT Manager,Bachelor,Single,Travel_Rarely,No,11275,16,21,7,20,1,3,4,No
+1327,35,Female,IT,Data Analyst,Bachelor,Married,Travel_Rarely,No,6651,13,13,8,12,2,1,3,No
+1328,44,Male,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,Yes,4179,8,20,3,24,3,4,2,No
+1329,39,Female,R&D,Laboratory Technician,Master,Divorced,Travel_Frequently,Yes,6632,16,16,6,23,2,2,2,No
+1330,56,Male,Finance,Accountant,College,Single,Travel_Rarely,No,4219,2,34,1,29,1,2,3,No
+1331,60,Female,R&D,Manager,Bachelor,Divorced,Travel_Rarely,Yes,8240,6,39,5,19,2,1,3,Yes
+1332,28,Female,Sales,Sales Representative,College,Married,Travel_Rarely,No,3585,5,6,0,7,4,4,2,No
+1333,32,Male,Finance,Accountant,Master,Married,Travel_Rarely,No,5025,5,12,0,15,4,4,3,No
+1334,40,Female,IT,IT Manager,Master,Single,Travel_Rarely,No,10435,16,16,6,27,1,1,4,No
+1335,53,Male,Sales,Sales Representative,Bachelor,Single,Travel_Rarely,No,4590,9,32,2,14,3,3,4,No
+1336,52,Male,HR,HR Specialist,Below College,Married,Travel_Rarely,No,7162,18,31,3,15,2,4,4,No
+1337,30,Male,Sales,Sales Representative,Doctorate,Divorced,Travel_Frequently,No,4238,3,10,3,26,3,1,4,No
+1338,41,Male,Sales,Sales Executive,Master,Married,Travel_Rarely,Yes,3633,4,20,1,24,1,4,3,Yes
+1339,20,Female,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,No,2487,0,0,0,7,4,1,4,Yes
+1340,55,Female,HR,HR Specialist,Master,Single,Travel_Rarely,No,7303,20,31,0,2,2,1,2,No
+1341,41,Male,IT,Software Engineer,Master,Divorced,Travel_Rarely,No,4001,3,21,1,22,2,2,3,No
+1342,22,Male,IT,Software Engineer,College,Married,Travel_Rarely,No,3727,0,0,0,18,4,1,4,Yes
+1343,33,Male,R&D,Research Scientist,Master,Married,Travel_Rarely,No,6124,13,13,9,20,1,4,3,No
+1344,51,Female,Sales,Manager,Below College,Divorced,Travel_Rarely,No,6753,5,28,5,4,2,3,2,No
+1345,46,Male,IT,Software Engineer,Bachelor,Single,Travel_Rarely,No,6163,11,24,8,10,2,1,2,No
+1346,41,Female,IT,Data Analyst,Bachelor,Divorced,Travel_Rarely,No,7176,18,18,7,27,1,2,2,No
+1347,29,Female,HR,Recruiter,Master,Divorced,Travel_Rarely,No,4407,5,5,1,24,4,1,3,No
+1348,24,Male,R&D,Laboratory Technician,College,Married,Travel_Rarely,No,2383,0,2,0,20,4,2,4,No
+1349,51,Male,Sales,Sales Executive,Bachelor,Single,Travel_Rarely,No,5858,14,29,1,4,3,2,3,No
+1350,52,Male,Sales,Sales Representative,College,Divorced,Travel_Rarely,No,6075,10,31,2,28,3,3,2,No
+1351,53,Male,Sales,Sales Representative,College,Divorced,Travel_Rarely,No,6071,9,33,0,2,1,3,4,No
+1352,40,Male,R&D,Research Scientist,College,Single,Non-Travel,Yes,4808,9,19,9,5,3,4,1,No
+1353,42,Female,Sales,Manager,Bachelor,Married,Travel_Rarely,No,6645,4,20,0,10,3,2,2,Yes
+1354,23,Male,R&D,Manager,Bachelor,Single,Travel_Rarely,Yes,6762,0,0,0,12,4,2,4,No
+1355,56,Male,IT,Software Engineer,College,Divorced,Travel_Rarely,Yes,5974,14,36,5,8,3,4,4,No
+1356,41,Female,HR,Manager,Master,Married,Travel_Rarely,Yes,10230,15,18,9,15,4,1,3,No
+1357,26,Female,R&D,Laboratory Technician,College,Single,Travel_Rarely,Yes,3709,2,2,1,14,3,4,4,Yes
+1358,57,Female,R&D,Manager,Bachelor,Married,Travel_Rarely,No,11514,18,34,9,23,2,2,1,No
+1359,31,Female,R&D,Laboratory Technician,College,Single,Travel_Frequently,No,3820,2,8,2,22,4,3,4,No
+1360,29,Male,HR,HR Specialist,Bachelor,Divorced,Travel_Rarely,No,4895,6,6,5,29,4,2,2,No
+1361,42,Male,Finance,Financial Analyst,Master,Single,Non-Travel,No,2127,0,18,0,12,4,2,3,Yes
+1362,35,Female,Sales,Sales Executive,College,Single,Travel_Rarely,No,5641,11,11,3,18,4,4,4,No
+1363,46,Male,IT,Software Engineer,Bachelor,Married,Travel_Frequently,Yes,4477,4,24,1,29,1,1,2,Yes
+1364,49,Female,HR,Recruiter,College,Divorced,Non-Travel,No,3977,5,25,3,8,4,4,4,No
+1365,37,Female,Sales,Manager,Bachelor,Divorced,Non-Travel,No,8981,13,13,8,19,1,4,3,No
+1366,49,Male,Finance,Financial Analyst,Master,Divorced,Travel_Rarely,Yes,8005,19,25,7,2,4,1,3,No
+1367,41,Female,Finance,Manager,Bachelor,Single,Travel_Rarely,No,7875,9,19,4,21,1,3,3,No
+1368,51,Male,HR,Recruiter,Bachelor,Married,Non-Travel,Yes,7261,16,30,1,9,3,3,2,No
+1369,29,Female,Finance,Manager,Master,Married,Travel_Frequently,Yes,8387,5,7,1,17,2,4,2,No
+1370,46,Female,IT,Software Engineer,Bachelor,Single,Non-Travel,No,5611,14,25,7,21,2,2,3,No
+1371,54,Male,R&D,Manager,Bachelor,Divorced,Travel_Rarely,No,9091,12,31,8,26,2,4,1,No
+1372,60,Female,Sales,Manager,College,Divorced,Travel_Rarely,No,10796,19,37,7,26,3,3,3,No
+1373,57,Male,IT,IT Manager,Master,Single,Travel_Rarely,No,9377,10,33,8,1,2,3,1,Yes
+1374,38,Female,R&D,Research Scientist,Bachelor,Divorced,Travel_Frequently,Yes,4196,1,17,0,20,1,1,2,No
+1375,56,Male,Sales,Manager,Master,Divorced,Travel_Frequently,Yes,8639,5,36,2,9,4,1,4,Yes
+1376,23,Female,IT,Software Engineer,Bachelor,Single,Travel_Rarely,No,2902,0,0,0,3,3,3,2,No
+1377,47,Male,Sales,Manager,College,Divorced,Travel_Rarely,Yes,10571,20,23,7,3,4,3,1,Yes
+1378,60,Male,R&D,Manager,Doctorate,Married,Travel_Rarely,Yes,9555,12,40,6,23,3,4,1,No
+1379,54,Male,IT,Data Analyst,Bachelor,Single,Travel_Rarely,No,5682,12,34,10,22,4,1,3,Yes
+1380,25,Female,R&D,Laboratory Technician,Bachelor,Single,Travel_Rarely,Yes,3362,3,3,2,23,1,4,2,Yes
+1381,32,Male,Finance,Financial Analyst,Bachelor,Married,Travel_Rarely,Yes,3629,6,12,6,26,2,4,4,No
+1382,22,Female,Finance,Accountant,Master,Divorced,Travel_Rarely,No,2933,2,2,2,26,1,4,1,No
+1383,57,Male,R&D,Manager,Below College,Divorced,Travel_Rarely,No,7607,1,37,0,20,4,1,4,Yes
+1384,26,Female,Sales,Sales Representative,Master,Single,Non-Travel,No,3518,2,2,0,20,1,1,1,Yes
+1385,45,Female,IT,IT Manager,Bachelor,Single,Travel_Rarely,No,11214,18,25,6,6,3,2,1,No
+1386,48,Male,R&D,Research Scientist,College,Single,Travel_Rarely,Yes,4051,1,24,0,16,4,2,1,No
+1387,46,Female,R&D,Laboratory Technician,Bachelor,Single,Travel_Rarely,Yes,3989,6,25,5,6,3,4,4,No
+1388,39,Female,Finance,Manager,Master,Divorced,Travel_Rarely,No,6767,0,16,0,12,2,1,1,No
+1389,23,Male,HR,Recruiter,Master,Single,Travel_Rarely,No,3077,3,3,2,22,4,4,2,No
+1390,49,Male,Sales,Manager,College,Single,Travel_Rarely,No,6743,1,29,1,17,2,2,1,Yes
+1391,34,Male,IT,Software Engineer,College,Divorced,Travel_Rarely,Yes,5575,7,12,6,8,4,2,4,Yes
+1392,31,Female,Finance,Financial Analyst,College,Divorced,Travel_Rarely,No,3414,4,9,2,11,2,3,3,Yes
+1393,46,Male,IT,Software Engineer,Master,Married,Travel_Frequently,No,3927,7,24,3,14,2,2,2,No
+1394,20,Female,IT,Software Engineer,Below College,Married,Travel_Rarely,No,2855,0,0,0,2,2,2,1,Yes
+1395,26,Female,R&D,Manager,Bachelor,Divorced,Travel_Frequently,Yes,6521,3,3,0,12,1,4,2,No
+1396,49,Male,R&D,Manager,Master,Single,Travel_Frequently,No,10283,14,26,1,15,4,2,3,No
+1397,22,Female,HR,Manager,Bachelor,Divorced,Travel_Rarely,No,7006,0,0,0,2,2,1,3,Yes
+1398,22,Female,R&D,Manager,Bachelor,Divorced,Travel_Rarely,No,6185,0,0,0,8,1,2,2,No
+1399,42,Female,IT,Software Engineer,Bachelor,Single,Travel_Rarely,Yes,6176,13,18,8,16,1,3,3,No
+1400,48,Female,R&D,Laboratory Technician,College,Single,Travel_Rarely,No,4300,6,28,2,29,4,1,1,Yes
+1401,33,Male,Sales,Sales Executive,Master,Single,Travel_Rarely,No,5610,11,11,1,15,2,4,3,Yes
+1402,41,Female,IT,IT Manager,Bachelor,Married,Travel_Rarely,No,8937,10,17,4,10,3,4,4,No
+1403,23,Male,R&D,Laboratory Technician,Master,Divorced,Travel_Frequently,No,2623,1,1,0,6,2,2,3,Yes
+1404,56,Male,Sales,Sales Representative,Bachelor,Divorced,Travel_Frequently,No,4704,8,33,8,5,2,1,3,No
+1405,51,Male,Finance,Financial Analyst,Doctorate,Divorced,Travel_Rarely,Yes,6334,10,28,9,10,3,3,4,No
+1406,27,Female,Finance,Financial Analyst,Master,Married,Travel_Rarely,No,3822,4,7,2,20,1,3,1,Yes
+1407,53,Male,HR,Manager,Bachelor,Divorced,Travel_Rarely,Yes,7398,6,31,0,16,4,1,4,No
+1408,47,Female,R&D,Research Scientist,Bachelor,Single,Travel_Rarely,Yes,5662,11,24,7,28,3,3,3,No
+1409,38,Male,R&D,Laboratory Technician,Doctorate,Divorced,Travel_Frequently,Yes,5871,13,15,1,16,1,2,2,No
+1410,25,Male,R&D,Laboratory Technician,Master,Single,Travel_Rarely,No,3954,2,2,1,19,4,2,4,Yes
+1411,57,Female,R&D,Laboratory Technician,Bachelor,Divorced,Travel_Frequently,No,6565,17,34,7,9,2,1,1,Yes
+1412,46,Male,HR,Recruiter,Bachelor,Married,Travel_Rarely,Yes,8987,20,23,9,3,1,3,4,No
+1413,50,Male,Sales,Manager,College,Married,Travel_Frequently,No,10691,16,28,2,2,1,3,2,No
+1414,46,Female,Sales,Sales Representative,Bachelor,Single,Travel_Rarely,No,5816,9,26,5,4,1,2,2,No
+1415,37,Female,HR,Recruiter,Bachelor,Married,Travel_Rarely,No,7311,17,17,2,10,2,1,2,Yes
+1416,32,Male,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,No,5232,9,9,7,12,1,2,1,No
+1417,31,Female,R&D,Laboratory Technician,College,Single,Travel_Rarely,Yes,3006,3,11,0,7,2,2,3,Yes
+1418,22,Male,IT,Software Engineer,Below College,Married,Travel_Rarely,No,4110,1,2,0,9,1,4,1,No
+1419,57,Male,Finance,Accountant,Master,Divorced,Travel_Rarely,Yes,5471,11,36,8,6,2,3,3,No
+1420,20,Male,Sales,Manager,Master,Married,Travel_Rarely,Yes,7385,0,0,0,17,1,1,2,Yes
+1421,42,Female,Finance,Accountant,College,Single,Travel_Rarely,No,3753,6,19,2,15,4,1,3,No
+1422,25,Female,R&D,Research Scientist,Bachelor,Married,Travel_Rarely,No,2962,2,2,0,18,4,3,4,No
+1423,43,Male,IT,IT Manager,Bachelor,Divorced,Travel_Rarely,No,9494,15,23,1,5,4,4,1,No
+1424,24,Female,Finance,Accountant,Master,Married,Travel_Rarely,Yes,4466,3,3,2,14,4,1,2,No
+1425,42,Female,IT,Software Engineer,Bachelor,Married,Travel_Rarely,No,5221,12,18,2,4,3,2,4,Yes
+1426,51,Male,IT,Data Analyst,College,Single,Travel_Rarely,No,6273,12,30,8,20,3,2,3,No
+1427,38,Female,IT,Data Analyst,Master,Married,Travel_Rarely,Yes,6631,15,15,6,29,3,1,1,No
+1428,55,Female,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,No,7314,15,34,10,4,3,4,4,No
+1429,30,Male,R&D,Manager,Below College,Single,Travel_Rarely,No,7906,7,7,5,2,4,3,3,No
+1430,60,Female,IT,Data Analyst,College,Single,Travel_Rarely,No,2865,3,37,0,22,3,4,3,No
+1431,27,Female,Sales,Sales Representative,Master,Married,Non-Travel,No,3163,0,6,0,17,1,4,4,No
+1432,56,Female,Finance,Financial Analyst,Bachelor,Divorced,Travel_Rarely,Yes,7188,18,34,9,16,4,1,2,Yes
+1433,51,Male,Finance,Accountant,Bachelor,Single,Travel_Rarely,No,5147,6,27,4,8,1,3,4,Yes
+1434,56,Female,R&D,Research Scientist,Bachelor,Single,Travel_Rarely,No,4386,6,33,2,22,1,3,3,No
+1435,31,Male,R&D,Manager,Bachelor,Divorced,Travel_Frequently,No,8669,5,7,3,21,2,4,3,No
+1436,53,Male,IT,Data Analyst,Master,Single,Travel_Rarely,Yes,6340,14,31,6,11,2,3,4,Yes
+1437,36,Male,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,Yes,5382,7,13,6,27,2,1,2,Yes
+1438,30,Female,Finance,Accountant,Bachelor,Single,Non-Travel,Yes,3973,0,9,0,24,3,2,1,Yes
+1439,46,Female,Sales,Sales Executive,Bachelor,Single,Travel_Rarely,No,6169,12,26,9,24,2,2,1,No
+1440,51,Male,Finance,Financial Analyst,Master,Married,Travel_Rarely,Yes,8400,19,30,1,24,3,3,4,Yes
+1441,46,Female,Finance,Financial Analyst,Bachelor,Single,Travel_Frequently,No,3367,1,22,0,14,3,1,3,No
+1442,21,Male,IT,Software Engineer,Master,Divorced,Travel_Frequently,Yes,4099,1,1,1,26,4,3,3,Yes
+1443,36,Female,Finance,Financial Analyst,Master,Married,Travel_Rarely,No,5551,7,16,4,26,2,4,3,No
+1444,50,Female,IT,Software Engineer,Bachelor,Divorced,Travel_Rarely,No,6286,13,28,8,3,1,2,3,No
+1445,23,Male,R&D,Research Scientist,College,Single,Travel_Rarely,Yes,2642,0,0,0,19,4,2,3,No
+1446,48,Female,HR,Recruiter,Bachelor,Married,Travel_Frequently,Yes,4172,8,27,3,14,3,3,2,Yes
+1447,59,Male,Sales,Manager,Bachelor,Single,Non-Travel,Yes,10265,14,39,5,14,2,1,4,Yes
+1448,53,Female,R&D,Research Scientist,Bachelor,Single,Travel_Rarely,Yes,6339,15,30,3,24,2,2,3,No
+1449,32,Female,Finance,Financial Analyst,Bachelor,Single,Travel_Rarely,No,5232,11,11,10,20,1,3,3,No
+1450,28,Female,Sales,Sales Representative,College,Married,Travel_Frequently,No,3445,5,5,3,18,4,3,1,No
+1451,58,Male,Finance,Manager,College,Divorced,Non-Travel,No,8874,8,38,2,12,4,3,4,No
+1452,49,Male,R&D,Laboratory Technician,Below College,Single,Travel_Rarely,No,4739,10,29,4,11,4,2,3,No
+1453,36,Female,Finance,Financial Analyst,Bachelor,Divorced,Travel_Rarely,No,6064,10,12,7,5,2,3,4,Yes
+1454,31,Male,Sales,Sales Executive,Below College,Married,Travel_Frequently,Yes,5833,8,8,8,16,4,4,1,No
+1455,29,Male,R&D,Manager,Master,Divorced,Travel_Frequently,Yes,7535,2,7,2,17,3,2,2,Yes
+1456,53,Male,Finance,Accountant,Master,Divorced,Travel_Rarely,Yes,2553,2,30,1,10,4,1,3,Yes
+1457,29,Male,Finance,Financial Analyst,Below College,Single,Travel_Rarely,No,5466,9,9,7,22,4,4,3,No
+1458,56,Male,IT,IT Manager,Bachelor,Divorced,Travel_Rarely,No,7273,1,35,1,3,3,3,1,No
+1459,25,Male,Sales,Sales Representative,Bachelor,Married,Travel_Rarely,No,3246,4,4,2,10,4,3,2,No
+1460,26,Female,HR,Recruiter,Bachelor,Married,Travel_Frequently,No,3653,2,2,2,20,4,4,3,Yes
+1461,22,Female,HR,HR Specialist,Bachelor,Married,Travel_Rarely,No,2595,0,0,0,15,2,4,1,No
+1462,53,Female,R&D,Research Scientist,Bachelor,Married,Travel_Rarely,Yes,7545,18,31,9,14,1,1,1,No
+1463,25,Male,R&D,Manager,Master,Married,Travel_Rarely,Yes,6920,5,5,5,14,2,4,1,No
+1464,36,Female,HR,Manager,Below College,Single,Non-Travel,Yes,8094,6,15,5,1,3,1,4,No
+1465,58,Female,HR,Manager,College,Single,Travel_Rarely,No,10429,19,36,0,5,3,4,3,No
+1466,33,Female,Sales,Sales Executive,College,Married,Non-Travel,Yes,6576,12,12,2,15,2,1,3,No
+1467,51,Female,IT,Software Engineer,Below College,Divorced,Travel_Frequently,No,5604,14,31,6,11,2,3,4,No
+1468,57,Female,IT,IT Manager,Bachelor,Married,Travel_Rarely,No,10331,15,37,4,1,4,2,1,No
+1469,27,Female,R&D,Laboratory Technician,College,Married,Travel_Rarely,No,3339,3,3,1,24,4,1,2,No
+1470,49,Male,HR,Manager,Bachelor,Divorced,Non-Travel,No,9773,12,27,7,7,3,4,2,No
+1471,51,Male,Sales,Manager,Bachelor,Divorced,Travel_Rarely,No,9984,15,28,8,29,2,1,1,Yes
+1472,27,Male,Sales,Sales Representative,Master,Divorced,Travel_Rarely,Yes,5325,7,7,2,2,3,3,3,No
+1473,26,Male,IT,IT Manager,Below College,Single,Travel_Rarely,No,7936,3,3,0,18,1,1,1,No
+1474,38,Female,Finance,Accountant,College,Single,Travel_Rarely,No,6185,14,14,6,27,1,2,3,No
+1475,41,Female,Sales,Sales Representative,College,Divorced,Travel_Rarely,Yes,4539,5,17,1,22,3,4,3,Yes
+1476,49,Female,R&D,Laboratory Technician,Bachelor,Single,Travel_Rarely,Yes,6192,14,29,6,11,1,1,1,No
+1477,29,Male,HR,Manager,Bachelor,Divorced,Travel_Rarely,No,6766,5,5,1,27,3,3,3,No
+1478,54,Female,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,No,7075,20,32,2,18,2,3,1,No
+1479,25,Female,R&D,Research Scientist,Bachelor,Married,Travel_Rarely,No,4073,1,1,1,26,2,1,1,No
+1480,23,Female,Finance,Accountant,Bachelor,Single,Travel_Rarely,No,3169,1,1,0,10,1,1,1,No
+1481,60,Male,Finance,Manager,Bachelor,Single,Travel_Frequently,No,7965,9,38,5,11,2,4,2,No
+1482,46,Male,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,No,3163,1,26,1,3,2,4,2,No
+1483,47,Female,R&D,Manager,College,Divorced,Travel_Rarely,No,10206,13,24,8,15,2,2,4,Yes
+1484,22,Male,Sales,Sales Representative,Bachelor,Single,Travel_Rarely,No,2247,0,0,0,12,1,4,1,Yes
+1485,38,Female,Finance,Financial Analyst,College,Divorced,Travel_Rarely,Yes,4820,4,18,0,10,4,1,3,No
+1486,46,Female,Sales,Sales Executive,Master,Single,Travel_Rarely,No,5958,9,22,8,24,3,4,4,No
+1487,48,Male,IT,IT Manager,Bachelor,Single,Travel_Frequently,No,7843,2,26,1,13,4,4,2,No
+1488,21,Female,HR,HR Specialist,Bachelor,Married,Travel_Rarely,Yes,3960,0,0,0,19,1,2,1,Yes
+1489,21,Female,Finance,Accountant,Below College,Single,Travel_Rarely,No,2822,0,0,0,19,4,1,3,Yes
+1490,44,Female,IT,Software Engineer,Master,Single,Travel_Rarely,No,3124,3,24,3,9,2,3,2,No
+1491,31,Male,Sales,Sales Representative,Bachelor,Single,Non-Travel,No,6078,9,11,3,11,3,2,4,No
+1492,52,Female,R&D,Laboratory Technician,Bachelor,Single,Travel_Frequently,Yes,4991,8,32,0,1,4,4,1,Yes
+1493,26,Male,Finance,Manager,Bachelor,Single,Travel_Rarely,No,6171,2,2,0,28,3,4,4,No
+1494,54,Female,Finance,Accountant,Doctorate,Married,Travel_Rarely,Yes,5501,14,30,4,2,4,3,2,No
+1495,60,Male,R&D,Laboratory Technician,Master,Single,Travel_Rarely,No,6183,16,36,4,13,2,1,3,No
+1496,40,Female,Sales,Manager,Bachelor,Divorced,Travel_Rarely,Yes,9941,14,18,0,20,3,3,2,No
+1497,31,Female,Sales,Sales Executive,Master,Married,Travel_Rarely,No,5577,7,7,5,27,1,1,1,No
+1498,42,Female,R&D,Manager,Master,Married,Travel_Rarely,Yes,5519,0,21,0,8,3,2,4,Yes
+1499,39,Male,IT,IT Manager,Master,Single,Non-Travel,No,11102,15,18,10,23,1,3,4,No
+1500,52,Female,IT,IT Manager,College,Divorced,Travel_Frequently,Yes,11277,17,31,8,3,2,1,2,No
+1501,21,Female,Sales,Manager,Doctorate,Married,Travel_Rarely,Yes,6385,0,0,0,28,4,1,3,Yes
+1502,34,Male,R&D,Research Scientist,College,Divorced,Travel_Frequently,No,5398,12,12,3,11,3,1,4,No
+1503,35,Male,R&D,Research Scientist,Below College,Divorced,Travel_Frequently,No,5384,10,14,4,26,1,1,4,Yes
+1504,23,Female,R&D,Laboratory Technician,College,Single,Travel_Frequently,No,3185,0,0,0,4,4,1,4,Yes
+1505,28,Male,IT,Data Analyst,Bachelor,Married,Travel_Frequently,No,3637,1,5,1,2,4,1,1,Yes
+1506,58,Male,IT,Data Analyst,Master,Married,Travel_Rarely,No,6333,12,35,9,22,4,1,3,No
+1507,24,Male,Sales,Manager,Bachelor,Single,Travel_Rarely,No,6485,0,0,0,24,3,3,4,Yes
+1508,52,Female,R&D,Laboratory Technician,Bachelor,Married,Travel_Frequently,No,7132,18,30,8,20,2,2,4,No
+1509,35,Male,HR,HR Specialist,Master,Divorced,Travel_Rarely,Yes,5449,11,12,7,7,2,2,1,No
+1510,56,Female,R&D,Manager,Master,Married,Travel_Rarely,No,9544,9,32,0,26,2,1,4,No
+1511,59,Male,HR,Recruiter,Master,Single,Travel_Rarely,No,6569,15,38,1,6,3,4,2,No
+1512,38,Female,R&D,Research Scientist,Bachelor,Single,Travel_Frequently,No,6657,17,17,2,7,3,1,1,No
+1513,32,Male,R&D,Research Scientist,Master,Married,Travel_Frequently,No,5341,8,11,4,26,1,2,4,No
+1514,30,Female,R&D,Laboratory Technician,Master,Married,Travel_Rarely,Yes,3840,3,10,1,13,2,2,2,No
+1515,32,Female,IT,IT Manager,College,Married,Travel_Rarely,Yes,8428,10,11,9,24,3,2,4,Yes
+1516,52,Female,R&D,Manager,Bachelor,Divorced,Travel_Rarely,No,10965,16,29,9,16,3,3,4,No
+1517,48,Male,Sales,Sales Executive,College,Single,Travel_Rarely,No,4021,6,25,4,18,4,2,3,No
+1518,52,Female,R&D,Laboratory Technician,Bachelor,Single,Travel_Rarely,No,6149,14,29,4,9,4,3,4,No
+1519,38,Male,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,Yes,4868,7,16,4,7,1,3,1,No
+1520,32,Male,IT,Software Engineer,Doctorate,Divorced,Travel_Rarely,Yes,5603,8,8,0,13,3,3,3,No
+1521,45,Male,R&D,Research Scientist,Bachelor,Single,Travel_Rarely,No,5121,6,24,5,3,4,4,3,No
+1522,21,Female,R&D,Manager,Master,Married,Travel_Rarely,No,7159,0,0,0,22,3,1,4,No
+1523,54,Female,R&D,Manager,Bachelor,Divorced,Travel_Frequently,Yes,11951,18,32,9,11,1,2,2,No
+1524,45,Male,Finance,Accountant,Bachelor,Single,Travel_Rarely,Yes,6308,12,21,8,29,1,3,4,Yes
+1525,51,Male,IT,IT Manager,Master,Single,Travel_Rarely,Yes,7477,6,30,2,10,4,3,2,No
+1526,45,Male,Sales,Sales Representative,Master,Single,Travel_Frequently,No,4956,4,25,2,29,4,1,4,No
+1527,30,Female,IT,Software Engineer,Bachelor,Married,Travel_Rarely,No,3515,6,6,1,5,4,3,2,No
+1528,49,Female,Finance,Financial Analyst,Master,Married,Travel_Rarely,No,3684,1,25,0,27,3,4,3,No
+1529,47,Female,Sales,Manager,Master,Married,Travel_Frequently,No,7240,5,24,4,29,1,4,1,No
+1530,33,Female,Finance,Manager,Master,Married,Travel_Rarely,Yes,9033,10,10,4,25,3,1,1,Yes
+1531,24,Female,Sales,Sales Executive,College,Single,Travel_Rarely,No,2271,1,1,1,9,2,4,1,No
+1532,35,Female,Sales,Manager,College,Single,Travel_Rarely,No,10243,14,14,6,4,2,2,1,Yes
+1533,37,Male,HR,HR Specialist,Master,Divorced,Travel_Rarely,Yes,6176,11,14,10,2,1,2,4,No
+1534,48,Male,R&D,Laboratory Technician,College,Single,Travel_Rarely,Yes,2767,0,24,0,8,4,2,2,Yes
+1535,24,Male,Sales,Manager,Bachelor,Divorced,Travel_Rarely,No,8170,4,4,1,11,1,4,1,No
+1536,27,Male,R&D,Laboratory Technician,Below College,Single,Travel_Rarely,No,4089,3,6,0,11,2,1,4,No
+1537,43,Male,Sales,Manager,Bachelor,Divorced,Travel_Rarely,No,7515,6,23,5,4,4,1,2,No
+1538,41,Male,IT,Data Analyst,Master,Divorced,Travel_Rarely,Yes,6796,15,19,0,21,1,4,4,Yes
+1539,39,Male,HR,HR Specialist,College,Married,Travel_Rarely,No,4771,7,16,0,10,1,2,3,Yes
+1540,41,Male,IT,Software Engineer,College,Divorced,Travel_Rarely,No,6037,10,19,3,1,1,4,3,No
+1541,35,Male,Sales,Manager,Bachelor,Single,Non-Travel,No,8382,11,11,2,28,2,4,1,No
+1542,57,Male,Sales,Sales Executive,College,Single,Travel_Rarely,Yes,7477,16,36,4,7,4,3,2,No
+1543,32,Female,R&D,Manager,Bachelor,Divorced,Travel_Rarely,No,6343,2,9,1,16,3,4,4,No
+1544,21,Female,IT,Software Engineer,Bachelor,Married,Travel_Rarely,No,2526,0,0,0,13,3,2,2,Yes
+1545,32,Male,Sales,Sales Representative,Doctorate,Divorced,Travel_Rarely,Yes,3895,0,11,0,14,3,4,4,Yes
+1546,46,Male,Finance,Accountant,Master,Divorced,Travel_Rarely,No,6960,12,26,7,9,2,2,4,No
+1547,44,Female,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,No,4285,7,23,3,20,3,1,2,No
+1548,20,Male,Finance,Accountant,Master,Single,Travel_Frequently,No,3061,0,0,0,7,4,4,1,No
+1549,44,Female,R&D,Manager,Doctorate,Married,Travel_Rarely,Yes,7533,2,21,0,7,3,2,3,No
+1550,26,Male,IT,Data Analyst,College,Single,Travel_Rarely,No,3111,3,3,1,12,3,4,2,No
+1551,33,Male,Sales,Manager,Master,Single,Travel_Frequently,No,6652,1,12,0,21,2,3,4,Yes
+1552,37,Male,Sales,Sales Executive,Bachelor,Single,Travel_Rarely,No,2019,0,15,0,2,4,4,1,Yes
+1553,44,Female,R&D,Research Scientist,Bachelor,Married,Travel_Frequently,No,7146,15,21,5,29,4,3,3,No
+1554,42,Female,R&D,Research Scientist,Master,Married,Travel_Frequently,No,3232,0,22,0,4,4,2,1,No
+1555,50,Female,HR,Manager,Doctorate,Divorced,Travel_Rarely,No,7288,0,29,0,2,3,1,3,Yes
+1556,59,Male,R&D,Manager,College,Single,Travel_Frequently,No,9351,13,37,9,20,4,1,4,No
+1557,28,Female,IT,Data Analyst,Bachelor,Divorced,Travel_Rarely,No,5955,8,8,3,4,4,2,4,Yes
+1558,25,Male,Finance,Manager,Bachelor,Married,Travel_Frequently,Yes,5951,0,2,0,24,3,4,3,No
+1559,51,Male,Finance,Manager,Master,Divorced,Travel_Rarely,No,9114,7,29,6,23,1,3,4,No
+1560,38,Male,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,No,2760,2,18,0,28,2,1,3,Yes
+1561,44,Female,R&D,Research Scientist,Bachelor,Married,Travel_Rarely,No,5559,11,22,4,1,2,2,1,No
+1562,29,Female,R&D,Laboratory Technician,Bachelor,Divorced,Travel_Frequently,No,3986,1,8,1,23,3,1,3,Yes
+1563,41,Male,Finance,Accountant,Bachelor,Divorced,Travel_Frequently,No,5239,7,20,2,13,1,2,4,No
+1564,47,Female,R&D,Laboratory Technician,Bachelor,Single,Travel_Rarely,No,6435,12,25,9,28,3,3,2,No
+1565,39,Female,Sales,Manager,Master,Single,Travel_Rarely,Yes,10429,18,18,0,7,4,3,2,No
+1566,29,Female,IT,Data Analyst,College,Divorced,Travel_Rarely,No,3617,5,6,4,2,1,3,4,No
+1567,45,Male,Sales,Manager,Bachelor,Divorced,Travel_Frequently,Yes,7586,3,25,0,24,4,3,2,No
+1568,44,Female,IT,IT Manager,Master,Divorced,Travel_Rarely,Yes,9251,11,21,9,21,1,1,1,No
+1569,26,Male,R&D,Laboratory Technician,College,Divorced,Travel_Rarely,No,2953,3,3,0,11,4,3,2,No
+1570,51,Male,IT,IT Manager,Bachelor,Single,Non-Travel,No,10370,18,27,7,28,1,2,1,No
+1571,56,Male,Sales,Sales Executive,Bachelor,Divorced,Travel_Rarely,No,3536,2,35,2,10,1,1,1,Yes
+1572,38,Female,R&D,Manager,Master,Single,Travel_Rarely,No,11158,17,17,3,4,3,3,2,No
+1573,28,Male,IT,Data Analyst,Bachelor,Single,Travel_Rarely,Yes,3533,4,4,0,13,4,1,3,No
+1574,29,Male,HR,Manager,College,Married,Travel_Rarely,No,8609,9,9,9,27,2,3,2,Yes
+1575,27,Female,Sales,Manager,Master,Married,Non-Travel,No,7549,7,7,6,28,3,3,3,No
+1576,27,Male,Sales,Sales Executive,Master,Divorced,Travel_Rarely,No,4184,3,3,0,19,4,1,3,No
+1577,31,Female,Sales,Sales Representative,Master,Divorced,Travel_Rarely,No,4280,7,7,2,1,4,4,2,No
+1578,23,Female,R&D,Laboratory Technician,Bachelor,Married,Travel_Rarely,No,3224,2,2,1,26,4,2,4,No
+1579,39,Male,IT,Data Analyst,Doctorate,Single,Travel_Rarely,No,6744,13,17,1,8,1,1,1,No
+1580,20,Female,R&D,Laboratory Technician,Master,Divorced,Non-Travel,No,3262,0,0,0,7,1,4,1,No
+1581,53,Male,IT,Data Analyst,College,Married,Travel_Frequently,No,6251,14,29,6,27,2,2,1,No
+1582,41,Male,Sales,Sales Executive,Master,Divorced,Travel_Rarely,No,3186,3,17,2,1,4,3,3,No
+1583,22,Female,Finance,Manager,College,Married,Travel_Frequently,Yes,6111,0,0,0,12,1,4,3,Yes
+1584,51,Male,Sales,Sales Representative,Below College,Divorced,Travel_Rarely,No,7870,16,31,7,16,2,4,1,No
+1585,31,Female,Sales,Sales Representative,Bachelor,Married,Travel_Frequently,No,5474,11,11,3,24,4,2,2,Yes
+1586,45,Female,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,Yes,2493,1,23,0,14,2,4,3,Yes
+1587,52,Female,IT,Software Engineer,Below College,Divorced,Travel_Rarely,No,3454,3,31,2,17,1,2,2,No
+1588,47,Female,R&D,Research Scientist,College,Married,Travel_Rarely,No,5743,9,25,4,17,4,2,2,No
+1589,32,Female,Sales,Sales Representative,Bachelor,Married,Travel_Frequently,No,5246,12,12,2,5,2,2,2,No
+1590,23,Female,HR,HR Specialist,College,Married,Travel_Rarely,No,2872,0,0,0,16,2,2,3,Yes
+1591,46,Male,R&D,Laboratory Technician,Bachelor,Divorced,Travel_Rarely,Yes,2684,1,24,0,10,1,1,3,Yes
+1592,39,Male,R&D,Laboratory Technician,Bachelor,Divorced,Travel_Rarely,No,3518,0,19,0,26,2,3,3,Yes
+1593,44,Male,Sales,Manager,Bachelor,Single,Non-Travel,No,6895,4,24,4,23,1,1,2,No
+1594,32,Male,R&D,Laboratory Technician,Master,Married,Non-Travel,Yes,3918,4,12,3,21,3,3,3,No
+1595,30,Female,Finance,Accountant,Bachelor,Divorced,Travel_Frequently,Yes,5263,9,9,2,22,1,2,4,Yes
+1596,44,Female,R&D,Manager,Below College,Divorced,Travel_Rarely,Yes,8712,8,20,8,23,1,2,2,Yes
+1597,37,Male,IT,Software Engineer,Doctorate,Married,Travel_Frequently,Yes,5059,7,16,4,5,2,3,1,No
+1598,33,Male,Sales,Sales Executive,Master,Married,Travel_Rarely,No,7188,13,13,6,23,3,3,1,No
+1599,60,Male,Sales,Sales Executive,Bachelor,Divorced,Travel_Rarely,No,5739,7,38,6,1,3,2,3,No
+1600,60,Male,Sales,Manager,Master,Married,Travel_Rarely,No,8163,7,37,7,8,2,4,2,Yes
+1601,31,Male,Sales,Sales Executive,Master,Married,Travel_Rarely,No,4385,7,7,3,6,2,3,1,Yes
+1602,49,Female,Sales,Sales Executive,College,Single,Travel_Rarely,Yes,6786,16,29,10,1,1,1,4,No
+1603,37,Male,Sales,Sales Executive,College,Single,Travel_Rarely,No,3746,0,13,0,23,1,1,3,No
+1604,29,Male,R&D,Laboratory Technician,Bachelor,Divorced,Travel_Frequently,No,4460,9,9,6,18,1,1,1,Yes
+1605,34,Female,Finance,Accountant,Master,Single,Travel_Rarely,No,4406,4,11,0,29,3,2,4,No
+1606,42,Male,Finance,Financial Analyst,Bachelor,Divorced,Travel_Rarely,Yes,4864,10,18,6,14,1,1,2,Yes
+1607,59,Female,HR,Recruiter,Master,Single,Travel_Frequently,Yes,4410,3,37,1,23,4,3,3,No
+1608,44,Female,Sales,Sales Executive,Doctorate,Single,Travel_Rarely,Yes,2685,2,21,1,11,4,3,2,Yes
+1609,46,Female,R&D,Manager,Bachelor,Divorced,Travel_Frequently,No,11603,20,25,6,18,4,4,4,Yes
+1610,56,Male,IT,IT Manager,Doctorate,Single,Non-Travel,No,8393,7,36,5,16,2,1,3,No
+1611,38,Female,IT,Data Analyst,College,Single,Travel_Rarely,No,7945,17,17,2,8,4,2,2,No
+1612,43,Male,Sales,Sales Representative,College,Single,Non-Travel,Yes,7248,18,23,6,5,2,1,2,Yes
+1613,28,Female,Sales,Manager,College,Divorced,Non-Travel,No,6977,5,5,1,5,4,1,3,No
+1614,49,Female,Sales,Sales Representative,Bachelor,Single,Travel_Rarely,No,6556,16,25,6,3,2,4,2,No
+1615,55,Male,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,No,5861,15,32,1,26,4,4,2,Yes
+1616,21,Male,R&D,Laboratory Technician,College,Single,Travel_Rarely,No,3549,0,0,0,10,1,2,1,Yes
+1617,56,Male,Sales,Manager,Master,Married,Travel_Rarely,Yes,9267,15,32,5,12,3,1,3,No
+1618,26,Female,IT,Data Analyst,Master,Single,Travel_Rarely,Yes,3726,3,3,1,19,2,1,4,No
+1619,25,Male,Sales,Manager,Bachelor,Married,Travel_Rarely,Yes,8108,4,4,3,5,2,3,4,Yes
+1620,44,Male,IT,IT Manager,College,Married,Travel_Rarely,No,11898,19,23,1,1,2,4,1,No
+1621,38,Male,R&D,Research Scientist,Master,Married,Travel_Frequently,No,4366,8,18,4,23,3,1,1,No
+1622,27,Female,R&D,Research Scientist,Bachelor,Divorced,Travel_Frequently,No,4652,7,7,5,12,4,4,2,Yes
+1623,36,Male,R&D,Laboratory Technician,Bachelor,Single,Travel_Rarely,Yes,6747,12,12,1,4,2,1,2,Yes
+1624,25,Female,IT,IT Manager,College,Married,Travel_Rarely,No,6369,2,2,0,24,4,1,1,No
+1625,58,Female,Sales,Sales Representative,College,Single,Travel_Rarely,Yes,7692,15,37,0,16,4,1,2,No
+1626,43,Female,IT,Data Analyst,College,Single,Non-Travel,Yes,4016,6,20,3,21,1,4,3,Yes
+1627,46,Male,IT,Software Engineer,Bachelor,Single,Travel_Rarely,No,5222,5,24,3,25,1,4,3,No
+1628,47,Female,R&D,Research Scientist,Doctorate,Divorced,Travel_Rarely,No,5663,12,23,5,22,2,1,2,Yes
+1629,51,Female,Finance,Accountant,Bachelor,Divorced,Non-Travel,Yes,6549,13,31,3,15,1,4,2,No
+1630,54,Male,Sales,Manager,Bachelor,Married,Travel_Frequently,Yes,9258,12,30,8,27,2,2,1,No
+1631,49,Female,Sales,Sales Representative,Bachelor,Married,Travel_Rarely,No,6647,11,26,9,6,4,3,1,No
+1632,47,Female,R&D,Laboratory Technician,College,Divorced,Travel_Rarely,No,4012,3,23,0,14,1,1,1,No
+1633,38,Female,R&D,Research Scientist,Doctorate,Married,Travel_Frequently,No,5503,7,17,7,16,4,1,2,No
+1634,45,Male,IT,IT Manager,Master,Married,Travel_Rarely,No,8967,7,23,0,29,3,3,3,No
+1635,21,Male,R&D,Research Scientist,Doctorate,Single,Travel_Rarely,No,3964,0,0,0,19,3,3,2,Yes
+1636,56,Female,HR,HR Specialist,Bachelor,Single,Travel_Rarely,No,8059,20,35,2,6,2,4,3,No
+1637,60,Female,HR,Recruiter,Below College,Divorced,Travel_Rarely,No,3302,5,36,4,14,2,1,1,No
+1638,56,Female,Finance,Accountant,College,Single,Travel_Rarely,No,4336,4,36,1,29,3,2,2,No
+1639,36,Male,IT,Software Engineer,College,Single,Travel_Rarely,No,3440,2,14,0,20,1,1,1,Yes
+1640,33,Female,R&D,Laboratory Technician,College,Divorced,Travel_Rarely,No,7214,13,13,5,21,4,1,4,No
+1641,31,Female,R&D,Research Scientist,Doctorate,Divorced,Travel_Rarely,No,3960,5,11,1,16,1,1,3,No
+1642,32,Male,Sales,Sales Executive,College,Married,Travel_Rarely,No,2235,0,8,0,29,2,2,3,No
+1643,37,Female,Finance,Financial Analyst,Doctorate,Single,Travel_Rarely,No,3393,2,16,0,17,3,4,4,No
+1644,45,Male,Finance,Financial Analyst,Bachelor,Divorced,Travel_Rarely,No,8308,18,21,5,15,2,4,4,No
+1645,32,Female,HR,Recruiter,Bachelor,Married,Travel_Rarely,No,6462,10,10,10,17,4,2,1,No
+1646,21,Male,R&D,Laboratory Technician,Master,Married,Travel_Rarely,No,2148,0,0,0,7,2,3,2,Yes
+1647,41,Male,R&D,Research Scientist,College,Single,Travel_Rarely,No,7080,18,18,4,20,2,1,4,No
+1648,24,Female,Finance,Manager,Bachelor,Married,Travel_Rarely,No,7393,1,1,0,16,2,2,1,Yes
+1649,44,Male,HR,Manager,Doctorate,Single,Travel_Frequently,No,5768,0,20,0,27,1,4,3,Yes
+1650,26,Female,Sales,Sales Representative,Bachelor,Divorced,Non-Travel,No,4139,4,4,2,25,3,4,1,No
+1651,27,Female,R&D,Manager,Master,Divorced,Travel_Rarely,Yes,6465,3,3,1,11,1,1,2,Yes
+1652,54,Male,IT,Software Engineer,College,Married,Travel_Rarely,No,5939,8,34,6,10,1,1,1,No
+1653,57,Female,Sales,Sales Executive,Bachelor,Single,Travel_Rarely,No,4368,4,37,3,4,2,4,4,No
+1654,50,Male,R&D,Manager,Master,Single,Travel_Rarely,No,8850,8,30,1,21,1,3,2,No
+1655,33,Female,Sales,Sales Executive,Master,Divorced,Travel_Rarely,No,5057,6,10,4,10,3,2,3,Yes
+1656,44,Female,Sales,Sales Representative,College,Married,Travel_Frequently,Yes,6569,16,20,9,14,4,2,1,No
+1657,27,Male,Sales,Sales Executive,College,Divorced,Non-Travel,Yes,4470,7,7,6,9,1,4,4,Yes
+1658,52,Female,R&D,Laboratory Technician,College,Single,Travel_Rarely,Yes,6999,14,32,9,14,1,1,4,Yes
+1659,47,Male,HR,Manager,Below College,Married,Travel_Rarely,Yes,10608,20,27,8,29,1,2,1,Yes
+1660,45,Female,Sales,Manager,College,Divorced,Travel_Rarely,Yes,6600,3,22,2,26,3,4,2,No
+1661,59,Female,Sales,Manager,Bachelor,Single,Travel_Rarely,Yes,7930,7,37,6,29,1,2,2,Yes
+1662,24,Male,Sales,Sales Representative,Bachelor,Single,Travel_Frequently,No,4788,4,4,4,8,4,1,4,No
+1663,53,Male,Sales,Sales Executive,Doctorate,Married,Travel_Rarely,Yes,4254,3,32,2,12,3,4,4,No
+1664,39,Female,Sales,Sales Representative,College,Single,Travel_Rarely,No,6590,15,15,0,28,3,1,2,No
+1665,43,Male,IT,Software Engineer,Master,Married,Travel_Frequently,No,5296,6,23,4,21,4,1,3,Yes
+1666,41,Female,Finance,Financial Analyst,Bachelor,Married,Travel_Frequently,No,5334,13,17,1,19,3,3,2,No
+1667,38,Male,R&D,Laboratory Technician,Bachelor,Divorced,Travel_Rarely,No,6821,15,18,7,10,2,4,2,No
+1668,49,Male,IT,Data Analyst,Bachelor,Divorced,Travel_Frequently,No,4876,9,28,0,1,1,1,4,Yes
+1669,52,Male,R&D,Laboratory Technician,Below College,Married,Travel_Rarely,Yes,4595,8,32,6,8,2,4,1,No
+1670,36,Female,Finance,Accountant,College,Single,Travel_Rarely,Yes,5649,9,12,3,25,4,3,2,Yes
+1671,60,Female,Sales,Manager,Master,Divorced,Travel_Frequently,No,7828,5,36,5,15,4,1,2,No
+1672,46,Female,R&D,Laboratory Technician,Bachelor,Married,Travel_Rarely,No,3547,0,23,0,5,1,4,1,Yes
+1673,38,Male,R&D,Manager,College,Married,Travel_Frequently,No,8218,4,15,0,2,1,4,4,No
+1674,56,Female,Sales,Sales Representative,Doctorate,Single,Travel_Rarely,Yes,3401,1,34,0,24,1,2,2,Yes
+1675,51,Male,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,Yes,2918,2,31,0,4,1,1,2,No
+1676,31,Male,Sales,Sales Representative,Below College,Single,Travel_Frequently,No,4049,7,7,3,21,4,1,4,Yes
+1677,32,Female,IT,IT Manager,Bachelor,Divorced,Travel_Rarely,No,9117,9,9,7,9,1,4,3,No
+1678,38,Female,R&D,Research Scientist,Doctorate,Married,Travel_Frequently,No,6587,18,18,7,12,3,1,4,No
+1679,52,Male,Finance,Financial Analyst,Master,Married,Travel_Rarely,No,6720,16,30,2,21,1,2,2,Yes
+1680,45,Male,IT,Software Engineer,Bachelor,Divorced,Travel_Rarely,No,6429,12,22,9,11,2,3,2,No
+1681,30,Male,Sales,Sales Executive,Master,Single,Travel_Rarely,No,4330,3,10,1,26,4,3,2,No
+1682,24,Male,R&D,Laboratory Technician,Master,Single,Travel_Rarely,Yes,3242,0,0,0,21,1,4,3,Yes
+1683,55,Male,Finance,Manager,Bachelor,Divorced,Travel_Frequently,No,9019,8,34,3,6,3,2,2,Yes
+1684,26,Male,Sales,Manager,Master,Divorced,Travel_Rarely,No,7197,4,6,3,6,3,4,1,No
+1685,52,Female,Sales,Sales Representative,Bachelor,Single,Travel_Rarely,No,7625,19,30,2,21,2,1,4,No
+1686,51,Male,Sales,Sales Executive,Bachelor,Divorced,Travel_Rarely,No,8638,19,31,2,27,1,2,3,No
+1687,35,Female,Sales,Manager,Below College,Married,Travel_Rarely,Yes,9837,12,12,5,1,1,4,3,No
+1688,55,Female,Sales,Sales Executive,Bachelor,Divorced,Travel_Frequently,No,5695,7,35,7,14,1,3,1,No
+1689,26,Male,Sales,Sales Executive,Master,Single,Non-Travel,Yes,3371,3,3,0,26,3,4,4,Yes
+1690,54,Female,IT,Data Analyst,Bachelor,Single,Travel_Rarely,No,7130,17,34,1,23,4,4,2,No
+1691,42,Male,Finance,Financial Analyst,College,Divorced,Travel_Rarely,No,6455,13,20,8,1,2,2,1,No
+1692,35,Male,Finance,Accountant,Bachelor,Single,Travel_Frequently,Yes,2893,1,15,0,12,2,3,1,Yes
+1693,24,Male,R&D,Research Scientist,Doctorate,Divorced,Travel_Rarely,Yes,3960,2,2,2,10,3,2,4,Yes
+1694,54,Male,Finance,Financial Analyst,Master,Divorced,Travel_Rarely,No,5166,11,34,8,5,4,3,1,No
+1695,22,Male,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,No,3712,0,0,0,2,1,1,4,Yes
+1696,51,Male,IT,Software Engineer,Bachelor,Single,Travel_Rarely,No,5377,12,28,0,22,2,2,4,No
+1697,58,Female,R&D,Research Scientist,Master,Divorced,Travel_Rarely,Yes,8273,18,36,1,14,1,3,4,No
+1698,38,Female,Finance,Manager,Doctorate,Single,Travel_Rarely,No,10207,15,15,0,24,3,2,4,No
+1699,25,Male,HR,Recruiter,Master,Divorced,Travel_Frequently,No,2990,1,1,0,9,4,1,3,Yes
+1700,36,Male,R&D,Laboratory Technician,Bachelor,Divorced,Travel_Rarely,Yes,7228,13,13,0,12,1,4,1,No
+1701,55,Female,Sales,Manager,Bachelor,Single,Travel_Frequently,Yes,9260,14,35,10,8,3,3,4,Yes
+1702,31,Female,Sales,Sales Executive,Below College,Married,Travel_Rarely,Yes,5747,7,7,0,9,2,1,3,No
+1703,52,Female,R&D,Research Scientist,Master,Single,Travel_Rarely,Yes,7698,16,32,4,27,2,3,3,Yes
+1704,41,Female,R&D,Laboratory Technician,Bachelor,Single,Travel_Frequently,No,6504,15,19,0,2,3,1,2,Yes
+1705,52,Female,Sales,Sales Representative,College,Single,Travel_Frequently,No,6561,12,31,3,21,1,2,4,No
+1706,55,Female,Finance,Manager,College,Divorced,Travel_Rarely,No,6899,3,31,1,9,1,4,4,No
+1707,34,Female,IT,Software Engineer,Bachelor,Single,Travel_Frequently,No,2913,3,12,3,12,4,4,3,No
+1708,34,Male,R&D,Laboratory Technician,Bachelor,Single,Non-Travel,No,5379,7,10,6,10,4,2,3,No
+1709,60,Male,Sales,Sales Representative,Master,Married,Travel_Rarely,Yes,7067,14,39,2,18,1,4,3,No
+1710,30,Male,IT,Data Analyst,Master,Single,Travel_Rarely,No,4511,9,9,1,13,4,4,3,No
+1711,57,Male,IT,Software Engineer,Master,Married,Travel_Rarely,No,3791,2,37,1,15,3,4,4,No
+1712,57,Male,IT,IT Manager,College,Divorced,Travel_Rarely,No,6156,0,36,0,15,3,4,4,No
+1713,56,Female,R&D,Research Scientist,Master,Divorced,Travel_Rarely,No,6167,10,34,8,24,2,2,1,Yes
+1714,26,Female,IT,Software Engineer,College,Married,Travel_Frequently,Yes,3458,4,4,0,29,3,4,4,No
+1715,26,Male,HR,HR Specialist,Master,Single,Travel_Rarely,No,2513,2,2,1,16,1,1,2,No
+1716,48,Male,R&D,Manager,College,Single,Travel_Frequently,No,8760,9,25,1,9,1,4,4,No
+1717,34,Male,IT,IT Manager,Bachelor,Single,Travel_Rarely,No,8197,5,12,5,23,3,4,1,No
+1718,60,Male,R&D,Manager,College,Single,Travel_Rarely,Yes,7793,7,40,4,16,4,2,2,Yes
+1719,53,Male,HR,HR Specialist,Bachelor,Married,Travel_Rarely,Yes,6106,13,33,3,23,2,2,1,No
+1720,31,Female,R&D,Manager,Bachelor,Single,Travel_Rarely,No,8862,9,10,4,16,4,4,3,No
+1721,47,Male,R&D,Research Scientist,Master,Married,Travel_Frequently,No,6943,14,26,7,5,1,3,4,No
+1722,38,Female,HR,HR Specialist,Bachelor,Married,Travel_Frequently,No,4035,6,14,3,22,4,1,3,No
+1723,51,Male,Finance,Financial Analyst,Master,Divorced,Travel_Rarely,No,7453,20,29,10,19,3,4,4,No
+1724,41,Male,Finance,Manager,Bachelor,Married,Travel_Rarely,Yes,11348,17,17,8,23,1,4,1,Yes
+1725,43,Male,Sales,Sales Executive,Bachelor,Single,Travel_Rarely,No,8115,17,22,3,12,2,3,2,No
+1726,53,Male,Sales,Sales Executive,College,Divorced,Travel_Rarely,No,5617,12,29,4,1,1,2,3,No
+1727,45,Male,IT,Software Engineer,Bachelor,Single,Non-Travel,Yes,4020,2,23,2,27,4,1,1,No
+1728,39,Female,Sales,Manager,Bachelor,Divorced,Travel_Rarely,No,9915,16,16,6,4,3,3,4,No
+1729,55,Female,Sales,Sales Representative,Bachelor,Married,Travel_Rarely,No,5267,9,32,1,24,2,4,1,No
+1730,45,Male,R&D,Research Scientist,Bachelor,Single,Non-Travel,No,5044,11,22,2,26,1,3,3,Yes
+1731,35,Male,Finance,Manager,Bachelor,Married,Travel_Rarely,No,10071,12,14,2,16,4,2,1,Yes
+1732,46,Male,HR,Manager,College,Married,Travel_Rarely,No,8965,6,24,4,21,4,4,3,No
+1733,25,Male,IT,IT Manager,Bachelor,Single,Non-Travel,No,6340,2,2,1,7,1,2,1,No
+1734,51,Male,HR,Manager,Master,Divorced,Travel_Rarely,No,9352,13,27,5,24,3,1,4,No
+1735,30,Male,R&D,Manager,Doctorate,Divorced,Travel_Rarely,No,8447,8,8,2,7,3,3,4,No
+1736,20,Female,IT,Software Engineer,College,Single,Travel_Rarely,Yes,3436,0,0,0,7,1,1,3,Yes
+1737,30,Male,HR,Manager,Bachelor,Married,Travel_Rarely,No,9400,8,8,4,7,2,3,1,No
+1738,55,Male,IT,Software Engineer,College,Divorced,Travel_Rarely,Yes,7038,18,35,6,19,2,3,2,Yes
+1739,58,Female,IT,IT Manager,Bachelor,Single,Travel_Rarely,Yes,9437,15,34,0,26,1,2,2,Yes
+1740,28,Female,Finance,Accountant,Bachelor,Married,Travel_Rarely,No,4022,5,5,4,25,1,2,4,Yes
+1741,33,Male,Sales,Manager,Bachelor,Married,Travel_Rarely,No,7903,4,11,1,4,4,4,3,Yes
+1742,42,Female,R&D,Laboratory Technician,Doctorate,Single,Travel_Rarely,No,7116,19,21,8,24,2,4,3,Yes
+1743,26,Female,R&D,Laboratory Technician,Bachelor,Divorced,Travel_Rarely,No,4314,4,4,2,16,3,1,3,No
+1744,50,Female,Finance,Accountant,Master,Single,Travel_Rarely,No,3309,5,27,1,20,1,1,3,No
+1745,27,Male,Sales,Sales Representative,Master,Divorced,Non-Travel,No,4746,4,4,2,7,3,1,3,No
+1746,43,Male,Sales,Manager,Bachelor,Divorced,Travel_Rarely,No,10439,13,20,2,25,1,1,2,No
+1747,52,Female,Sales,Sales Executive,College,Married,Travel_Rarely,No,8148,20,31,1,12,1,3,3,No
+1748,25,Male,R&D,Research Scientist,Bachelor,Single,Travel_Frequently,No,3695,5,5,1,21,1,2,1,Yes
+1749,28,Female,HR,HR Specialist,Bachelor,Single,Travel_Rarely,No,5157,8,8,3,11,2,3,2,Yes
+1750,48,Female,Sales,Manager,Master,Single,Non-Travel,No,10948,15,28,9,21,3,3,4,No
+1751,47,Female,R&D,Research Scientist,Bachelor,Single,Travel_Frequently,No,4028,6,25,4,7,3,1,2,No
+1752,49,Female,Sales,Sales Executive,Master,Single,Travel_Rarely,No,7789,18,27,7,12,1,3,1,No
+1753,31,Female,HR,HR Specialist,Bachelor,Divorced,Travel_Rarely,No,4907,5,9,5,20,2,1,4,No
+1754,43,Female,IT,Software Engineer,Bachelor,Divorced,Travel_Rarely,No,5872,12,20,0,25,2,1,4,Yes
+1755,58,Male,Sales,Sales Representative,Master,Married,Travel_Rarely,Yes,3633,4,34,1,26,3,1,1,No
+1756,31,Female,HR,HR Specialist,College,Divorced,Travel_Frequently,Yes,3983,2,9,1,8,2,4,1,Yes
+1757,50,Female,Sales,Sales Executive,Bachelor,Single,Travel_Rarely,No,6543,15,29,5,5,4,2,1,No
+1758,47,Female,IT,IT Manager,Bachelor,Married,Travel_Rarely,No,7572,2,23,0,8,1,2,2,No
+1759,34,Male,IT,Data Analyst,Master,Married,Travel_Rarely,Yes,4195,6,11,2,13,3,4,1,No
+1760,36,Female,IT,Data Analyst,Master,Divorced,Travel_Frequently,No,3959,5,15,0,22,1,4,1,Yes
+1761,44,Female,Sales,Manager,Bachelor,Divorced,Travel_Rarely,No,9870,15,24,7,14,4,4,1,No
+1762,41,Female,IT,IT Manager,Doctorate,Divorced,Travel_Rarely,No,6764,5,21,1,11,4,1,2,No
+1763,47,Male,HR,Recruiter,Bachelor,Married,Travel_Rarely,Yes,4352,9,24,5,29,4,4,3,No
+1764,54,Female,IT,Data Analyst,Below College,Single,Travel_Rarely,No,4859,9,33,0,21,1,4,3,No
+1765,25,Male,R&D,Research Scientist,Master,Single,Travel_Frequently,No,4990,4,4,4,15,4,3,3,No
+1766,43,Male,Sales,Sales Representative,Master,Married,Travel_Rarely,No,7441,19,22,2,21,1,4,1,No
+1767,25,Female,Sales,Manager,Bachelor,Married,Travel_Rarely,No,7516,5,5,5,19,3,2,1,No
+1768,22,Female,Sales,Manager,Master,Married,Travel_Rarely,Yes,7351,1,1,1,14,4,2,1,Yes
+1769,40,Male,Sales,Manager,Bachelor,Divorced,Non-Travel,No,11358,19,20,5,13,4,4,3,No
+1770,49,Female,IT,Data Analyst,Master,Single,Travel_Rarely,No,6316,17,28,8,22,4,3,4,No
+1771,53,Female,Sales,Manager,Bachelor,Divorced,Travel_Rarely,No,8069,9,31,6,20,4,4,1,No
+1772,55,Female,IT,Software Engineer,College,Single,Travel_Rarely,No,5198,12,34,2,13,2,4,1,No
+1773,45,Female,IT,IT Manager,Master,Divorced,Travel_Frequently,No,8290,6,23,6,4,3,3,3,No
+1774,45,Male,R&D,Manager,College,Married,Non-Travel,No,11142,15,22,5,28,3,4,2,No
+1775,26,Female,HR,Manager,Bachelor,Single,Travel_Rarely,No,7303,2,2,2,1,4,4,2,No
+1776,46,Male,R&D,Manager,Bachelor,Divorced,Travel_Rarely,Yes,10296,19,24,8,24,4,1,3,No
+1777,49,Female,IT,Data Analyst,Master,Single,Travel_Rarely,No,3850,5,28,3,3,2,3,2,No
+1778,31,Female,HR,HR Specialist,Doctorate,Single,Travel_Rarely,Yes,4696,7,7,6,24,3,2,2,No
+1779,24,Female,Finance,Financial Analyst,College,Married,Travel_Frequently,Yes,4195,2,2,2,24,1,4,4,No
+1780,52,Female,R&D,Manager,Master,Single,Travel_Frequently,Yes,7000,3,29,3,14,3,1,2,Yes
+1781,24,Female,Sales,Manager,Bachelor,Married,Travel_Rarely,No,6427,1,1,0,26,3,3,4,No
+1782,21,Male,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,No,3162,0,0,0,21,3,3,2,Yes
+1783,29,Female,IT,Data Analyst,Below College,Married,Travel_Rarely,No,3803,6,6,5,19,1,2,3,No
+1784,59,Male,R&D,Laboratory Technician,Bachelor,Divorced,Travel_Rarely,Yes,8772,20,37,7,16,3,3,4,No
+1785,41,Male,Sales,Sales Executive,Bachelor,Divorced,Travel_Frequently,Yes,4230,6,19,6,16,3,1,2,No
+1786,34,Male,IT,IT Manager,Doctorate,Divorced,Travel_Rarely,No,6305,1,12,0,18,1,3,1,No
+1787,53,Male,Sales,Manager,Bachelor,Single,Travel_Frequently,No,8912,8,32,4,23,2,2,2,No
+1788,24,Male,Sales,Sales Executive,Bachelor,Single,Travel_Rarely,Yes,2950,0,0,0,4,2,2,4,Yes
+1789,50,Male,Sales,Sales Executive,Master,Single,Travel_Rarely,No,7441,17,30,7,14,4,3,1,No
+1790,59,Female,Sales,Manager,Bachelor,Married,Travel_Frequently,No,8173,8,39,4,17,3,4,2,No
+1791,37,Female,R&D,Laboratory Technician,Doctorate,Married,Travel_Rarely,No,3403,3,14,1,29,2,4,1,Yes
+1792,26,Female,R&D,Laboratory Technician,College,Divorced,Travel_Rarely,No,4562,4,4,4,8,2,2,1,No
+1793,33,Male,HR,Manager,College,Divorced,Travel_Frequently,Yes,7999,5,11,5,22,4,2,2,No
+1794,37,Male,R&D,Manager,Master,Divorced,Travel_Rarely,No,9877,15,15,4,11,3,3,2,No
+1795,20,Female,R&D,Laboratory Technician,Master,Single,Travel_Rarely,No,2039,0,0,0,27,2,4,3,Yes
+1796,47,Female,R&D,Laboratory Technician,College,Single,Travel_Rarely,No,8003,17,25,7,9,2,2,4,No
+1797,44,Female,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,No,4114,8,23,4,21,4,1,1,Yes
+1798,24,Female,Sales,Manager,Bachelor,Divorced,Travel_Rarely,No,6647,1,1,1,8,3,2,1,No
+1799,21,Male,IT,IT Manager,Bachelor,Married,Travel_Rarely,No,6127,1,1,0,11,3,4,2,No
+1800,58,Male,IT,Software Engineer,Master,Single,Travel_Frequently,No,4384,3,37,2,2,4,4,4,Yes
+1801,52,Female,R&D,Research Scientist,Doctorate,Single,Travel_Rarely,No,6907,15,28,8,3,3,1,1,No
+1802,59,Male,Sales,Sales Representative,College,Divorced,Travel_Rarely,No,6582,13,39,7,11,4,4,2,No
+1803,21,Female,HR,Recruiter,Bachelor,Married,Travel_Frequently,Yes,2461,0,0,0,11,4,1,1,Yes
+1804,56,Female,HR,HR Specialist,Below College,Divorced,Travel_Frequently,Yes,3371,4,32,0,4,2,2,3,No
+1805,40,Female,R&D,Research Scientist,Master,Single,Travel_Rarely,Yes,3977,6,19,3,7,2,4,3,Yes
+1806,48,Male,Finance,Accountant,Bachelor,Single,Non-Travel,No,3828,1,25,0,13,4,2,2,No
+1807,27,Male,R&D,Manager,Doctorate,Divorced,Travel_Rarely,No,6641,3,6,2,7,3,3,4,No
+1808,20,Female,Finance,Accountant,Master,Married,Travel_Frequently,No,3936,0,0,0,10,1,3,3,Yes
+1809,44,Female,IT,IT Manager,College,Single,Travel_Rarely,No,9235,8,24,2,8,3,1,2,No
+1810,23,Male,R&D,Research Scientist,Doctorate,Divorced,Travel_Frequently,No,2607,1,1,0,17,2,4,2,Yes
+1811,21,Female,Finance,Accountant,Below College,Single,Travel_Frequently,No,2058,0,0,0,26,3,3,3,No
+1812,22,Female,Sales,Sales Representative,College,Single,Travel_Rarely,Yes,3837,0,0,0,8,1,1,3,Yes
+1813,48,Male,R&D,Manager,Master,Married,Travel_Frequently,Yes,10762,20,24,10,11,4,4,3,No
+1814,56,Male,R&D,Manager,Master,Married,Travel_Frequently,No,8772,7,35,1,4,2,2,1,Yes
+1815,39,Female,Sales,Manager,Master,Divorced,Travel_Rarely,No,10364,16,16,0,12,3,2,3,No
+1816,23,Male,IT,IT Manager,Below College,Married,Travel_Rarely,Yes,6312,0,2,0,11,1,2,2,Yes
+1817,45,Female,IT,IT Manager,Bachelor,Married,Travel_Rarely,No,10342,14,24,2,25,4,1,3,No
+1818,55,Female,IT,Software Engineer,Below College,Divorced,Travel_Rarely,No,5373,10,35,3,21,3,1,3,No
+1819,55,Female,IT,Data Analyst,Doctorate,Divorced,Travel_Rarely,No,5564,11,34,10,27,4,1,2,No
+1820,42,Male,Sales,Manager,College,Single,Travel_Rarely,No,10266,16,18,9,6,3,2,2,No
+1821,29,Female,Finance,Manager,Doctorate,Married,Travel_Rarely,Yes,9345,8,8,2,17,4,3,4,No
+1822,36,Female,Sales,Sales Executive,Bachelor,Single,Travel_Rarely,No,6037,15,15,3,5,1,1,4,No
+1823,45,Male,Sales,Sales Representative,Master,Divorced,Travel_Rarely,Yes,5002,11,24,7,24,3,2,4,Yes
+1824,20,Male,Sales,Sales Representative,College,Divorced,Travel_Rarely,No,2611,0,0,0,27,4,2,4,Yes
+1825,41,Female,Finance,Manager,College,Divorced,Travel_Rarely,No,9372,12,21,7,19,3,1,4,No
+1826,25,Female,Sales,Sales Executive,Master,Married,Travel_Frequently,No,4306,4,4,2,4,4,4,1,No
+1827,46,Female,HR,Recruiter,Bachelor,Married,Travel_Rarely,Yes,2953,2,24,2,19,4,2,4,Yes
+1828,44,Female,HR,Manager,College,Divorced,Travel_Rarely,Yes,12229,19,24,9,25,1,1,1,Yes
+1829,22,Female,R&D,Manager,College,Single,Non-Travel,No,6870,0,0,0,1,1,4,4,Yes
+1830,49,Female,Finance,Accountant,Bachelor,Divorced,Travel_Frequently,No,6355,11,27,4,2,2,3,4,No
+1831,55,Female,Sales,Manager,Bachelor,Divorced,Travel_Frequently,No,8933,11,32,3,12,2,4,1,No
+1832,25,Female,R&D,Manager,Master,Married,Travel_Rarely,No,6792,3,3,3,28,2,4,2,No
+1833,40,Male,IT,Data Analyst,College,Single,Non-Travel,No,4766,6,20,4,23,3,2,4,No
+1834,29,Female,HR,Recruiter,Doctorate,Married,Travel_Frequently,No,4506,5,5,3,19,4,1,3,No
+1835,37,Male,Sales,Sales Executive,Master,Single,Non-Travel,No,4651,7,14,3,21,2,2,2,No
+1836,48,Female,IT,Software Engineer,Bachelor,Divorced,Travel_Rarely,No,7986,17,24,6,17,2,4,2,No
+1837,36,Female,IT,Software Engineer,College,Divorced,Travel_Rarely,No,4907,11,14,8,23,2,3,3,No
+1838,50,Female,Sales,Manager,Master,Married,Travel_Rarely,Yes,10801,19,30,7,19,3,2,4,No
+1839,21,Female,Sales,Sales Executive,Bachelor,Divorced,Travel_Rarely,Yes,2130,0,0,0,22,3,4,2,No
+1840,58,Female,IT,IT Manager,Master,Married,Travel_Rarely,No,7602,4,35,4,23,2,4,3,No
+1841,57,Female,Sales,Manager,Bachelor,Divorced,Travel_Rarely,Yes,11507,19,37,3,3,3,1,1,Yes
+1842,31,Male,HR,HR Specialist,Bachelor,Married,Travel_Rarely,No,4398,3,8,2,14,1,4,4,No
+1843,47,Female,R&D,Research Scientist,Bachelor,Married,Travel_Rarely,Yes,3219,2,24,0,21,4,2,2,Yes
+1844,23,Male,Sales,Manager,Below College,Divorced,Travel_Rarely,Yes,6537,1,1,0,10,1,1,3,No
+1845,51,Male,Sales,Manager,Master,Divorced,Travel_Frequently,No,8175,6,27,6,6,1,2,3,Yes
+1846,21,Male,Sales,Sales Representative,College,Divorced,Travel_Rarely,No,2714,0,0,0,22,3,3,1,No
+1847,41,Female,HR,Manager,College,Married,Travel_Rarely,No,9004,12,17,6,12,1,1,3,Yes
+1848,57,Male,Sales,Sales Representative,College,Single,Travel_Rarely,No,3078,2,33,2,11,3,4,2,No
+1849,51,Male,R&D,Research Scientist,Master,Divorced,Travel_Rarely,No,3769,3,28,0,26,4,4,3,No
+1850,56,Male,Sales,Manager,Doctorate,Single,Travel_Frequently,No,6135,1,34,1,12,1,3,4,No
+1851,52,Female,R&D,Research Scientist,College,Single,Travel_Rarely,Yes,3649,6,32,4,23,2,2,3,Yes
+1852,27,Female,Finance,Accountant,Bachelor,Married,Non-Travel,No,5442,7,7,2,8,3,2,4,No
+1853,47,Female,HR,Recruiter,Bachelor,Married,Travel_Frequently,No,7851,20,26,3,27,3,4,1,No
+1854,20,Female,R&D,Manager,Master,Married,Non-Travel,Yes,5736,0,0,0,6,2,1,1,Yes
+1855,45,Female,IT,IT Manager,Master,Single,Travel_Frequently,No,8558,9,21,8,27,3,1,1,No
+1856,22,Female,Sales,Manager,Master,Single,Travel_Rarely,Yes,5671,0,0,0,25,1,4,2,Yes
+1857,22,Male,Sales,Manager,Master,Married,Travel_Rarely,Yes,7510,1,1,0,9,1,2,3,Yes
+1858,52,Male,Sales,Sales Representative,College,Single,Travel_Rarely,No,5034,5,31,2,15,3,4,1,No
+1859,23,Male,Sales,Sales Representative,College,Single,Travel_Rarely,No,3508,3,3,0,2,1,2,3,No
+1860,56,Male,R&D,Laboratory Technician,Bachelor,Married,Travel_Rarely,Yes,8919,20,35,6,19,1,1,4,Yes
+1861,51,Female,IT,IT Manager,Bachelor,Divorced,Travel_Rarely,No,10958,20,29,6,5,2,4,3,No
+1862,21,Female,Finance,Financial Analyst,Bachelor,Single,Travel_Frequently,Yes,2256,0,0,0,27,4,2,4,No
+1863,48,Female,R&D,Laboratory Technician,Master,Divorced,Travel_Rarely,No,5253,11,25,10,7,4,2,2,No
+1864,55,Female,R&D,Laboratory Technician,Master,Married,Travel_Frequently,No,7222,20,33,9,18,4,2,4,No
+1865,55,Male,Sales,Sales Representative,Master,Married,Travel_Frequently,No,6790,16,32,10,19,4,1,2,No
+1866,56,Male,Sales,Sales Representative,Doctorate,Divorced,Travel_Rarely,No,5897,13,35,10,20,2,2,4,No
+1867,25,Male,HR,HR Specialist,College,Single,Travel_Rarely,No,2665,1,5,0,24,1,3,3,Yes
+1868,48,Female,Finance,Manager,College,Divorced,Travel_Rarely,No,7084,5,26,4,14,1,2,2,No
+1869,35,Male,R&D,Laboratory Technician,Bachelor,Single,Travel_Rarely,Yes,6468,14,14,5,13,1,2,4,No
+1870,48,Male,R&D,Research Scientist,College,Married,Travel_Rarely,No,6641,18,25,2,6,3,1,3,Yes
+1871,32,Female,Finance,Manager,Master,Single,Travel_Rarely,No,6346,2,10,2,12,4,1,4,No
+1872,30,Male,Sales,Sales Representative,Doctorate,Divorced,Travel_Rarely,Yes,4808,9,9,1,24,4,3,1,No
+1873,20,Male,Sales,Manager,Master,Divorced,Travel_Rarely,Yes,5573,0,0,0,23,4,4,4,No
+1874,46,Female,IT,Software Engineer,Master,Divorced,Non-Travel,No,5296,11,25,10,3,2,4,3,No
+1875,21,Male,IT,Data Analyst,College,Single,Travel_Frequently,Yes,3421,1,1,0,26,3,1,2,No
+1876,59,Male,IT,Software Engineer,College,Single,Travel_Rarely,No,7754,18,38,1,4,4,3,1,No
+1877,20,Female,IT,Data Analyst,College,Single,Travel_Rarely,Yes,3280,0,0,0,17,1,4,3,Yes
+1878,57,Male,Sales,Sales Representative,Master,Divorced,Travel_Frequently,No,3789,5,34,5,5,1,2,2,Yes
+1879,31,Female,IT,Data Analyst,Bachelor,Married,Travel_Rarely,No,3696,5,10,4,14,3,4,3,Yes
+1880,36,Female,Finance,Manager,Master,Single,Travel_Rarely,Yes,7269,2,15,2,25,4,3,1,Yes
+1881,25,Female,Finance,Manager,Master,Married,Travel_Rarely,No,6673,1,1,1,12,1,3,3,No
+1882,32,Male,R&D,Manager,Bachelor,Married,Travel_Rarely,Yes,8552,5,8,3,15,3,4,4,No
+1883,46,Male,Sales,Sales Representative,Master,Divorced,Travel_Frequently,No,4528,10,25,2,14,2,4,3,No
+1884,21,Female,Sales,Sales Executive,Bachelor,Divorced,Travel_Rarely,Yes,2803,0,0,0,6,2,1,4,Yes
+1885,47,Male,IT,Software Engineer,Bachelor,Single,Travel_Rarely,No,3695,1,24,1,16,1,1,3,No
+1886,39,Male,R&D,Research Scientist,Bachelor,Married,Travel_Frequently,No,7334,17,17,2,10,4,1,2,No
+1887,21,Female,Finance,Accountant,Doctorate,Married,Travel_Rarely,Yes,3298,0,0,0,29,3,2,3,No
+1888,60,Male,Finance,Financial Analyst,Bachelor,Single,Travel_Rarely,Yes,8573,19,36,2,1,2,4,4,No
+1889,49,Female,Sales,Sales Representative,Master,Married,Travel_Rarely,No,6245,14,29,10,28,2,3,2,Yes
+1890,50,Male,R&D,Manager,Bachelor,Married,Travel_Rarely,No,9961,10,28,3,20,3,2,2,No
+1891,44,Female,R&D,Research Scientist,Bachelor,Married,Non-Travel,Yes,4309,9,24,7,21,2,3,1,No
+1892,60,Female,Finance,Financial Analyst,College,Divorced,Travel_Rarely,No,4183,5,36,1,9,3,1,3,No
+1893,27,Male,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,No,4376,5,5,1,1,2,3,4,No
+1894,38,Female,IT,Data Analyst,College,Single,Travel_Rarely,Yes,5630,14,14,3,3,1,2,4,Yes
+1895,41,Male,R&D,Laboratory Technician,Bachelor,Married,Travel_Rarely,No,5574,10,18,8,14,4,4,1,No
+1896,30,Male,IT,Software Engineer,Below College,Single,Travel_Frequently,Yes,4730,7,8,2,2,1,1,2,No
+1897,45,Male,R&D,Manager,Below College,Single,Travel_Rarely,No,8159,9,21,0,19,4,1,1,No
+1898,52,Male,Sales,Sales Representative,Bachelor,Single,Travel_Frequently,Yes,4639,6,29,6,12,1,3,3,No
+1899,36,Female,R&D,Laboratory Technician,College,Married,Travel_Frequently,No,6419,16,16,3,6,1,4,4,No
+1900,39,Male,R&D,Manager,Below College,Single,Travel_Rarely,No,8194,9,15,2,17,1,2,3,No
+1901,44,Female,Sales,Manager,Bachelor,Divorced,Travel_Frequently,No,9648,12,21,3,20,2,4,4,Yes
+1902,21,Male,Sales,Sales Executive,Doctorate,Single,Non-Travel,No,3742,1,1,0,19,3,4,4,No
+1903,43,Male,Finance,Manager,Bachelor,Single,Travel_Rarely,No,9368,13,21,10,5,3,1,1,No
+1904,50,Male,HR,HR Specialist,Master,Married,Non-Travel,Yes,3303,3,30,1,1,2,4,3,Yes
+1905,21,Male,R&D,Laboratory Technician,Below College,Single,Travel_Frequently,No,3181,0,0,0,29,4,2,1,No
+1906,37,Male,IT,Data Analyst,Master,Married,Travel_Rarely,Yes,5288,6,15,5,19,4,1,1,No
+1907,23,Female,Sales,Manager,Master,Divorced,Travel_Rarely,No,6514,1,1,0,22,4,4,2,No
+1908,31,Female,HR,Recruiter,Bachelor,Married,Non-Travel,No,5633,9,9,4,18,3,2,4,No
+1909,49,Female,R&D,Laboratory Technician,Master,Single,Travel_Frequently,No,4356,5,25,4,21,3,2,3,Yes
+1910,45,Male,IT,Data Analyst,Master,Single,Travel_Rarely,No,3271,3,22,2,18,1,1,1,No
+1911,55,Female,R&D,Laboratory Technician,Bachelor,Single,Travel_Frequently,Yes,5462,12,31,3,21,3,4,1,No
+1912,26,Female,Finance,Manager,College,Divorced,Non-Travel,No,6620,2,5,0,27,3,2,4,Yes
+1913,33,Male,Sales,Sales Executive,Below College,Divorced,Travel_Rarely,Yes,3854,2,13,1,13,1,4,3,Yes
+1914,57,Female,R&D,Manager,Below College,Divorced,Travel_Rarely,Yes,10654,18,33,6,12,4,1,4,No
+1915,57,Female,IT,Software Engineer,College,Single,Travel_Rarely,No,2516,0,34,0,18,4,1,4,No
+1916,58,Female,IT,Data Analyst,Master,Divorced,Travel_Frequently,No,4694,10,38,0,1,4,2,4,No
+1917,31,Female,R&D,Manager,Bachelor,Married,Travel_Rarely,No,9179,9,9,2,17,1,3,1,Yes
+1918,27,Male,HR,Recruiter,Master,Single,Travel_Rarely,No,5088,6,7,0,24,2,1,4,Yes
+1919,57,Female,Sales,Manager,Master,Divorced,Travel_Rarely,No,9285,14,36,7,5,1,1,2,No
+1920,21,Female,IT,Software Engineer,Bachelor,Single,Non-Travel,No,3141,0,0,0,23,1,3,4,No
+1921,28,Male,R&D,Research Scientist,Bachelor,Married,Travel_Rarely,Yes,4601,5,8,5,18,2,2,4,Yes
+1922,22,Male,R&D,Manager,Master,Single,Travel_Rarely,No,5872,1,1,1,17,4,1,3,No
+1923,40,Male,Sales,Sales Executive,College,Divorced,Travel_Rarely,Yes,3938,6,17,4,4,4,4,4,No
+1924,28,Male,Sales,Manager,Bachelor,Divorced,Travel_Rarely,No,8783,8,8,3,25,1,2,2,No
+1925,22,Female,R&D,Laboratory Technician,Master,Divorced,Travel_Frequently,Yes,3241,0,0,0,27,3,4,4,No
+1926,60,Male,IT,Software Engineer,Bachelor,Divorced,Non-Travel,No,7978,19,39,2,1,4,1,4,No
+1927,45,Female,Sales,Sales Representative,Master,Married,Travel_Rarely,No,8882,20,22,6,10,3,3,3,No
+1928,55,Male,IT,IT Manager,Bachelor,Married,Travel_Frequently,Yes,8515,10,32,9,21,4,3,1,No
+1929,35,Male,R&D,Laboratory Technician,Bachelor,Divorced,Travel_Rarely,Yes,4790,9,13,9,20,3,4,3,No
+1930,38,Male,Sales,Manager,Master,Married,Travel_Rarely,No,9740,16,16,3,24,2,4,2,No
+1931,31,Female,HR,Recruiter,Bachelor,Married,Travel_Rarely,No,4049,7,9,6,9,3,4,3,No
+1932,24,Male,Finance,Accountant,Doctorate,Divorced,Travel_Frequently,No,3044,2,2,2,2,3,4,2,Yes
+1933,27,Male,R&D,Laboratory Technician,Bachelor,Married,Travel_Rarely,No,3318,3,6,0,4,1,1,1,No
+1934,22,Male,HR,HR Specialist,College,Divorced,Travel_Rarely,No,2992,2,2,1,8,3,3,4,No
+1935,29,Male,R&D,Research Scientist,Bachelor,Single,Non-Travel,No,3666,5,5,5,18,2,2,4,No
+1936,27,Male,Finance,Financial Analyst,Bachelor,Single,Travel_Rarely,Yes,5379,6,6,2,8,4,2,2,No
+1937,48,Male,IT,Software Engineer,Master,Divorced,Travel_Rarely,No,3057,3,27,0,24,4,4,4,No
+1938,51,Female,Sales,Manager,Bachelor,Divorced,Non-Travel,No,9242,10,27,10,7,4,4,4,No
+1939,33,Female,IT,Data Analyst,Bachelor,Single,Travel_Rarely,Yes,5979,11,11,9,29,3,2,4,Yes
+1940,21,Female,HR,Recruiter,Master,Single,Travel_Rarely,No,3483,0,0,0,15,1,4,4,Yes
+1941,50,Male,R&D,Laboratory Technician,Master,Single,Travel_Rarely,No,4496,7,29,2,2,2,1,4,Yes
+1942,36,Male,HR,HR Specialist,Master,Single,Travel_Rarely,No,4570,8,12,2,28,3,2,4,No
+1943,59,Male,Sales,Sales Executive,Master,Single,Non-Travel,No,8929,20,35,3,14,2,3,4,No
+1944,37,Male,Sales,Sales Executive,College,Single,Travel_Rarely,No,3842,3,13,1,6,3,2,2,No
+1945,52,Male,R&D,Research Scientist,Bachelor,Married,Travel_Rarely,Yes,3495,4,29,2,28,4,2,2,No
+1946,27,Male,R&D,Manager,Bachelor,Divorced,Travel_Rarely,No,7278,6,6,5,1,1,1,4,No
+1947,45,Female,R&D,Manager,Master,Single,Travel_Frequently,No,8591,11,21,3,17,4,3,4,Yes
+1948,27,Female,Finance,Financial Analyst,Below College,Married,Travel_Rarely,No,3406,4,4,1,25,1,3,4,No
+1949,28,Female,R&D,Manager,Bachelor,Married,Travel_Rarely,Yes,7746,5,5,1,13,2,4,3,No
+1950,35,Male,R&D,Research Scientist,Master,Single,Travel_Rarely,No,6066,9,15,5,21,3,4,4,No
+1951,50,Male,R&D,Research Scientist,Master,Married,Non-Travel,Yes,4798,10,28,8,24,2,1,1,Yes
+1952,48,Female,R&D,Research Scientist,Bachelor,Single,Travel_Frequently,No,6854,19,26,7,26,3,3,3,No
+1953,55,Male,R&D,Manager,Master,Single,Travel_Rarely,No,8791,12,34,4,25,4,3,2,No
+1954,20,Male,Sales,Sales Representative,Bachelor,Single,Non-Travel,No,3120,0,0,0,19,4,2,4,Yes
+1955,50,Male,Sales,Manager,Bachelor,Married,Travel_Rarely,No,9163,14,29,5,22,2,4,1,No
+1956,56,Female,Finance,Financial Analyst,Bachelor,Married,Travel_Rarely,Yes,7668,16,34,8,1,3,2,2,Yes
+1957,23,Female,Finance,Financial Analyst,College,Single,Travel_Rarely,No,3200,1,1,1,29,2,2,2,Yes
+1958,41,Female,R&D,Manager,College,Married,Travel_Frequently,Yes,9146,7,21,2,29,4,1,3,No
+1959,43,Male,Finance,Financial Analyst,Master,Married,Travel_Rarely,No,4580,7,21,2,14,4,4,2,No
+1960,44,Male,R&D,Manager,College,Divorced,Travel_Rarely,Yes,7008,2,24,0,29,1,2,4,Yes
+1961,38,Female,Sales,Sales Executive,Doctorate,Single,Travel_Frequently,Yes,6204,16,16,9,2,2,3,3,Yes
+1962,45,Female,Finance,Accountant,Bachelor,Married,Travel_Rarely,No,4133,8,25,8,15,1,3,2,Yes
+1963,38,Male,HR,Manager,Bachelor,Divorced,Travel_Rarely,No,9949,10,15,6,17,4,4,3,No
+1964,40,Male,Finance,Financial Analyst,Master,Single,Travel_Rarely,Yes,5620,14,19,7,19,2,1,1,Yes
+1965,41,Female,IT,Software Engineer,Master,Divorced,Travel_Rarely,No,5654,7,17,4,21,4,4,1,No
+1966,22,Female,Sales,Sales Representative,Master,Married,Travel_Rarely,Yes,3972,1,1,1,28,1,1,1,Yes
+1967,40,Female,Finance,Manager,Master,Married,Travel_Rarely,No,8015,10,19,7,28,4,3,2,No
+1968,28,Male,R&D,Research Scientist,Master,Divorced,Travel_Rarely,No,3855,4,4,2,2,3,2,2,No
+1969,26,Female,R&D,Research Scientist,Doctorate,Divorced,Travel_Frequently,Yes,4321,2,2,0,17,3,3,4,Yes
+1970,49,Female,Finance,Accountant,Doctorate,Single,Travel_Rarely,Yes,6706,14,25,6,21,3,1,4,No
+1971,56,Male,Finance,Manager,Master,Divorced,Travel_Rarely,Yes,11672,18,34,4,8,3,3,1,Yes
+1972,48,Male,Sales,Sales Executive,Master,Divorced,Travel_Rarely,No,2033,0,25,0,17,1,3,4,No
+1973,57,Male,HR,Recruiter,Bachelor,Divorced,Travel_Rarely,No,7398,17,33,0,24,1,2,4,No
+1974,35,Female,Sales,Manager,Bachelor,Married,Travel_Rarely,Yes,7625,3,15,1,9,3,2,3,No
+1975,39,Male,IT,Software Engineer,Master,Married,Travel_Frequently,No,4594,4,19,0,25,1,2,1,No
+1976,54,Female,R&D,Manager,Bachelor,Married,Travel_Frequently,No,7865,3,30,2,3,3,1,3,No
+1977,25,Male,Finance,Manager,Master,Married,Travel_Rarely,No,6561,4,4,4,11,2,4,3,No
+1978,32,Female,R&D,Research Scientist,Bachelor,Single,Travel_Frequently,No,3293,2,8,0,11,2,4,4,No
+1979,21,Female,Sales,Sales Representative,Master,Divorced,Travel_Rarely,No,2174,0,0,0,5,1,3,4,No
+1980,55,Female,R&D,Manager,Bachelor,Single,Travel_Frequently,No,11349,19,35,0,27,3,2,3,No
+1981,36,Female,HR,HR Specialist,Bachelor,Married,Travel_Rarely,No,4153,8,15,0,16,4,1,3,No
+1982,25,Male,R&D,Manager,Master,Married,Travel_Frequently,No,5944,1,1,0,9,1,3,1,No
+1983,34,Male,R&D,Research Scientist,Bachelor,Single,Travel_Rarely,No,4455,9,12,6,29,1,3,3,Yes
+1984,23,Male,R&D,Manager,Master,Married,Travel_Rarely,No,6337,3,3,2,16,1,1,4,Yes
+1985,25,Female,Finance,Accountant,Master,Single,Travel_Rarely,No,3447,4,4,4,24,1,1,4,Yes
+1986,53,Female,R&D,Manager,Master,Single,Travel_Frequently,No,7432,6,29,2,20,2,1,4,No
+1987,46,Female,R&D,Manager,Bachelor,Single,Travel_Rarely,No,8577,7,24,3,20,1,4,3,No
+1988,31,Male,HR,Manager,Master,Single,Travel_Frequently,No,7997,4,10,2,3,2,2,1,No
+1989,33,Male,R&D,Manager,Bachelor,Single,Travel_Frequently,Yes,9051,13,13,5,24,2,4,2,No
+1990,37,Female,R&D,Manager,Master,Divorced,Travel_Rarely,Yes,11281,16,16,7,22,4,3,2,No
+1991,20,Female,R&D,Laboratory Technician,College,Married,Travel_Rarely,Yes,2417,0,0,0,14,1,4,3,Yes
+1992,53,Male,IT,Software Engineer,Bachelor,Married,Travel_Frequently,No,6909,14,29,4,28,2,4,2,Yes
+1993,21,Male,Sales,Sales Executive,Bachelor,Divorced,Non-Travel,Yes,3477,0,0,0,12,2,1,3,No
+1994,26,Male,Sales,Manager,Bachelor,Divorced,Travel_Rarely,No,6805,4,4,3,1,2,4,1,No
+1995,31,Male,Sales,Sales Executive,Doctorate,Divorced,Travel_Rarely,Yes,5621,9,9,1,27,3,2,4,Yes
+1996,40,Male,HR,HR Specialist,Doctorate,Single,Travel_Rarely,No,5216,11,18,1,14,2,3,4,No
+1997,22,Male,Sales,Sales Representative,College,Single,Travel_Rarely,No,3471,0,0,0,5,1,1,4,Yes
+1998,46,Male,Sales,Manager,Bachelor,Single,Travel_Frequently,No,11197,20,24,9,8,4,2,1,No
+1999,22,Female,HR,HR Specialist,Master,Single,Non-Travel,Yes,3629,0,0,0,14,1,4,2,No
+2000,42,Female,Sales,Sales Representative,College,Single,Travel_Rarely,No,7616,17,19,0,9,1,1,1,No
+2001,32,Male,Sales,Sales Executive,Master,Divorced,Travel_Rarely,Yes,4564,10,10,10,4,4,2,2,No
+2002,47,Male,IT,IT Manager,College,Married,Travel_Rarely,No,6821,5,27,1,18,1,2,3,Yes
+2003,47,Male,Sales,Sales Executive,Bachelor,Divorced,Travel_Rarely,No,5697,8,26,7,20,3,4,2,No
+2004,37,Female,HR,Recruiter,Master,Married,Travel_Frequently,Yes,6355,15,15,9,13,1,2,4,Yes
+2005,34,Male,HR,HR Specialist,College,Single,Travel_Rarely,No,5603,10,10,0,29,2,1,2,No
+2006,35,Male,HR,HR Specialist,Master,Single,Travel_Rarely,No,6374,13,13,3,5,3,3,3,No
+2007,60,Male,IT,IT Manager,Bachelor,Single,Travel_Rarely,No,8010,4,36,2,25,1,4,1,Yes
+2008,21,Male,IT,Data Analyst,College,Divorced,Travel_Rarely,Yes,3234,1,1,0,26,1,1,2,No
+2009,21,Male,IT,IT Manager,College,Single,Travel_Rarely,No,6034,0,0,0,6,1,3,3,Yes
+2010,29,Male,R&D,Research Scientist,Bachelor,Married,Non-Travel,No,4710,7,7,0,2,1,3,4,Yes
+2011,44,Female,Sales,Sales Executive,College,Married,Travel_Rarely,No,3273,2,22,1,19,3,2,4,No
+2012,23,Female,Finance,Financial Analyst,College,Single,Travel_Rarely,No,3530,1,1,1,16,4,1,1,No
+2013,59,Male,IT,Data Analyst,Bachelor,Divorced,Travel_Frequently,Yes,3017,2,38,2,27,1,1,4,Yes
+2014,31,Female,HR,Recruiter,College,Divorced,Non-Travel,No,4568,7,8,6,9,4,2,1,No
+2015,53,Female,Sales,Sales Executive,Master,Divorced,Travel_Rarely,Yes,5004,9,30,1,24,2,4,2,Yes
+2016,49,Male,IT,Data Analyst,Bachelor,Married,Travel_Frequently,No,6187,9,26,0,25,4,2,3,Yes
+2017,43,Female,IT,IT Manager,Bachelor,Married,Travel_Frequently,No,7522,5,19,4,10,1,1,4,No
+2018,21,Male,IT,IT Manager,Bachelor,Divorced,Non-Travel,Yes,7235,1,1,1,5,2,3,3,Yes
+2019,38,Male,HR,HR Specialist,Master,Single,Travel_Rarely,Yes,4702,6,17,1,11,3,2,3,No
+2020,26,Female,IT,Data Analyst,College,Divorced,Travel_Rarely,No,2993,2,2,0,19,1,1,2,Yes
+2021,22,Female,HR,HR Specialist,Doctorate,Married,Travel_Rarely,No,2695,2,2,2,15,4,3,4,No
+2022,31,Male,Finance,Accountant,Master,Divorced,Travel_Frequently,No,3125,0,11,0,5,3,4,1,No
+2023,51,Female,R&D,Manager,Bachelor,Married,Travel_Rarely,Yes,11052,19,29,0,12,4,1,2,Yes
+2024,53,Female,HR,HR Specialist,Below College,Single,Travel_Rarely,No,6952,17,33,6,27,2,4,4,Yes
+2025,33,Male,IT,Data Analyst,Bachelor,Single,Travel_Rarely,No,3907,7,13,4,3,3,3,4,No
+2026,22,Female,R&D,Manager,Master,Divorced,Travel_Rarely,Yes,7978,2,2,0,26,4,4,4,No
+2027,22,Male,R&D,Research Scientist,College,Single,Travel_Rarely,No,4311,2,2,2,20,3,4,4,No
+2028,33,Male,R&D,Manager,Bachelor,Single,Travel_Rarely,Yes,8674,6,12,0,14,3,3,1,No
+2029,55,Male,IT,Software Engineer,Bachelor,Divorced,Non-Travel,No,3737,6,31,4,8,3,3,1,No
+2030,39,Male,IT,Software Engineer,Bachelor,Divorced,Travel_Rarely,No,6434,16,16,0,8,2,4,1,Yes
+2031,21,Male,R&D,Manager,Doctorate,Divorced,Travel_Frequently,No,6675,0,0,0,6,1,3,3,No
+2032,56,Female,Sales,Manager,Bachelor,Divorced,Travel_Rarely,No,11820,18,32,9,17,3,4,1,No
+2033,29,Female,Finance,Accountant,College,Single,Travel_Rarely,No,4573,3,5,1,7,3,2,2,No
+2034,55,Male,R&D,Manager,Bachelor,Married,Travel_Frequently,No,11561,19,32,0,4,4,2,4,No
+2035,39,Male,Sales,Sales Executive,Bachelor,Single,Travel_Frequently,Yes,7096,15,15,4,29,3,2,2,No
+2036,27,Male,Finance,Financial Analyst,Bachelor,Divorced,Travel_Rarely,No,3959,3,3,2,25,1,2,4,Yes
+2037,44,Female,R&D,Manager,College,Divorced,Travel_Frequently,Yes,12156,20,21,3,14,2,1,4,No
+2038,27,Female,R&D,Laboratory Technician,Bachelor,Single,Travel_Frequently,No,5240,6,6,6,17,2,2,3,No
+2039,20,Male,R&D,Research Scientist,Doctorate,Married,Travel_Rarely,No,2239,0,0,0,27,4,1,1,Yes
+2040,41,Male,Sales,Manager,Bachelor,Divorced,Travel_Rarely,No,6600,2,21,1,21,1,3,1,No
+2041,53,Male,Sales,Manager,Bachelor,Single,Travel_Frequently,No,9451,14,29,7,21,2,1,3,No
+2042,23,Female,Sales,Sales Executive,Bachelor,Single,Travel_Rarely,No,3205,2,2,1,1,4,2,2,No
+2043,23,Male,IT,Software Engineer,Master,Married,Non-Travel,Yes,3918,0,0,0,17,3,1,4,Yes
+2044,28,Female,R&D,Research Scientist,Bachelor,Single,Travel_Frequently,Yes,4365,5,6,1,3,4,1,4,No
+2045,20,Female,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,No,2957,0,0,0,16,2,3,2,Yes
+2046,54,Female,Sales,Manager,Bachelor,Divorced,Non-Travel,No,7788,8,32,1,28,2,3,1,No
+2047,35,Female,Sales,Sales Executive,Master,Divorced,Travel_Rarely,No,5899,8,14,8,5,4,4,1,No
+2048,30,Male,Sales,Sales Executive,Doctorate,Married,Travel_Rarely,No,4284,7,7,5,17,2,1,2,No
+2049,58,Female,R&D,Manager,College,Divorced,Travel_Frequently,No,10486,13,37,6,17,2,2,1,Yes
+2050,21,Female,Sales,Sales Representative,Master,Married,Travel_Frequently,No,2928,0,0,0,16,4,4,1,Yes
+2051,20,Female,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,No,2458,0,0,0,21,1,2,2,No
+2052,41,Female,HR,HR Specialist,College,Divorced,Travel_Rarely,No,4148,8,21,7,19,2,1,2,No
+2053,57,Female,Finance,Manager,Master,Married,Travel_Rarely,No,9009,13,36,9,29,3,1,2,No
+2054,47,Female,Sales,Manager,Bachelor,Married,Travel_Rarely,No,9075,9,23,8,3,3,3,1,No
+2055,48,Male,IT,Data Analyst,Bachelor,Divorced,Travel_Rarely,Yes,4228,5,26,4,7,4,4,4,No
+2056,59,Male,R&D,Research Scientist,Bachelor,Married,Travel_Rarely,No,7505,15,36,2,20,4,4,2,No
+2057,56,Male,Sales,Manager,Master,Single,Travel_Rarely,No,7067,1,33,1,6,3,1,4,No
+2058,44,Female,HR,Recruiter,Master,Single,Travel_Rarely,No,4843,10,20,5,9,1,1,1,No
+2059,53,Female,Sales,Sales Executive,College,Single,Travel_Rarely,No,6880,18,30,9,21,2,3,3,No
+2060,32,Male,IT,Data Analyst,Bachelor,Married,Travel_Rarely,Yes,5591,10,10,5,25,1,3,2,Yes
+2061,45,Male,Finance,Accountant,College,Divorced,Travel_Rarely,No,6262,10,24,5,17,3,1,2,Yes
+2062,36,Female,HR,Manager,College,Single,Travel_Rarely,Yes,9689,10,12,9,9,3,4,3,Yes
+2063,56,Male,HR,Manager,Master,Divorced,Travel_Rarely,No,10318,15,36,0,27,2,1,2,Yes
+2064,39,Male,R&D,Laboratory Technician,Master,Married,Travel_Rarely,No,4469,9,17,3,7,3,3,2,No
+2065,26,Male,R&D,Manager,College,Divorced,Travel_Frequently,No,8201,3,3,2,28,1,1,3,No
+2066,42,Male,IT,Data Analyst,Master,Married,Non-Travel,No,6239,12,19,5,24,1,4,1,Yes
+2067,55,Female,IT,IT Manager,Master,Divorced,Travel_Rarely,No,6869,5,32,3,11,3,4,4,No
+2068,28,Female,Sales,Sales Executive,Master,Married,Travel_Rarely,No,5475,6,6,6,12,3,3,4,No
+2069,39,Male,Sales,Sales Executive,Below College,Married,Travel_Rarely,No,7057,13,19,3,2,1,2,1,No
+2070,35,Male,IT,Data Analyst,Bachelor,Divorced,Travel_Rarely,No,5163,10,15,10,11,1,2,1,No
+2071,26,Female,IT,IT Manager,Doctorate,Divorced,Travel_Frequently,No,6795,4,4,1,16,4,4,4,No
+2072,38,Female,Finance,Financial Analyst,Bachelor,Single,Travel_Rarely,Yes,2428,0,17,0,3,2,3,3,No
+2073,28,Male,Sales,Sales Executive,Master,Single,Travel_Rarely,No,3120,4,4,3,13,1,3,1,No
+2074,55,Female,Sales,Manager,College,Single,Travel_Frequently,No,6862,0,33,0,15,4,4,1,No
+2075,55,Female,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,No,4266,4,32,3,3,1,3,2,No
+2076,26,Female,R&D,Manager,Bachelor,Single,Travel_Rarely,No,7359,6,6,6,3,4,1,4,No
+2077,57,Male,Sales,Manager,Doctorate,Divorced,Travel_Rarely,Yes,9805,10,37,5,6,2,2,4,No
+2078,39,Male,R&D,Manager,Master,Divorced,Travel_Rarely,Yes,10688,15,15,8,8,2,3,3,No
+2079,51,Female,Sales,Sales Executive,Bachelor,Married,Travel_Frequently,Yes,5679,7,28,7,1,4,3,2,No
+2080,48,Female,IT,Data Analyst,College,Divorced,Travel_Rarely,No,3363,5,28,4,11,4,1,2,No
+2081,51,Female,IT,Data Analyst,Master,Single,Travel_Rarely,No,6557,18,30,5,26,2,2,2,No
+2082,55,Male,IT,Data Analyst,Bachelor,Divorced,Travel_Rarely,No,3312,1,34,0,17,3,4,4,No
+2083,52,Female,IT,Software Engineer,Bachelor,Married,Travel_Rarely,No,4163,7,31,6,1,4,1,1,No
+2084,40,Male,IT,IT Manager,College,Divorced,Travel_Rarely,No,6046,2,17,2,25,2,2,1,No
+2085,21,Male,IT,IT Manager,Bachelor,Married,Non-Travel,No,7367,0,0,0,1,2,1,2,Yes
+2086,45,Male,Finance,Accountant,Master,Single,Non-Travel,Yes,3839,4,24,4,15,2,1,4,No
+2087,27,Female,HR,HR Specialist,Below College,Single,Travel_Rarely,Yes,4014,3,4,3,24,2,1,1,No
+2088,33,Male,Sales,Manager,Master,Married,Travel_Rarely,Yes,9348,11,11,10,1,4,3,2,No
+2089,29,Female,IT,Data Analyst,Master,Divorced,Travel_Rarely,Yes,4638,3,8,1,11,1,4,2,Yes
+2090,21,Male,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,No,3465,0,0,0,22,1,1,2,No
+2091,49,Male,IT,Data Analyst,Master,Single,Travel_Rarely,Yes,4793,8,28,0,10,3,3,3,Yes
+2092,29,Male,Sales,Manager,Bachelor,Divorced,Travel_Rarely,No,8757,8,8,0,6,4,1,3,Yes
+2093,25,Female,HR,Recruiter,Bachelor,Single,Travel_Rarely,Yes,4261,2,2,1,10,2,2,2,No
+2094,60,Male,Sales,Manager,Master,Married,Travel_Frequently,Yes,9011,9,39,9,12,1,1,1,No
+2095,47,Female,HR,Recruiter,College,Single,Travel_Rarely,No,3370,2,23,0,27,3,3,3,Yes
+2096,47,Male,IT,Software Engineer,Master,Divorced,Travel_Rarely,No,2674,1,27,0,1,1,1,1,Yes
+2097,51,Male,R&D,Research Scientist,College,Single,Travel_Frequently,Yes,6917,16,28,1,4,1,1,3,No
+2098,25,Male,IT,Software Engineer,College,Single,Travel_Frequently,No,3196,1,1,1,23,1,2,1,Yes
+2099,51,Female,R&D,Laboratory Technician,College,Divorced,Travel_Frequently,Yes,6157,12,30,10,14,2,1,1,Yes
+2100,58,Female,R&D,Laboratory Technician,Master,Single,Travel_Rarely,Yes,3374,0,35,0,26,1,3,2,No
+2101,36,Female,Finance,Financial Analyst,Master,Divorced,Travel_Frequently,No,6324,13,13,0,8,1,3,1,Yes
+2102,46,Female,Finance,Financial Analyst,Bachelor,Divorced,Travel_Rarely,No,4353,9,26,4,15,1,1,1,Yes
+2103,57,Male,IT,Software Engineer,Doctorate,Single,Travel_Rarely,Yes,6760,17,33,2,22,3,1,3,Yes
+2104,22,Female,HR,Manager,College,Divorced,Travel_Rarely,No,6827,0,0,0,3,4,4,2,No
+2105,38,Male,R&D,Manager,Bachelor,Divorced,Travel_Rarely,No,9087,12,15,3,2,2,2,4,No
+2106,31,Male,IT,Software Engineer,Master,Married,Travel_Rarely,No,3887,7,7,6,23,1,4,1,No
+2107,21,Male,Finance,Accountant,Master,Divorced,Travel_Rarely,No,2841,0,0,0,2,2,1,1,No
+2108,26,Male,HR,Recruiter,Doctorate,Divorced,Travel_Frequently,No,3421,5,5,4,15,4,2,1,No
+2109,52,Male,Finance,Manager,College,Married,Travel_Rarely,No,10079,17,32,3,25,3,3,2,No
+2110,43,Female,R&D,Manager,Bachelor,Divorced,Non-Travel,Yes,10607,17,23,2,16,1,3,1,No
+2111,39,Female,R&D,Research Scientist,Bachelor,Married,Travel_Rarely,No,8370,19,19,8,6,2,4,3,Yes
+2112,57,Female,IT,Software Engineer,Master,Divorced,Travel_Rarely,Yes,4529,8,37,5,29,3,2,1,No
+2113,35,Male,R&D,Manager,Master,Married,Travel_Rarely,No,8475,9,12,6,4,2,3,4,No
+2114,46,Female,HR,Manager,Bachelor,Married,Travel_Rarely,No,8552,12,22,7,9,2,3,4,Yes
+2115,44,Male,R&D,Research Scientist,College,Divorced,Travel_Frequently,No,5861,11,23,3,18,2,4,3,No
+2116,52,Male,R&D,Manager,Doctorate,Divorced,Travel_Rarely,No,6732,1,28,0,5,2,3,4,No
+2117,25,Female,HR,HR Specialist,Doctorate,Divorced,Travel_Frequently,No,4604,5,5,1,25,1,2,3,No
+2118,50,Female,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,Yes,5157,10,30,0,18,2,1,3,No
+2119,39,Female,R&D,Laboratory Technician,Master,Divorced,Travel_Rarely,Yes,5331,8,18,0,2,1,4,3,No
+2120,50,Female,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,Yes,7774,16,30,4,13,3,1,1,Yes
+2121,26,Male,Sales,Manager,Bachelor,Divorced,Travel_Rarely,Yes,7618,4,4,1,14,4,4,3,No
+2122,59,Female,R&D,Manager,Bachelor,Married,Travel_Frequently,No,10196,16,37,0,19,3,1,3,Yes
+2123,58,Male,HR,Manager,College,Single,Travel_Rarely,No,9969,15,38,0,4,2,4,1,No
+2124,45,Male,R&D,Manager,Bachelor,Married,Travel_Rarely,Yes,8671,10,22,0,12,2,1,3,Yes
+2125,39,Male,HR,Manager,Doctorate,Divorced,Travel_Frequently,No,10100,16,17,8,13,3,2,1,No
+2126,23,Female,R&D,Laboratory Technician,Bachelor,Married,Travel_Rarely,Yes,3771,0,0,0,12,3,3,4,No
+2127,40,Male,IT,Software Engineer,Master,Married,Travel_Rarely,No,6496,16,19,6,28,1,4,2,No
+2128,46,Female,IT,Data Analyst,Below College,Divorced,Travel_Rarely,Yes,4145,1,24,0,2,3,3,2,Yes
+2129,48,Female,Sales,Sales Executive,College,Single,Travel_Rarely,No,6549,15,25,1,1,2,3,1,Yes
+2130,36,Female,Finance,Manager,Doctorate,Married,Travel_Rarely,No,6705,0,16,0,17,1,1,4,Yes
+2131,58,Female,Sales,Manager,Master,Single,Travel_Rarely,No,6971,0,35,0,14,3,4,2,Yes
+2132,23,Male,IT,Data Analyst,Master,Divorced,Travel_Rarely,Yes,2880,0,0,0,12,4,3,2,Yes
+2133,30,Female,R&D,Manager,Master,Married,Travel_Rarely,Yes,8531,8,8,4,11,2,1,2,Yes
+2134,36,Female,HR,Recruiter,College,Single,Travel_Frequently,No,5981,9,14,2,29,3,2,2,No
+2135,54,Female,Finance,Financial Analyst,Bachelor,Divorced,Travel_Rarely,No,3860,2,30,1,10,4,2,2,Yes
+2136,54,Female,Sales,Manager,College,Married,Travel_Frequently,No,7640,2,33,0,28,3,1,1,Yes
+2137,22,Female,IT,Data Analyst,College,Married,Non-Travel,No,2677,0,0,0,28,2,3,2,Yes
+2138,48,Female,IT,Software Engineer,Bachelor,Divorced,Travel_Frequently,No,4602,9,24,4,9,1,4,3,No
+2139,33,Female,Sales,Manager,Master,Divorced,Travel_Rarely,No,8781,13,13,3,21,2,4,1,No
+2140,49,Female,Sales,Manager,Bachelor,Divorced,Travel_Rarely,No,9126,12,25,7,11,4,2,1,Yes
+2141,28,Female,IT,IT Manager,College,Single,Travel_Frequently,Yes,7108,5,5,5,9,1,4,3,Yes
+2142,35,Male,R&D,Manager,College,Divorced,Travel_Rarely,Yes,7052,3,11,1,27,1,4,1,No
+2143,56,Male,R&D,Research Scientist,Master,Single,Non-Travel,Yes,3471,4,35,4,6,1,1,2,Yes
+2144,22,Male,R&D,Research Scientist,College,Married,Travel_Rarely,No,2022,0,0,0,18,4,4,1,No
+2145,35,Female,Sales,Manager,Master,Divorced,Travel_Rarely,Yes,9315,13,13,3,14,1,1,4,Yes
+2146,40,Male,R&D,Manager,Below College,Married,Travel_Frequently,Yes,7375,0,20,0,6,1,4,4,Yes
+2147,22,Female,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,No,3853,0,0,0,21,1,1,1,No
+2148,38,Male,IT,Data Analyst,Bachelor,Married,Travel_Rarely,No,5835,15,15,3,17,4,3,4,No
+2149,55,Male,R&D,Laboratory Technician,Master,Divorced,Travel_Rarely,No,7492,17,32,6,15,4,2,4,No
+2150,56,Male,R&D,Manager,Master,Married,Travel_Rarely,No,9562,16,33,7,12,4,1,3,No
+2151,21,Male,R&D,Laboratory Technician,Doctorate,Divorced,Travel_Rarely,No,2930,0,0,0,28,2,4,3,Yes
+2152,55,Male,R&D,Research Scientist,Bachelor,Single,Travel_Rarely,No,5437,11,31,7,17,1,4,3,No
+2153,28,Female,Sales,Manager,Bachelor,Divorced,Travel_Rarely,No,7574,6,6,1,3,1,1,2,No
+2154,58,Female,Sales,Sales Executive,Bachelor,Single,Travel_Rarely,No,7476,16,36,8,24,4,1,3,No
+2155,22,Female,Sales,Sales Representative,Below College,Divorced,Non-Travel,Yes,3017,0,0,0,27,2,2,3,Yes
+2156,41,Female,R&D,Manager,Bachelor,Single,Travel_Rarely,No,7485,1,19,1,28,2,2,3,No
+2157,20,Male,Finance,Financial Analyst,College,Single,Travel_Frequently,No,3468,0,0,0,15,2,2,3,Yes
+2158,20,Female,Finance,Financial Analyst,Doctorate,Divorced,Travel_Rarely,No,3176,0,0,0,12,1,1,1,No
+2159,25,Female,Sales,Manager,Master,Married,Non-Travel,Yes,8439,4,4,4,27,1,3,2,Yes
+2160,24,Female,Sales,Sales Representative,Master,Divorced,Non-Travel,No,3855,0,0,0,23,1,4,3,No
+2161,34,Male,R&D,Laboratory Technician,Bachelor,Married,Travel_Rarely,No,4769,10,10,6,20,2,4,3,No
+2162,52,Male,Sales,Manager,Bachelor,Single,Travel_Rarely,No,7072,6,29,4,9,1,2,1,No
+2163,31,Male,R&D,Manager,Master,Single,Travel_Rarely,Yes,8573,8,8,2,25,3,4,3,No
+2164,54,Female,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,No,7156,13,34,2,18,2,3,3,No
+2165,39,Female,Sales,Manager,Master,Divorced,Non-Travel,Yes,11421,17,18,5,15,3,1,4,No
+2166,43,Female,R&D,Research Scientist,Bachelor,Single,Travel_Rarely,No,5347,6,22,5,25,1,1,3,Yes
+2167,26,Male,Sales,Manager,Below College,Married,Travel_Frequently,No,7230,2,6,2,22,4,4,1,No
+2168,31,Male,HR,HR Specialist,Master,Single,Travel_Rarely,No,6424,11,11,0,9,3,2,3,No
+2169,48,Female,HR,HR Specialist,Master,Divorced,Travel_Frequently,No,6511,11,24,1,14,1,1,2,No
+2170,31,Female,R&D,Manager,Doctorate,Married,Non-Travel,No,7828,7,7,7,2,3,1,4,No
+2171,58,Male,IT,Software Engineer,Doctorate,Married,Travel_Frequently,No,6598,18,36,9,1,1,2,1,Yes
+2172,20,Male,R&D,Manager,Bachelor,Divorced,Travel_Rarely,Yes,7298,0,0,0,7,3,2,1,Yes
+2173,59,Male,R&D,Manager,College,Married,Travel_Rarely,No,12056,20,38,5,25,2,3,3,Yes
+2174,22,Male,R&D,Research Scientist,Doctorate,Divorced,Non-Travel,No,3169,0,0,0,14,1,1,4,No
+2175,35,Female,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,No,5167,8,11,5,28,2,2,2,No
+2176,51,Female,Sales,Sales Representative,Master,Single,Travel_Rarely,No,4546,5,28,3,12,1,2,2,No
+2177,31,Female,Sales,Sales Representative,Master,Single,Travel_Rarely,No,6104,11,11,3,19,2,1,2,Yes
+2178,20,Male,IT,Data Analyst,Bachelor,Divorced,Travel_Rarely,No,2500,0,0,0,1,4,1,3,No
+2179,27,Male,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,No,4835,4,4,4,22,2,1,3,No
+2180,40,Male,Finance,Financial Analyst,College,Single,Travel_Rarely,No,4059,5,20,1,2,4,3,2,No
+2181,49,Female,Finance,Accountant,Master,Single,Non-Travel,Yes,7822,16,27,7,1,3,4,4,Yes
+2182,34,Male,IT,Data Analyst,Master,Divorced,Travel_Rarely,No,3638,6,13,4,12,2,1,2,No
+2183,43,Male,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,No,3430,3,20,2,18,4,2,3,No
+2184,30,Male,R&D,Laboratory Technician,Master,Divorced,Travel_Rarely,No,4730,7,7,3,18,1,3,2,Yes
+2185,29,Female,Finance,Manager,College,Married,Travel_Rarely,Yes,8552,8,8,0,5,3,1,1,Yes
+2186,54,Male,Sales,Sales Representative,Bachelor,Married,Travel_Rarely,No,3181,4,33,1,9,2,1,3,No
+2187,27,Male,IT,IT Manager,Master,Single,Non-Travel,No,8006,4,4,1,21,2,1,2,No
+2188,29,Male,Sales,Manager,College,Married,Travel_Rarely,No,7924,4,8,0,29,4,3,2,No
+2189,25,Female,IT,IT Manager,College,Divorced,Travel_Rarely,No,7147,1,3,0,27,4,2,1,No
+2190,42,Female,R&D,Laboratory Technician,Master,Divorced,Non-Travel,No,4150,3,18,0,1,2,2,1,No
+2191,22,Male,R&D,Manager,Bachelor,Married,Non-Travel,Yes,7224,0,0,0,24,1,3,2,Yes
+2192,32,Male,Sales,Sales Executive,Bachelor,Married,Travel_Frequently,Yes,5391,9,9,6,29,1,3,4,No
+2193,44,Male,IT,Data Analyst,Bachelor,Married,Travel_Rarely,Yes,3123,4,21,0,10,4,3,3,No
+2194,39,Male,R&D,Research Scientist,College,Single,Travel_Rarely,No,6842,18,18,6,15,1,3,4,No
+2195,29,Female,Sales,Sales Representative,College,Divorced,Travel_Frequently,No,5379,8,8,0,5,3,3,3,No
+2196,59,Male,R&D,Manager,Bachelor,Married,Travel_Rarely,Yes,10097,13,35,3,20,2,3,1,No
+2197,38,Female,IT,Data Analyst,Doctorate,Single,Travel_Frequently,No,5252,11,17,3,9,3,2,2,Yes
+2198,53,Female,IT,Software Engineer,Bachelor,Divorced,Travel_Rarely,No,3594,0,30,0,24,3,3,4,No
+2199,57,Female,IT,Software Engineer,Doctorate,Married,Travel_Rarely,No,4655,6,35,5,16,2,4,3,No
+2200,47,Male,R&D,Research Scientist,Master,Single,Travel_Rarely,Yes,3045,4,25,4,18,3,3,3,No
+2201,41,Male,R&D,Research Scientist,Bachelor,Single,Travel_Frequently,Yes,7118,18,18,3,28,3,4,4,Yes
+2202,28,Male,IT,Software Engineer,Bachelor,Divorced,Travel_Frequently,No,3750,6,6,5,27,3,2,4,No
+2203,46,Male,Sales,Sales Executive,College,Married,Travel_Rarely,No,5660,10,24,10,14,2,1,4,No
+2204,27,Female,Sales,Manager,Bachelor,Single,Travel_Frequently,No,7004,3,3,2,24,2,1,1,Yes
+2205,37,Male,Sales,Manager,Bachelor,Divorced,Travel_Frequently,No,9099,14,14,10,4,3,3,4,No
+2206,53,Female,HR,Manager,Bachelor,Divorced,Travel_Rarely,Yes,6770,4,31,1,19,4,4,4,Yes
+2207,23,Male,Sales,Sales Representative,Bachelor,Single,Non-Travel,No,2916,1,1,0,21,1,1,3,Yes
+2208,28,Male,HR,Manager,Bachelor,Divorced,Travel_Rarely,No,6804,5,6,0,20,2,1,4,No
+2209,53,Male,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,No,4024,5,30,3,20,2,1,2,Yes
+2210,31,Female,IT,IT Manager,College,Single,Travel_Rarely,Yes,9862,10,10,7,8,3,3,2,Yes
+2211,58,Male,HR,Manager,College,Married,Non-Travel,No,8211,9,38,5,5,4,2,3,No
+2212,23,Female,R&D,Research Scientist,College,Single,Non-Travel,Yes,4449,3,3,3,28,4,1,2,Yes
+2213,55,Male,R&D,Laboratory Technician,Master,Married,Travel_Frequently,No,7614,17,31,4,26,2,1,4,No
+2214,50,Male,Sales,Sales Representative,Doctorate,Single,Travel_Rarely,No,7486,14,28,2,7,2,2,2,No
+2215,26,Female,R&D,Manager,Bachelor,Married,Travel_Rarely,No,8003,4,4,4,12,2,2,2,No
+2216,23,Female,R&D,Laboratory Technician,College,Single,Travel_Rarely,No,4251,2,2,2,21,4,2,1,No
+2217,20,Female,Sales,Sales Executive,Master,Single,Travel_Rarely,No,2304,0,0,0,1,3,1,3,Yes
+2218,38,Female,HR,Manager,Master,Married,Non-Travel,No,9879,17,17,5,11,4,3,4,No
+2219,60,Male,Sales,Sales Executive,Master,Married,Travel_Rarely,No,3659,2,38,1,25,3,1,1,Yes
+2220,56,Female,Finance,Accountant,College,Single,Travel_Frequently,No,5148,6,32,0,6,4,4,3,No
+2221,20,Male,R&D,Research Scientist,Doctorate,Divorced,Travel_Rarely,No,2629,0,0,0,3,2,1,2,No
+2222,54,Female,HR,Recruiter,Bachelor,Married,Travel_Rarely,No,2587,1,31,0,14,4,2,1,Yes
+2223,21,Female,HR,Manager,Bachelor,Single,Travel_Frequently,No,5985,0,0,0,27,4,4,3,Yes
+2224,44,Female,HR,Manager,Below College,Single,Travel_Rarely,Yes,7255,6,22,2,5,3,2,2,No
+2225,44,Female,IT,Software Engineer,Below College,Married,Travel_Frequently,No,7956,18,22,7,2,3,4,1,No
+2226,47,Female,R&D,Manager,College,Married,Travel_Rarely,No,8609,9,24,0,27,4,3,1,No
+2227,46,Male,R&D,Research Scientist,Bachelor,Married,Travel_Rarely,No,5705,10,24,9,24,4,2,1,Yes
+2228,27,Female,R&D,Research Scientist,Bachelor,Married,Travel_Rarely,No,3601,6,6,1,23,2,3,2,No
+2229,30,Female,Sales,Manager,Master,Divorced,Travel_Frequently,No,8257,6,7,6,10,2,1,3,No
+2230,42,Female,R&D,Laboratory Technician,Bachelor,Married,Travel_Rarely,Yes,6776,13,19,4,8,3,3,3,No
+2231,57,Male,R&D,Manager,Bachelor,Married,Travel_Frequently,No,7833,7,33,4,8,3,3,4,Yes
+2232,55,Male,IT,IT Manager,Bachelor,Single,Travel_Frequently,Yes,8489,7,34,4,24,3,4,2,Yes
+2233,56,Female,Sales,Sales Executive,Bachelor,Divorced,Travel_Rarely,No,3230,1,35,1,11,1,4,1,No
+2234,41,Female,IT,Software Engineer,Bachelor,Divorced,Travel_Rarely,No,3020,4,17,2,2,2,1,2,No
+2235,59,Male,Sales,Manager,College,Divorced,Travel_Frequently,No,6029,1,35,1,25,2,3,1,No
+2236,58,Female,IT,IT Manager,College,Divorced,Travel_Rarely,No,9988,10,37,1,26,4,1,4,No
+2237,32,Female,R&D,Laboratory Technician,Bachelor,Single,Travel_Frequently,No,6413,10,10,4,18,1,1,2,No
+2238,30,Male,Sales,Sales Representative,College,Single,Non-Travel,Yes,4292,7,10,3,14,4,3,2,No
+2239,52,Female,IT,Software Engineer,Bachelor,Single,Travel_Rarely,Yes,2781,0,28,0,25,3,2,3,Yes
+2240,38,Male,Finance,Financial Analyst,College,Single,Travel_Rarely,Yes,5723,8,15,5,11,1,3,2,No
+2241,59,Female,Sales,Manager,College,Single,Travel_Rarely,No,8907,12,36,3,7,4,3,2,Yes
+2242,45,Male,Sales,Sales Representative,Bachelor,Married,Non-Travel,No,3904,6,24,5,9,2,1,2,Yes
+2243,43,Male,Finance,Financial Analyst,Master,Single,Travel_Rarely,Yes,5760,13,20,5,29,4,3,3,Yes
+2244,34,Female,Sales,Sales Executive,Bachelor,Married,Non-Travel,Yes,3345,5,11,4,5,2,3,2,No
+2245,25,Female,IT,Data Analyst,College,Divorced,Travel_Rarely,No,4804,4,4,2,12,2,3,1,No
+2246,26,Female,R&D,Manager,College,Married,Travel_Rarely,No,8145,3,3,1,9,4,1,2,No
+2247,50,Male,Finance,Accountant,Below College,Divorced,Travel_Rarely,No,6648,16,28,5,20,1,2,2,No
+2248,36,Male,IT,Software Engineer,College,Single,Non-Travel,Yes,7376,15,15,0,6,2,4,1,Yes
+2249,22,Male,R&D,Manager,Master,Married,Travel_Rarely,No,7251,0,0,0,2,1,1,4,No
+2250,29,Female,Finance,Manager,Master,Single,Travel_Rarely,No,8975,9,9,2,11,3,3,2,No
+2251,36,Male,Finance,Financial Analyst,College,Single,Travel_Rarely,No,7505,15,15,6,10,2,1,3,No
+2252,57,Female,HR,Recruiter,Bachelor,Married,Travel_Frequently,No,5499,6,36,6,10,1,2,2,Yes
+2253,51,Female,R&D,Manager,Bachelor,Divorced,Travel_Rarely,No,8757,8,31,1,22,2,1,3,No
+2254,48,Female,IT,Data Analyst,College,Divorced,Travel_Rarely,No,8049,19,26,6,22,2,4,4,No
+2255,50,Female,Sales,Sales Representative,Bachelor,Divorced,Non-Travel,No,3414,5,29,4,29,2,1,4,Yes
+2256,30,Male,HR,Manager,Bachelor,Married,Travel_Rarely,Yes,7086,6,6,5,5,3,4,2,No
+2257,49,Male,Sales,Sales Executive,College,Divorced,Travel_Rarely,No,4133,5,26,4,13,3,2,1,Yes
+2258,26,Male,HR,Recruiter,Master,Single,Travel_Rarely,Yes,3925,3,5,1,18,1,1,3,Yes
+2259,29,Male,HR,HR Specialist,Master,Divorced,Travel_Rarely,No,3602,2,8,1,5,3,1,3,No
+2260,26,Male,Sales,Sales Executive,College,Divorced,Non-Travel,Yes,3125,2,2,1,25,1,4,3,Yes
+2261,48,Female,Finance,Financial Analyst,Bachelor,Married,Travel_Rarely,No,6436,10,27,1,28,4,4,3,No
+2262,38,Male,IT,Data Analyst,College,Married,Travel_Rarely,Yes,6653,18,18,0,7,4,2,2,Yes
+2263,33,Male,HR,Manager,Bachelor,Married,Travel_Rarely,No,10016,11,11,9,20,1,1,4,No
+2264,53,Male,Sales,Manager,Bachelor,Married,Non-Travel,No,9949,16,32,2,29,1,1,1,No
+2265,32,Male,Sales,Sales Representative,Bachelor,Married,Travel_Frequently,Yes,4007,8,8,4,11,4,2,1,Yes
+2266,55,Male,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,No,6372,17,33,7,15,4,2,1,No
+2267,31,Male,Finance,Accountant,Master,Divorced,Travel_Rarely,No,4584,7,7,1,29,2,2,4,No
+2268,31,Female,Finance,Financial Analyst,College,Divorced,Travel_Rarely,Yes,4743,3,8,1,3,3,1,1,Yes
+2269,29,Male,Sales,Manager,Bachelor,Single,Travel_Rarely,No,7694,5,5,2,24,2,3,2,No
+2270,21,Female,IT,IT Manager,College,Divorced,Travel_Frequently,No,7190,0,0,0,19,1,4,3,No
+2271,24,Male,IT,Data Analyst,Master,Married,Travel_Frequently,No,4130,1,1,1,17,4,1,4,No
+2272,54,Female,R&D,Research Scientist,Master,Married,Travel_Rarely,Yes,6521,15,32,2,12,1,2,4,No
+2273,28,Female,R&D,Research Scientist,Bachelor,Married,Travel_Rarely,No,3707,5,5,0,20,2,3,3,No
+2274,57,Male,IT,Data Analyst,College,Married,Travel_Rarely,No,5208,8,34,6,10,2,4,4,No
+2275,58,Female,R&D,Manager,Doctorate,Single,Travel_Frequently,Yes,9814,15,36,8,3,3,3,4,No
+2276,35,Female,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,No,6501,12,12,6,19,3,2,4,No
+2277,36,Female,R&D,Research Scientist,College,Single,Travel_Rarely,No,2669,0,14,0,6,2,4,1,No
+2278,38,Male,Sales,Sales Representative,Below College,Divorced,Travel_Rarely,Yes,7827,17,18,3,8,3,3,1,No
+2279,50,Female,IT,Software Engineer,Bachelor,Single,Non-Travel,Yes,7383,17,26,7,12,4,3,1,No
+2280,20,Male,Finance,Accountant,Below College,Married,Travel_Rarely,No,3321,0,0,0,7,4,1,3,No
+2281,48,Female,IT,Data Analyst,College,Divorced,Travel_Frequently,No,6587,14,25,0,16,4,1,1,Yes
+2282,43,Male,IT,Software Engineer,Bachelor,Single,Travel_Rarely,Yes,4019,7,23,4,20,3,3,3,No
+2283,45,Female,Finance,Manager,Master,Divorced,Travel_Rarely,No,7989,9,24,7,11,4,2,2,Yes
+2284,31,Male,Finance,Accountant,Below College,Married,Travel_Rarely,Yes,5650,11,11,6,26,2,2,3,Yes
+2285,43,Male,Sales,Sales Representative,Bachelor,Single,Travel_Frequently,No,5890,13,19,4,1,1,2,2,No
+2286,30,Male,R&D,Research Scientist,Master,Single,Travel_Frequently,No,5653,7,10,2,23,2,1,1,No
+2287,47,Female,R&D,Research Scientist,Bachelor,Married,Travel_Rarely,No,8458,20,23,9,22,2,3,3,No
+2288,28,Female,Sales,Sales Representative,Bachelor,Single,Travel_Rarely,Yes,5259,8,8,0,3,3,4,3,No
+2289,39,Male,HR,Recruiter,Bachelor,Married,Travel_Rarely,No,7066,14,17,4,12,3,4,2,No
+2290,38,Male,R&D,Manager,Master,Divorced,Travel_Rarely,No,6782,3,15,2,10,3,4,2,No
+2291,34,Male,R&D,Research Scientist,Bachelor,Divorced,Travel_Frequently,Yes,5990,14,14,6,27,1,1,2,No
+2292,54,Male,R&D,Manager,Bachelor,Divorced,Travel_Rarely,No,6402,2,30,1,1,2,4,4,No
+2293,48,Female,R&D,Research Scientist,Master,Divorced,Non-Travel,No,5488,10,25,8,26,2,3,2,No
+2294,50,Male,Sales,Sales Representative,Bachelor,Single,Travel_Rarely,No,4906,8,28,6,24,4,1,4,No
+2295,34,Male,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,No,3536,4,11,4,29,3,4,4,No
+2296,23,Female,HR,HR Specialist,College,Divorced,Travel_Rarely,No,2194,0,0,0,23,2,3,2,No
+2297,44,Female,Sales,Sales Representative,Master,Married,Travel_Frequently,No,6349,16,20,7,18,4,3,4,No
+2298,53,Male,IT,Software Engineer,Master,Married,Travel_Rarely,No,2896,3,29,0,15,1,2,2,No
+2299,32,Female,Sales,Manager,Master,Married,Travel_Rarely,Yes,10395,12,12,3,11,3,3,3,No
+2300,53,Female,IT,Data Analyst,Bachelor,Married,Travel_Frequently,Yes,3831,3,29,0,17,2,1,2,No
+2301,51,Male,R&D,Manager,Bachelor,Married,Travel_Rarely,No,8911,10,29,8,15,1,2,1,No
+2302,33,Male,Finance,Manager,Below College,Divorced,Travel_Rarely,No,7968,2,11,0,24,3,1,4,No
+2303,27,Male,Sales,Manager,Bachelor,Divorced,Travel_Frequently,No,8213,3,3,2,28,1,1,2,Yes
+2304,27,Male,IT,Software Engineer,Bachelor,Single,Travel_Rarely,No,2337,1,4,1,10,3,1,1,Yes
+2305,53,Female,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,No,5444,12,32,9,23,2,4,1,No
+2306,23,Male,R&D,Manager,Bachelor,Single,Non-Travel,No,7046,1,1,1,10,4,1,3,No
+2307,57,Female,IT,Data Analyst,Bachelor,Divorced,Travel_Rarely,No,3844,5,33,5,8,1,1,4,Yes
+2308,50,Female,R&D,Research Scientist,Bachelor,Single,Travel_Rarely,Yes,6339,14,29,8,1,2,4,4,Yes
+2309,24,Female,IT,Software Engineer,Master,Divorced,Travel_Frequently,No,2935,1,4,1,18,4,3,2,No
+2310,27,Male,Sales,Sales Representative,College,Married,Travel_Rarely,No,3516,6,6,1,9,2,4,2,No
+2311,36,Female,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,Yes,7397,14,14,6,1,2,3,2,No
+2312,58,Male,Sales,Manager,Master,Married,Travel_Rarely,Yes,8534,5,34,5,11,3,4,3,Yes
+2313,54,Female,IT,Software Engineer,Master,Divorced,Travel_Frequently,Yes,7064,15,33,1,14,3,2,1,No
+2314,22,Male,IT,Software Engineer,Bachelor,Divorced,Travel_Rarely,No,3123,0,0,0,16,1,4,2,No
+2315,50,Female,Sales,Sales Representative,College,Divorced,Travel_Frequently,Yes,5929,8,30,0,12,1,1,1,Yes
+2316,42,Female,Sales,Sales Executive,Bachelor,Divorced,Travel_Rarely,No,4081,1,21,1,3,1,2,2,No
+2317,24,Male,Sales,Sales Representative,Bachelor,Single,Travel_Frequently,No,3326,4,4,0,9,3,1,2,Yes
+2318,39,Male,R&D,Manager,Bachelor,Married,Travel_Frequently,No,6809,4,18,4,24,4,1,4,No
+2319,25,Female,Sales,Sales Representative,College,Divorced,Travel_Frequently,Yes,3103,3,3,0,14,1,3,2,Yes
+2320,47,Male,R&D,Manager,Master,Single,Travel_Frequently,Yes,7918,6,24,1,23,1,2,4,No
+2321,35,Female,Sales,Sales Representative,Bachelor,Single,Travel_Rarely,Yes,4962,4,12,3,18,3,2,4,No
+2322,51,Male,Sales,Sales Executive,Bachelor,Single,Travel_Rarely,No,4942,10,30,0,20,1,1,4,No
+2323,26,Male,Sales,Sales Executive,College,Single,Travel_Frequently,No,3515,2,2,1,5,4,1,4,Yes
+2324,46,Male,Finance,Financial Analyst,Bachelor,Married,Non-Travel,No,3681,3,23,1,9,1,4,1,No
+2325,28,Male,IT,Software Engineer,College,Divorced,Travel_Rarely,Yes,3701,4,6,0,6,4,1,2,Yes
+2326,21,Female,IT,IT Manager,College,Single,Travel_Rarely,No,6763,0,0,0,1,4,2,4,Yes
+2327,50,Female,Sales,Sales Executive,Master,Married,Travel_Rarely,No,7553,20,30,5,12,3,1,2,Yes
+2328,26,Male,Sales,Sales Executive,Bachelor,Divorced,Travel_Rarely,No,4106,4,4,4,29,1,2,4,No
+2329,50,Female,Finance,Financial Analyst,Bachelor,Married,Travel_Rarely,Yes,7109,13,26,4,1,4,4,1,Yes
+2330,55,Male,IT,Software Engineer,Bachelor,Single,Travel_Rarely,No,2925,3,31,1,14,4,3,2,No
+2331,28,Male,Finance,Manager,Bachelor,Single,Travel_Rarely,Yes,7919,6,6,4,2,3,4,3,No
+2332,29,Male,Sales,Sales Executive,Bachelor,Married,Non-Travel,No,4274,2,8,0,1,2,4,2,No
+2333,21,Female,Sales,Sales Executive,Bachelor,Single,Travel_Rarely,No,3215,0,0,0,4,4,4,2,Yes
+2334,21,Male,Sales,Sales Executive,College,Married,Travel_Rarely,No,3403,0,0,0,16,2,2,2,No
+2335,20,Female,HR,Recruiter,College,Single,Non-Travel,No,2528,0,0,0,13,1,4,4,No
+2336,26,Male,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,No,3856,2,3,1,20,1,3,1,No
+2337,29,Male,IT,Software Engineer,Master,Married,Travel_Rarely,Yes,4416,8,8,0,11,1,1,3,Yes
+2338,58,Female,R&D,Manager,Master,Single,Non-Travel,No,10904,18,36,2,5,3,4,4,No
+2339,28,Male,HR,HR Specialist,College,Married,Travel_Rarely,No,4982,4,4,4,1,2,4,3,No
+2340,36,Female,Finance,Financial Analyst,Doctorate,Single,Travel_Rarely,Yes,6138,14,15,7,6,3,2,4,Yes
+2341,59,Male,Sales,Sales Executive,Doctorate,Divorced,Travel_Rarely,No,4406,4,35,2,14,3,1,1,No
+2342,45,Male,Sales,Manager,Bachelor,Single,Non-Travel,No,6291,1,25,0,14,2,2,1,No
+2343,25,Male,R&D,Research Scientist,Below College,Married,Travel_Frequently,No,3183,4,4,2,5,4,1,3,Yes
+2344,40,Male,IT,Software Engineer,Doctorate,Married,Travel_Frequently,No,6080,9,18,4,5,1,3,2,No
+2345,59,Male,Finance,Accountant,College,Single,Travel_Rarely,Yes,4757,7,37,6,28,4,2,3,Yes
+2346,30,Male,Finance,Manager,Doctorate,Divorced,Travel_Rarely,No,7057,3,8,3,15,2,4,2,No
+2347,45,Male,R&D,Laboratory Technician,Master,Divorced,Travel_Rarely,No,5045,8,24,7,28,4,4,4,No
+2348,23,Male,HR,Manager,College,Married,Travel_Frequently,Yes,6117,0,1,0,5,1,3,4,Yes
+2349,44,Male,R&D,Laboratory Technician,Bachelor,Single,Non-Travel,Yes,3335,4,24,3,12,4,3,3,No
+2350,25,Male,Sales,Sales Representative,Below College,Divorced,Travel_Rarely,No,4199,5,5,2,8,2,1,2,Yes
+2351,52,Male,HR,Recruiter,Master,Single,Travel_Rarely,No,6829,16,32,1,9,4,1,4,No
+2352,25,Male,Finance,Accountant,Below College,Divorced,Travel_Rarely,Yes,3256,3,3,2,28,3,1,2,No
+2353,20,Male,Finance,Financial Analyst,College,Divorced,Travel_Rarely,Yes,2414,0,0,0,6,4,1,1,Yes
+2354,23,Male,R&D,Manager,Master,Single,Travel_Rarely,Yes,8132,3,3,3,16,1,2,3,No
+2355,55,Female,R&D,Laboratory Technician,Bachelor,Single,Travel_Rarely,No,4150,3,35,2,23,4,2,3,Yes
+2356,49,Female,HR,Manager,Bachelor,Single,Travel_Rarely,No,6197,0,27,0,8,1,2,4,No
+2357,48,Male,Sales,Manager,College,Single,Travel_Rarely,No,6729,4,25,4,14,1,2,4,Yes
+2358,28,Male,HR,HR Specialist,College,Single,Travel_Rarely,No,4004,4,4,1,25,4,3,4,Yes
+2359,26,Male,IT,IT Manager,Below College,Single,Travel_Rarely,No,8525,5,5,5,17,3,3,4,No
+2360,33,Female,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,No,4866,5,12,3,13,1,4,1,No
+2361,44,Female,HR,HR Specialist,Doctorate,Single,Non-Travel,No,3927,2,22,0,24,1,2,3,No
+2362,29,Female,IT,Software Engineer,Doctorate,Divorced,Travel_Rarely,No,2745,0,9,0,2,1,2,2,No
+2363,27,Male,Sales,Sales Executive,Bachelor,Single,Travel_Rarely,No,2798,3,3,0,1,3,1,2,No
+2364,22,Male,R&D,Research Scientist,Master,Married,Travel_Rarely,No,4063,2,2,1,26,4,4,3,No
+2365,59,Female,Sales,Manager,College,Married,Travel_Frequently,No,7784,9,38,6,27,1,1,3,Yes
+2366,52,Female,Finance,Financial Analyst,Master,Married,Travel_Frequently,No,4780,10,32,5,18,3,3,1,No
+2367,43,Female,Sales,Manager,Below College,Divorced,Travel_Frequently,No,7999,3,19,3,21,3,2,4,Yes
+2368,29,Female,IT,Data Analyst,Bachelor,Single,Travel_Rarely,No,5333,7,7,7,15,3,3,4,Yes
+2369,52,Female,R&D,Research Scientist,Master,Single,Non-Travel,No,5735,11,32,5,22,3,4,2,No
+2370,31,Female,Sales,Sales Executive,College,Single,Travel_Rarely,No,3285,2,9,1,2,3,4,2,No
+2371,48,Male,R&D,Research Scientist,College,Married,Travel_Rarely,No,6877,16,24,6,9,1,4,4,No
+2372,33,Female,Sales,Sales Executive,Bachelor,Single,Travel_Rarely,No,6416,12,12,8,5,4,4,4,No
+2373,58,Male,R&D,Laboratory Technician,Bachelor,Married,Travel_Rarely,No,2117,0,35,0,23,4,2,2,Yes
+2374,53,Male,IT,IT Manager,Master,Married,Travel_Rarely,No,7878,6,30,5,9,1,3,4,No
+2375,50,Female,R&D,Research Scientist,Master,Single,Travel_Frequently,No,5701,10,27,8,23,2,4,1,No
+2376,33,Female,IT,Software Engineer,College,Single,Travel_Rarely,No,5359,12,12,1,21,2,1,2,No
+2377,51,Female,IT,IT Manager,Bachelor,Divorced,Travel_Frequently,No,6367,3,27,2,25,1,4,2,Yes
+2378,45,Male,Sales,Manager,Master,Single,Travel_Rarely,Yes,8674,11,25,2,19,1,4,1,No
+2379,55,Male,Finance,Manager,College,Divorced,Non-Travel,Yes,9197,8,35,1,3,4,3,4,No
+2380,33,Male,Finance,Accountant,Bachelor,Single,Travel_Rarely,No,5427,6,10,3,2,1,3,1,No
+2381,44,Male,Sales,Sales Representative,Below College,Single,Travel_Frequently,Yes,5994,14,24,0,18,3,4,4,No
+2382,36,Male,IT,Software Engineer,College,Married,Travel_Rarely,No,6261,11,15,7,20,3,1,2,Yes
+2383,56,Male,IT,Data Analyst,Master,Divorced,Travel_Rarely,No,3871,7,33,6,5,1,3,4,No
+2384,30,Female,IT,Software Engineer,Below College,Divorced,Travel_Rarely,No,4427,6,8,6,24,3,3,1,Yes
+2385,46,Male,IT,Software Engineer,Master,Married,Travel_Rarely,No,2589,1,25,1,6,1,2,1,No
+2386,37,Female,Sales,Sales Executive,College,Single,Non-Travel,No,5963,13,13,2,7,2,2,2,Yes
+2387,43,Female,Sales,Sales Executive,Master,Single,Travel_Rarely,Yes,2922,1,21,1,26,2,3,3,Yes
+2388,38,Male,IT,IT Manager,College,Single,Travel_Rarely,No,7603,6,14,1,28,2,2,2,Yes
+2389,56,Male,R&D,Laboratory Technician,Bachelor,Married,Travel_Rarely,No,3331,4,36,4,29,3,3,1,No
+2390,58,Male,Finance,Manager,Bachelor,Divorced,Travel_Rarely,Yes,6404,3,38,1,16,4,4,2,Yes
+2391,58,Female,Sales,Sales Executive,College,Married,Non-Travel,Yes,7700,18,38,3,5,4,3,1,Yes
+2392,45,Male,R&D,Manager,Master,Single,Travel_Rarely,No,8284,8,22,6,4,2,4,3,Yes
+2393,21,Male,IT,Data Analyst,College,Divorced,Travel_Rarely,Yes,2553,0,0,0,2,3,3,2,No
+2394,20,Female,IT,Software Engineer,Master,Single,Travel_Rarely,Yes,2613,0,0,0,8,2,1,1,Yes
+2395,28,Female,R&D,Manager,Bachelor,Single,Travel_Rarely,No,7064,5,5,2,3,3,3,2,No
+2396,54,Male,HR,Manager,Bachelor,Divorced,Travel_Rarely,No,7758,5,30,4,2,1,3,4,No
+2397,30,Female,Sales,Sales Executive,Bachelor,Married,Travel_Frequently,No,3706,3,8,2,23,1,2,3,Yes
+2398,52,Female,R&D,Manager,Bachelor,Married,Travel_Rarely,Yes,10955,16,28,0,26,2,3,4,No
+2399,28,Male,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,No,5109,6,6,1,19,3,3,1,No
+2400,54,Male,Sales,Sales Executive,College,Married,Travel_Frequently,No,8131,20,32,10,14,3,4,2,Yes
+2401,30,Male,IT,Data Analyst,Master,Married,Travel_Rarely,No,3740,2,8,2,23,2,1,1,Yes
+2402,20,Female,Sales,Sales Representative,Bachelor,Married,Travel_Rarely,No,2379,0,0,0,3,3,4,2,No
+2403,25,Male,HR,HR Specialist,Bachelor,Single,Travel_Frequently,No,3610,4,4,1,27,2,2,2,No
+2404,46,Male,Sales,Sales Executive,College,Divorced,Travel_Rarely,No,3575,4,22,0,13,1,3,4,No
+2405,45,Female,R&D,Research Scientist,College,Single,Travel_Rarely,No,7172,16,24,6,11,3,1,1,Yes
+2406,29,Male,IT,IT Manager,Doctorate,Divorced,Travel_Rarely,No,7025,6,9,5,21,2,4,1,Yes
+2407,32,Male,R&D,Research Scientist,Bachelor,Divorced,Travel_Frequently,Yes,5191,9,9,8,6,3,1,2,No
+2408,47,Male,Finance,Accountant,Bachelor,Married,Travel_Rarely,No,8406,19,25,8,3,1,3,4,No
+2409,59,Male,Finance,Financial Analyst,Bachelor,Married,Travel_Rarely,No,5397,9,38,1,8,1,2,3,No
+2410,42,Female,Sales,Sales Representative,Doctorate,Single,Travel_Rarely,No,4667,6,20,2,25,4,3,4,No
+2411,44,Male,R&D,Research Scientist,Bachelor,Divorced,Travel_Rarely,No,6655,17,21,10,17,3,4,2,Yes
+2412,41,Male,Finance,Manager,Bachelor,Married,Travel_Rarely,No,8357,10,17,9,3,3,4,3,No
+2413,57,Male,IT,Data Analyst,Bachelor,Married,Travel_Rarely,Yes,7250,17,34,4,28,4,1,3,Yes
+2414,36,Female,R&D,Manager,Doctorate,Married,Travel_Frequently,Yes,10726,14,15,4,21,4,1,4,No
+2415,44,Male,IT,Data Analyst,College,Married,Travel_Frequently,No,8056,17,21,9,23,1,3,3,No
+2416,48,Female,Finance,Accountant,Bachelor,Divorced,Travel_Rarely,No,6583,18,27,4,23,1,3,3,No
+2417,22,Female,R&D,Laboratory Technician,College,Single,Travel_Rarely,No,3712,2,2,2,17,4,3,4,No
+2418,50,Male,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,Yes,4818,4,26,0,28,2,4,4,No
+2419,52,Female,IT,Software Engineer,College,Married,Travel_Rarely,No,4464,6,30,5,25,3,1,4,No
+2420,59,Female,HR,Manager,Bachelor,Divorced,Travel_Rarely,No,7228,0,36,0,22,3,3,1,No
+2421,55,Female,Sales,Manager,College,Single,Travel_Rarely,No,10550,17,35,6,7,4,1,4,No
+2422,20,Female,R&D,Manager,College,Divorced,Travel_Rarely,No,5745,0,0,0,18,1,2,4,No
+2423,49,Male,Sales,Sales Executive,Bachelor,Single,Travel_Rarely,No,6079,13,25,9,19,3,3,2,No
+2424,25,Male,Finance,Accountant,Bachelor,Married,Travel_Rarely,No,3484,3,3,3,25,1,1,3,No
+2425,54,Female,Sales,Sales Representative,Master,Married,Travel_Rarely,No,3149,0,33,0,17,2,3,2,No
+2426,24,Female,HR,Manager,Bachelor,Single,Travel_Rarely,No,7453,0,0,0,21,1,4,4,No
+2427,26,Female,R&D,Research Scientist,Doctorate,Single,Travel_Rarely,No,3003,4,4,0,7,2,1,3,No
+2428,60,Female,Finance,Financial Analyst,Master,Single,Travel_Rarely,No,6560,14,40,6,21,2,1,1,Yes
+2429,55,Male,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,No,5187,9,33,5,5,3,1,1,No
+2430,49,Female,Sales,Manager,Master,Married,Travel_Frequently,No,7472,2,29,0,20,1,4,1,No
+2431,20,Male,R&D,Research Scientist,Master,Single,Travel_Frequently,No,2116,0,0,0,21,2,1,4,Yes
+2432,37,Female,Finance,Financial Analyst,Master,Married,Travel_Frequently,No,5184,10,16,1,17,4,2,3,Yes
+2433,29,Female,IT,Software Engineer,Bachelor,Single,Non-Travel,Yes,5959,8,8,8,8,1,1,2,No
+2434,23,Male,R&D,Laboratory Technician,Bachelor,Married,Travel_Rarely,No,3880,0,0,0,25,4,1,2,Yes
+2435,47,Female,R&D,Manager,Doctorate,Married,Travel_Frequently,No,7391,2,23,1,1,4,3,3,No
+2436,29,Male,Finance,Manager,Bachelor,Single,Travel_Frequently,No,7816,7,7,2,23,4,2,3,Yes
+2437,49,Female,Sales,Sales Representative,Master,Single,Travel_Rarely,Yes,8482,18,27,0,28,3,3,4,No
+2438,44,Male,Sales,Manager,College,Married,Travel_Frequently,No,9603,13,23,9,13,2,1,4,No
+2439,44,Male,Sales,Sales Representative,Master,Married,Travel_Rarely,No,8289,19,20,7,18,2,2,3,No
+2440,43,Female,R&D,Research Scientist,Master,Divorced,Travel_Frequently,Yes,5321,9,23,1,28,3,2,1,Yes
+2441,32,Male,HR,Manager,Below College,Divorced,Travel_Rarely,No,7093,4,11,3,10,1,1,1,Yes
+2442,24,Female,HR,Manager,College,Divorced,Travel_Rarely,No,5992,1,3,0,1,1,2,3,No
+2443,28,Male,IT,Software Engineer,Master,Divorced,Travel_Rarely,No,3327,4,4,0,24,3,4,3,No
+2444,29,Male,Finance,Manager,Bachelor,Single,Travel_Rarely,Yes,7623,5,5,2,14,2,1,4,No
+2445,56,Male,HR,HR Specialist,College,Single,Travel_Rarely,No,6349,12,34,6,12,1,1,4,No
+2446,56,Female,Finance,Financial Analyst,Doctorate,Married,Travel_Rarely,No,3507,4,33,1,26,3,1,3,No
+2447,32,Female,Finance,Manager,Bachelor,Divorced,Travel_Rarely,No,8516,8,8,7,16,1,1,1,No
+2448,46,Male,R&D,Research Scientist,Bachelor,Single,Travel_Rarely,No,4459,5,22,0,7,2,3,1,No
+2449,39,Female,IT,Software Engineer,Bachelor,Divorced,Travel_Rarely,No,5133,9,16,2,1,1,3,4,No
+2450,20,Female,R&D,Research Scientist,Bachelor,Married,Non-Travel,Yes,3881,0,0,0,23,1,4,1,No
+2451,57,Female,Sales,Manager,College,Married,Travel_Rarely,No,8739,8,37,5,27,2,3,1,No
+2452,26,Female,IT,IT Manager,College,Married,Non-Travel,Yes,7483,3,3,3,22,4,3,2,No
+2453,20,Male,Sales,Sales Representative,College,Divorced,Travel_Rarely,No,2037,0,0,0,25,3,1,3,Yes
+2454,33,Female,R&D,Manager,Bachelor,Married,Travel_Rarely,No,8624,5,10,2,27,1,2,3,No
+2455,48,Male,HR,HR Specialist,Bachelor,Divorced,Travel_Rarely,No,5578,12,27,3,23,3,1,4,No
+2456,28,Male,R&D,Laboratory Technician,Bachelor,Divorced,Travel_Frequently,No,5240,6,8,6,1,4,3,3,No
+2457,52,Female,R&D,Research Scientist,College,Single,Travel_Rarely,Yes,8522,19,32,2,8,1,1,3,No
+2458,41,Female,R&D,Research Scientist,Master,Single,Travel_Rarely,No,4993,10,17,6,6,3,2,4,Yes
+2459,30,Male,Finance,Manager,Bachelor,Married,Travel_Rarely,Yes,8977,10,10,0,9,4,1,4,No
+2460,28,Male,HR,Manager,Bachelor,Divorced,Travel_Rarely,No,9185,8,8,4,20,3,4,1,No
+2461,46,Male,IT,Software Engineer,College,Married,Non-Travel,Yes,3725,5,23,4,1,4,1,3,Yes
+2462,55,Female,Sales,Sales Representative,College,Single,Non-Travel,No,5400,6,35,3,27,4,1,3,No
+2463,22,Male,IT,Software Engineer,Bachelor,Single,Travel_Frequently,Yes,3277,0,0,0,18,4,3,1,No
+2464,35,Male,Finance,Accountant,Master,Married,Travel_Rarely,Yes,6160,11,14,9,7,3,3,2,No
+2465,27,Male,R&D,Research Scientist,Bachelor,Married,Travel_Frequently,Yes,4017,1,4,1,15,4,1,2,Yes
+2466,57,Male,Sales,Manager,College,Divorced,Non-Travel,No,8461,10,37,8,17,3,3,3,No
+2467,42,Female,R&D,Laboratory Technician,Master,Divorced,Travel_Rarely,No,4331,6,18,2,6,3,3,4,No
+2468,23,Female,R&D,Laboratory Technician,Bachelor,Married,Non-Travel,Yes,3721,0,0,0,5,4,1,4,Yes
+2469,46,Female,IT,Data Analyst,Bachelor,Single,Travel_Rarely,Yes,3055,4,26,0,3,1,3,3,No
+2470,25,Female,HR,Manager,Bachelor,Single,Travel_Rarely,No,7171,2,2,0,2,1,3,4,Yes
+2471,48,Female,R&D,Laboratory Technician,Bachelor,Married,Travel_Rarely,No,6392,12,28,5,26,3,2,1,No
+2472,25,Female,Sales,Manager,Master,Divorced,Travel_Rarely,No,6676,2,2,1,13,4,2,4,No
+2473,55,Female,R&D,Manager,Doctorate,Divorced,Travel_Rarely,No,11331,17,32,7,6,3,4,1,No
+2474,35,Male,Sales,Sales Representative,College,Single,Travel_Rarely,Yes,6751,15,15,9,8,1,3,4,No
+2475,28,Male,Sales,Manager,Master,Married,Travel_Frequently,No,7159,4,4,3,8,1,2,2,No
+2476,31,Female,IT,IT Manager,Master,Divorced,Travel_Rarely,No,9476,10,10,2,18,2,2,2,Yes
+2477,26,Female,Sales,Manager,Bachelor,Single,Travel_Frequently,No,7057,2,6,1,9,2,2,2,No
+2478,29,Male,HR,Manager,College,Married,Non-Travel,No,8413,6,6,3,11,1,3,3,No
+2479,59,Male,R&D,Manager,Bachelor,Married,Travel_Frequently,No,11217,17,38,3,27,1,1,1,No
+2480,60,Male,Sales,Sales Representative,Bachelor,Divorced,Travel_Rarely,No,7673,15,39,0,3,4,2,2,No
+2481,50,Male,R&D,Laboratory Technician,Below College,Divorced,Travel_Rarely,Yes,2775,0,27,0,26,3,1,2,Yes
+2482,22,Female,Sales,Manager,Master,Married,Travel_Rarely,Yes,6883,0,0,0,21,4,3,1,Yes
+2483,28,Female,R&D,Laboratory Technician,College,Married,Travel_Rarely,No,3725,0,4,0,2,4,2,1,No
+2484,36,Female,IT,Software Engineer,College,Divorced,Travel_Frequently,No,5572,9,16,9,19,3,3,4,No
+2485,56,Female,R&D,Laboratory Technician,Below College,Married,Travel_Rarely,Yes,4166,2,32,2,11,4,1,3,Yes
+2486,38,Male,IT,Software Engineer,College,Divorced,Travel_Rarely,No,3267,4,17,4,4,3,4,1,No
+2487,41,Female,Sales,Sales Executive,Bachelor,Divorced,Travel_Rarely,Yes,4873,10,17,2,22,1,1,1,Yes
+2488,53,Female,Sales,Manager,Master,Divorced,Travel_Rarely,Yes,9214,9,30,8,15,2,3,4,No
+2489,33,Female,R&D,Research Scientist,Doctorate,Married,Non-Travel,No,5596,9,9,8,18,4,1,3,Yes
+2490,32,Female,HR,Manager,Master,Married,Travel_Rarely,No,8301,8,8,7,1,3,4,3,No
+2491,32,Male,R&D,Laboratory Technician,College,Divorced,Non-Travel,No,5808,12,12,2,26,4,2,2,No
+2492,20,Male,R&D,Research Scientist,Bachelor,Divorced,Travel_Frequently,No,3947,0,0,0,9,3,4,4,No
+2493,51,Female,IT,Software Engineer,Bachelor,Married,Travel_Rarely,Yes,3264,5,31,3,2,4,3,1,No
+2494,23,Female,IT,Software Engineer,Master,Married,Travel_Rarely,No,3065,3,3,3,6,3,3,1,No
+2495,32,Female,Sales,Sales Executive,Master,Married,Non-Travel,Yes,5776,8,8,3,2,2,3,4,No
+2496,39,Female,Sales,Manager,Master,Divorced,Non-Travel,No,7092,6,18,4,26,4,1,2,No
+2497,37,Male,Sales,Manager,Bachelor,Married,Travel_Frequently,No,9186,8,16,7,20,1,4,1,Yes
+2498,55,Female,Sales,Sales Executive,Bachelor,Married,Travel_Rarely,No,4150,6,35,3,2,3,1,3,No
+2499,20,Female,R&D,Manager,Bachelor,Divorced,Travel_Rarely,No,7319,0,0,0,11,2,3,1,Yes
+2500,30,Female,Finance,Accountant,Bachelor,Single,Travel_Rarely,No,3724,4,8,2,17,1,2,1,No

@@ -1,0 +1,16 @@
+# Rename this file to ".gitignore" in your repo
+
+# Power BI temp / cache
+*.tmp
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Keep the generated data OUT of git if you prefer a clean repo (optional):
+# data/hr_employees.csv

@@ -1,0 +1,84 @@
+// =====================================================================
+// DAX MEASURES — Employee Attrition Dashboard
+// Table name assumed: Employees  (rename to match your loaded table)
+// Create each as a NEW MEASURE in Power BI (Modeling > New measure).
+// =====================================================================
+
+// --- Core counts -----------------------------------------------------
+Total Employees = COUNTROWS ( Employees )
+
+Attrition Count =
+CALCULATE ( [Total Employees], Employees[Attrition] = "Yes" )
+
+Active Headcount =
+CALCULATE ( [Total Employees], Employees[Attrition] = "No" )
+
+// --- Rates -----------------------------------------------------------
+Attrition Rate =
+DIVIDE ( [Attrition Count], [Total Employees] )
+// Format this measure as Percentage (0.0%)
+
+// --- Averages --------------------------------------------------------
+Avg Tenure = AVERAGE ( Employees[YearsAtCompany] )
+
+Avg Monthly Income = AVERAGE ( Employees[MonthlyIncome] )
+
+// --- Overtime driver (comparison measures for callouts) --------------
+Attrition Rate (Overtime) =
+CALCULATE ( [Attrition Rate], Employees[OverTime] = "Yes" )
+
+Attrition Rate (No Overtime) =
+CALCULATE ( [Attrition Rate], Employees[OverTime] = "No" )
+
+Overtime Risk Multiple =
+DIVIDE ( [Attrition Rate (Overtime)], [Attrition Rate (No Overtime)] )
+// e.g. shows "3.0x" — great for an insight callout
+
+// =====================================================================
+// CALCULATED COLUMNS (Modeling > New column) — for clean chart grouping
+// =====================================================================
+
+Age Band =
+SWITCH (
+    TRUE (),
+    Employees[Age] < 30, "20-29",
+    Employees[Age] < 40, "30-39",
+    Employees[Age] < 50, "40-49",
+    "50+"
+)
+
+Tenure Band =
+SWITCH (
+    TRUE (),
+    Employees[YearsAtCompany] <= 2,  "0-2 yrs",
+    Employees[YearsAtCompany] <= 5,  "3-5 yrs",
+    Employees[YearsAtCompany] <= 10, "6-10 yrs",
+    "10+ yrs"
+)
+
+Income Band =
+SWITCH (
+    TRUE (),
+    Employees[MonthlyIncome] < 3000, "< 3k",
+    Employees[MonthlyIncome] < 5000, "3k-5k",
+    Employees[MonthlyIncome] < 8000, "5k-8k",
+    "8k+"
+)
+
+Distance Band =
+SWITCH (
+    TRUE (),
+    Employees[DistanceFromHome] <= 5,  "0-5 km",
+    Employees[DistanceFromHome] <= 15, "6-15 km",
+    "15+ km"
+)
+
+// High-risk flag: overtime + low satisfaction + short tenure
+High Risk Flag =
+IF (
+    Employees[OverTime] = "Yes"
+        && Employees[JobSatisfaction] <= 2
+        && Employees[YearsAtCompany] <= 2,
+    "High Risk",
+    "Standard"
+)
