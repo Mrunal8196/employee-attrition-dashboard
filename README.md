@@ -1,87 +1,59 @@
-# 📊 Employee Attrition — People Analytics Dashboard
+# Employee Attrition Dashboard (Power BI)
 
-An interactive Power BI dashboard that answers a real HR business question:
-**"Where are we losing people, who is most at risk, and what's driving it?"**
+I built this project while teaching myself Power BI, as I move from data analysis toward a
+People Analytics / HR Data Analyst role. I wanted to practise the whole workflow end to end —
+preparing the data, writing my own DAX, and turning it into something an HR team could
+actually use to make decisions, not just a set of charts.
 
-Built to demonstrate end-to-end People Analytics: data preparation, DAX modelling,
-and turning workforce data into decisions for HR and leadership.
+The question I set out to answer: **where are we losing people, who is most at risk, and
+what's driving it?**
 
-> **Live dashboard:** _add your Power BI "Publish to web" link here_
-> **Author:** Mrunali Patil · People Analytics / HR Data Analyst · Berlin
+*(The dataset is synthetic — I generated ~1,500 employee records with realistic patterns so
+there's no real personal data involved.)*
 
----
+## Screenshots
 
-## 🔎 Business question
+![Overview page](screenshots/page1.png)
+![Drivers and risk page](screenshots/page2.png)
 
-HR leadership needs to know **where attrition is concentrated, which employees are most
-at risk, and what factors drive it** — so retention effort and budget go to the right places.
+You can also open `attrition_dashboard.pdf` to see both pages, or `attrition_dashboard.pbix`
+in Power BI Desktop to explore it interactively.
 
-## 💡 Key insights (fill in with your own numbers after building)
+## What I found
 
-- Overall attrition rate: **~16%** (1,470 employees).
-- Employees working **overtime leave at roughly 3× the rate** of those who don't.
-- Attrition is highest in the **first 1–2 years of tenure** and among **lower-income bands**.
-- **Low job satisfaction + overtime + short tenure** = the highest-risk segment.
+- Attrition sits at about **32%** overall across the 1,500 employees.
+- The strongest driver by far is **overtime** — people working overtime leave at roughly
+  **2× the rate** of those who don't. That surprised me; it beat income as a predictor.
+- Exits are concentrated in the **first 0–2 years** of tenure and in the **lowest income band**.
+- When I combined the risk factors (overtime + low job satisfaction + short tenure), that
+  small segment showed a **72% attrition rate** vs about 31% for everyone else.
 
-*(Replace the above with the exact figures from your build — recruiters love specifics.)*
+## What I'd tell an HR team to do about it
 
----
+- Look hard at overtime for early-tenure employees — that's where most exits come from.
+- Put retention and onboarding effort into the first two years.
+- Track the high-risk segment as a standing metric rather than reacting after people leave.
 
-## 🗂️ Dashboard pages
+## How I built it
 
-**Page 1 — Overview ("Where")**
-KPI cards (attrition rate, headcount, attrition count, avg tenure, avg income) +
-attrition by department, job role, age band and tenure band. Slicers for department,
-gender, job role, overtime.
+- **Data:** a Python script (`data/generate_hr_data.py`) that generates the employee dataset
+  with attrition weighted by overtime, tenure, satisfaction, income and commute distance.
+- **Modelling:** DAX measures and calculated columns in Power BI — attrition rate, the
+  overtime comparison, and banding columns for age, tenure, income and distance
+  (see `dax/measures.dax`).
+- **Report:** two pages in Power BI Desktop — an overview and a drivers/risk view, with
+  slicers so you can filter by department, gender, role and overtime.
 
-**Page 2 — Drivers & Risk ("Why / Who")**
-Attrition by overtime, job satisfaction, work-life balance, income band and distance
-from home, plus a high-risk-segment table and written insight callouts.
+If you want to rebuild it, run `python data/generate_hr_data.py` to create the CSV, then open
+the `.pbix` (my build notes are in `docs/BUILD_GUIDE.md`).
 
----
+## What I'd do next
 
-## 🧱 How it's built
-
-| Layer | Tool |
-|---|---|
-| Data | `generate_hr_data.py` (synthetic, ~1,500 rows) *or* IBM HR Attrition dataset |
-| Modelling & measures | Power BI + DAX (see `measures.dax`) |
-| Visualisation | Power BI Desktop → Power BI Service |
-
-Full step-by-step in **BUILD_GUIDE.md**.
-
----
-
-## ▶️ Reproduce it
-
-```bash
-# Option A: generate synthetic data
-python generate_hr_data.py        # creates hr_employees.csv
-
-# Option B: download the IBM HR Attrition dataset from Kaggle and use that CSV
-```
-Then open Power BI Desktop, load `hr_employees.csv`, and follow `BUILD_GUIDE.md`.
+- Rebuild it on a real HR dataset instead of synthetic data.
+- Add a simple predictive risk score per employee rather than a rules-based flag.
+- Add trend-over-time once there's historical data to work with.
 
 ---
 
-## 📁 Recommended repo structure
-
-```
-attrition-people-analytics/
-├── README.md
-├── data/
-│   ├── generate_hr_data.py
-│   └── hr_employees.csv        # produced by the script
-├── dax/
-│   └── measures.dax
-├── docs/
-│   └── BUILD_GUIDE.md
-├── screenshots/                # add page1.png, page2.png after building
-└── attrition_dashboard.pbix    # add after you build it in Power BI Desktop
-```
-*(The files in this folder are flat — move them into the structure above when you set up the repo.)*
-
-## 🛠️ Skills demonstrated
-
-Data modelling · DAX measures · data cleansing & banding · KPI design ·
-People Analytics (attrition, retention, headcount, DEI) · dashboard storytelling.
+Built by Mrunali Patil while transitioning into People Analytics. Feedback is welcome —
+I'm still learning and happy to hear how to make it better.
